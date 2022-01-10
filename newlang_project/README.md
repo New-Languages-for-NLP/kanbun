@@ -21,7 +21,6 @@ Commands are only re-run if their inputs have changed.
 | `install` | Install the new language object from Cadet |
 | `convert` | Convert the data to spaCy's format |
 | `split` | Split the data into train, validation, and test |
-| `config` | Generate config file |
 | `debug` | Assess data for training using spaCy's debug data |
 | `train` | Train urban-giggle |
 | `evaluate` | Evaluate on the test data and save the metrics |
@@ -37,7 +36,7 @@ inputs have changed.
 
 | Workflow | Steps |
 | --- | --- |
-| `all` | `install` &rarr; `convert` &rarr; `split` &rarr; `config` &rarr; `debug` &rarr; `train` &rarr; `evaluate` &rarr; `package` &rarr; `document` |
+| `all` | `install` &rarr; `convert` &rarr; `split` &rarr; `debug` &rarr; `train` &rarr; `evaluate` &rarr; `package` &rarr; `document` |
 
 ### 🗂 Assets
 

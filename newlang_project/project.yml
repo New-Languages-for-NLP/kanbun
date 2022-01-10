@@ -6,9 +6,9 @@ description: "This project template lets you train a part-of-speech tagger, morp
 # Variables can be referenced across the project.yml using ${vars.var_name}
 
 vars:
-  config: "config"
-  lang: "yi"
-  treebank: "urban-giggle"
+  config: "config.cfg"
+  lang: "kanbun"
+  treebank: "kanbun"
   test_size: 0.2
   n_sents: 10
   random_state: 11
@@ -33,7 +33,6 @@ workflows:
     - install
     - convert
     - split
-    - config
     - debug
     - train
     - evaluate
@@ -71,27 +70,20 @@ commands:
       - "corpus/train.spacy"
       - "corpus/dev.spacy"
       - "corpus/test.spacy"
-      
-
-  - name: config
-    help: "Generate config file, and change to wandb logger"
-    script:
-      - "python -m spacy init config config.cfg --lang ${vars.lang} --gpu ${vars.gpu} -F"
-      - "python scripts/update_config.py ${vars.treebank} ${vars.wandb}"
-      
+       
   - name: debug
     help: "Assess data for training using spaCy's debug data"
     script:
-      - "python -m spacy debug data ./config.cfg"
+      - "python -m spacy debug data configs/${vars.config}"
       
   - name: train
     help: "Train ${vars.treebank}"
     script:
-      - "python -m spacy train config.cfg --output training/${vars.treebank} --gpu-id ${vars.gpu} --nlp.lang=${vars.lang}"
+      - "python -m spacy train configs/${vars.config} --output training/${vars.treebank} --gpu-id ${vars.gpu} --nlp.lang=${vars.lang}"
     deps:
       - "corpus/converted/train.spacy"
       - "corpus/converted/dev.spacy"
-      - "config.cfg"
+      - "configs/${vars.config}"
     outputs:
       - "training/${vars.treebank}/model-best"
 
