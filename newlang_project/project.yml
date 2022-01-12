@@ -1,5 +1,5 @@
-title: "Train new language model from cadet and inception data"
-description: "This project template lets you train a part-of-speech tagger, morphologizer and dependency parser from your cadet and inception data."
+title: "Named Entity Recognition in the Dai Nihon Shi"
+description: "This project trains a named entity recognizer on annotated text from the [_Dai Nihon Shi_](https://en.wikipedia.org/wiki/Dai_Nihonshi), a major scholarly work of Edo-period Japan."
   
 # Adapted from https://github.com/explosion/projects/blob/v3/pipelines/tagger_parser_ud/project.yml
 # and https://github.com/BCDH/spacy-serbian-pipeline/blob/binder/tagger_parser_lookups_srp/project.yml
@@ -7,19 +7,19 @@ description: "This project template lets you train a part-of-speech tagger, morp
 
 vars:
   config: "config.cfg"
-  lang: "kanbun"
+  lang: "lzh"
   treebank: "kanbun"
   test_size: 0.2
   n_sents: 10
   random_state: 11
-  package_name: "new language"
-  package_version: "0.0.0"
+  package_name: "kanbun"
+  package_version: "0.0.1"
   wandb: false 
   gpu: 0
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
-directories: ["assets", "corpus", "corpus/conllu", "corpus/conll", "corpus/converted", "training", "metrics", "configs", "output", "export", "packages"]
+directories: ["assets", "corpus", "corpus/conll", "corpus/converted", "training", "metrics", "configs", "output", "export", "packages"]
 
 assets:
   - dest: "assets/${vars.treebank}"
