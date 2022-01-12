@@ -1,15 +1,15 @@
 【 O
 孝 O
 德 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 】 O
 孝 O
 德 O
 間 O
 人 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 ， O
 舒 O
 明 O
@@ -29,8 +29,8 @@
 
 立 O
 為 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 
 白 O
@@ -38,9 +38,9 @@
 四 O
 年 O
 ， O
-皇 B-PER
-太 I-PER
-子 I-PER
+皇 B-PERSON
+太 I-PERSON
+子 I-PERSON
 奏 O
 請 O
 遷 O
@@ -110,9 +110,9 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -139,13 +139,13 @@
 有 O
 間 O
 
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -170,9 +170,9 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -180,8 +180,8 @@
 天 O
 智 O
 
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 】 O
 
 天 O
@@ -189,8 +189,8 @@
 倭 O
 姬 O
 王 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 ， O
 古 O
 人皇 O
@@ -206,14 +206,14 @@
 
 立 O
 為 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 】 O
 嬪 O
@@ -276,8 +276,8 @@
 、 O
 
 建 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 ， O
 
 【 O
@@ -297,20 +297,20 @@
 
 生 O
 建 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 、 O
 
 大 O
 田 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 、 O
 
 鸕 O
 野 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 ， O
 與 O
 本 O
@@ -338,15 +338,15 @@
 生 O
 大 O
 田 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 、 O
 
 娑 O
 羅 O
 羅 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 。 O
 
 】 O
@@ -416,9 +416,9 @@
 卒 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 】 O
 嬪 O
@@ -475,9 +475,9 @@
 帝 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 ○ O
@@ -602,13 +602,13 @@
 新 O
 田 O
 部 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -674,9 +674,9 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -701,9 +701,9 @@
 王 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -721,15 +721,15 @@
 日 O
 
 宮 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 施 O
 基 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -751,9 +751,9 @@
 友 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -761,8 +761,8 @@
 弘 O
 文 O
 
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 】 O
 帝 O
 大 O
@@ -770,8 +770,8 @@
 妃 O
 十 O
 市 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 ， O
 
 天 O
@@ -781,9 +781,9 @@
 也 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -796,9 +796,9 @@
 。 O
 
 【 O
-懷 B-OTH
-風 I-OTH
-藻 I-OTH
+懷 B-WORK_OF_ART
+風 I-WORK_OF_ART
+藻 I-WORK_OF_ART
 。 O
 】 O
 及 O
@@ -806,8 +806,8 @@
 徵 O
 兵 O
 ， O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 裁 O
 書 O
 告 O
@@ -816,8 +816,8 @@
 。 O
 
 【 O
-水 B-OTH
-鏡 I-OTH
+水 B-WORK_OF_ART
+鏡 I-WORK_OF_ART
 、 O
 愚 O
 
@@ -842,9 +842,9 @@
 穗 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 】 O
 耳 O
@@ -889,9 +889,9 @@
 。 O
 
 【 O
-懷 B-OTH
-風 I-OTH
-藻 I-OTH
+懷 B-WORK_OF_ART
+風 I-WORK_OF_ART
+藻 I-WORK_OF_ART
 。 O
 】 O
 生 O
@@ -913,15 +913,15 @@
 天 O
 武 O
 
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 】 O
 天 O
 武 O
 鸕 O
 野 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 ， O
 
 天 O
@@ -933,8 +933,8 @@
 
 帝 O
 為 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 時 O
 ， O
 納 O
@@ -946,8 +946,8 @@
 生 O
 岡 O
 宮 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 草 O
 壁 O
 。 O
@@ -958,8 +958,8 @@
 ， O
 立 O
 為 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 
 及 O
@@ -981,17 +981,17 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
 妃 O
 大 O
 田 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 ， O
 
 天 O
@@ -1003,8 +1003,8 @@
 
 帝 O
 為 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 時 O
 ， O
 納 O
@@ -1015,14 +1015,14 @@
 生 O
 大 O
 伯 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 、 O
 
 大 O
 津 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 。 O
 
 薨 O
@@ -1039,17 +1039,17 @@
 。 O
 
 【 O
-日 B-PER
-本 I-PER
-紀 I-PER
+日 B-PERSON
+本 I-PERSON
+紀 I-PERSON
 。 O
 
 】 O
 妃 O
 大 O
 江 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 ， O
 天 O
 智 O
@@ -1065,13 +1065,13 @@
 、 O
 弓 O
 削 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1096,9 +1096,9 @@
 
 【 O
 續 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1106,8 +1106,8 @@
 新 O
 田 O
 部 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 ， O
 
 天 O
@@ -1130,9 +1130,9 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1150,9 +1150,9 @@
 
 【 O
 續 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1198,9 +1198,9 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1226,9 +1226,9 @@
 王 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1242,8 +1242,8 @@
 左 O
 大 O
 臣 O
-蘇 B-PER
-我 I-PER
+蘇 B-PERSON
+我 I-PERSON
 赤 O
 兄 O
 女 O
@@ -1257,8 +1257,8 @@
 王 O
 、 O
 紀 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 、 O
 
 田 O
@@ -1268,9 +1268,9 @@
 王 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 】 O
 敘 O
@@ -1347,9 +1347,9 @@
 女 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1369,14 +1369,14 @@
 生 O
 高 O
 市 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1423,8 +1423,8 @@
 
 磯 O
 城 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 、 O
 
 泊 O
@@ -1443,10 +1443,9 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
-

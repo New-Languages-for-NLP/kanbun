@@ -1,8 +1,8 @@
 【 O
 安 O
 寧 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 】 O
 安 O
 
@@ -42,9 +42,9 @@
 鴨 O
 王 O
 ， O
-舊 B-PER
-事 I-PER
-紀 I-PER
+舊 B-PERSON
+事 I-PERSON
+紀 I-PERSON
 、 O
 
 皇 O
@@ -132,9 +132,9 @@
 井 O
 媛 O
 。 O
-古 B-OTH
-事 I-OTH
-記 I-OTH
+古 B-WORK_OF_ART
+事 I-WORK_OF_ART
+記 I-WORK_OF_ART
 曰 O
 ， O
 
@@ -342,9 +342,9 @@
 
 下 O
 據 O
-舊 B-OTH
-事 I-OTH
-紀 I-OTH
+舊 B-WORK_OF_ART
+事 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -469,9 +469,9 @@
 【 O
 ○ O
 
-古 B-OTH
-事 I-OTH
-記 I-OTH
+古 B-WORK_OF_ART
+事 I-WORK_OF_ART
+記 I-WORK_OF_ART
 作 O
 忍 O
 鹿 O
@@ -639,9 +639,9 @@
 后 O
 。 O
 而 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 不 O
 載 O
 ， O
@@ -685,9 +685,9 @@
 城 O
 ， O
 
-古 B-OTH
-事 I-OTH
-記 I-OTH
+古 B-WORK_OF_ART
+事 I-WORK_OF_ART
+記 I-WORK_OF_ART
 作 O
 十 O
 市 O
@@ -784,9 +784,9 @@
 。 O
 ○ O
 
-古 B-OTH
-事 I-OTH
-記 I-OTH
+古 B-WORK_OF_ART
+事 I-WORK_OF_ART
+記 I-WORK_OF_ART
 作 O
 意 O
 
@@ -944,4 +944,3 @@
 。 O
 
 】 O
-
