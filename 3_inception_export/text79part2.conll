@@ -160,7 +160,9 @@
 
 】 O
 年 O
-三十三 O
+三 O
+十 O
+三 O
 。 O
 
 【 O
@@ -178,7 +180,8 @@
 】 O
 稱 O
 堀 O
-河中 O
+河 O
+中 O
 宮 O
 。 O
 
@@ -414,7 +417,8 @@
 
 及 O
 堀 O
-河中 O
+河 O
+中 O
 宮 O
 崩 O
 ， O
@@ -727,7 +731,9 @@
 崩 O
 ， O
 年 O
-六十一 O
+六 O
+十 O
+一 O
 。 O
 
 【 O
@@ -1011,7 +1017,8 @@
 謂 O
 女 O
 御 O
-有子 O
+有 O
+子 O
 ， O
 
 必 O
@@ -1177,9 +1184,9 @@
 過 O
 兼 O
 家 O
-東 B-null
-三 I-null
-條 I-null
+東 O
+三 O
+條 O
 第 O
 ， O
 
@@ -1733,7 +1740,8 @@
 御 O
 齋 O
 會 O
-慶之 O
+慶 O
+之 O
 。 O
 【 O
 小 B-WORK_OF_ART
@@ -1788,7 +1796,8 @@
 賀 O
 后 O
 壽 O
-四十 O
+四 O
+十 O
 
 ， O
 又 O
@@ -1800,7 +1809,8 @@
 壽 O
 。 O
 閏 O
-十二 O
+十 O
+二 O
 月 O
 ， O
 后 O
@@ -1905,7 +1915,8 @@
 ， O
 
 年 O
-四十 O
+四 O
+十 O
 。 O
 
 【 O
@@ -1938,7 +1949,9 @@
 崩 O
 
 年 O
-四十一 O
+四 O
+十 O
+一 O
 ， O
 
 誤 O
@@ -2154,7 +2167,8 @@
 】 O
 時 O
 年 O
-十五 O
+十 O
+五 O
 。 O
 
 【 O
@@ -2320,7 +2334,8 @@
 ， O
 
 年 O
-二十 O
+二 O
+十 O
 。 O
 【 O
 小 B-WORK_OF_ART
@@ -2347,16 +2362,17 @@
 
 】 O
 【 O
-華山 B-PERSON
+華 B-PERSON
+山 I-PERSON
 天 I-PERSON
 皇 I-PERSON
 】 O
-華山 O
+華 O
+山 O
 女 O
 御 O
 藤 B-PERSON
-
-原 O
+原 I-PERSON
 忯 O
 子 O
 ， O
@@ -2707,9 +2723,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -2815,9 +2830,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -2839,7 +2853,8 @@
 捨 O
 身 O
 于 O
-華山 B-LOC
+華 B-LOC
+山 I-LOC
 寺 I-LOC
 ， O
 
@@ -2994,7 +3009,8 @@
 
 及 O
 堀 O
-河中 O
+河 O
+中 O
 宮 O
 遺 O
 物 O
@@ -3124,9 +3140,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -3310,9 +3325,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -3560,7 +3574,9 @@
 
 】 O
 年 O
-二十七 O
+二 O
+十 O
+七 O
 。 O
 
 【 O
@@ -3607,7 +3623,8 @@
 ， O
 
 出 O
-華山 O
+華 O
+山 O
 而 O
 居 O
 東 B-LOC
@@ -3622,9 +3639,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -3658,9 +3674,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -3774,9 +3789,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -3880,7 +3894,8 @@
 時 O
 后 O
 年 O
-十五 O
+十 O
+五 O
 ， O
 
 長 O
@@ -3901,7 +3916,8 @@
 作 O
 后 O
 年 O
-十六 O
+十 O
+六 O
 。 O
 大 B-WORK_OF_ART
 鏡 I-WORK_OF_ART
@@ -3914,7 +3930,8 @@
 要 I-WORK_OF_ART
 記 I-WORK_OF_ART
 ， O
-十四 O
+十 O
+四 O
 。 O
 
 今 O
@@ -4118,9 +4135,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -4178,15 +4194,15 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
 
 】 O
-十二 O
+十 O
+二 O
 月 O
 ， O
 生 O
@@ -4311,9 +4327,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -4413,7 +4428,8 @@
 。 O
 
 】 O
-十一 O
+十 O
+一 O
 月 O
 ， O
 生 O
@@ -4526,9 +4542,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -4694,9 +4709,8 @@
 ， O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -4751,9 +4765,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -4776,7 +4789,9 @@
 崩 O
 ， O
 年 O
-二十五 O
+二 O
+十 O
+五 O
 。 O
 【 O
 日 B-WORK_OF_ART
@@ -4794,9 +4809,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -4918,9 +4932,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -5002,9 +5015,8 @@
 貴 O
 。 O
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -5143,7 +5155,8 @@
 時 O
 后 O
 年 O
-十二 O
+十 O
+二 O
 。 O
 帝 O
 曰 O
@@ -5263,9 +5276,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -5333,7 +5345,9 @@
 
 七 O
 月 O
-二十三 O
+二 O
+十 O
+三 O
 日 O
 ， O
 中 O
@@ -5415,9 +5429,8 @@
 ， O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -5512,15 +5525,15 @@
 
 」 O
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
 
 】 O
-十一 O
+十 O
+一 O
 月 O
 ， O
 后 O
@@ -5535,7 +5548,8 @@
 
 明 O
 年 O
-十二 O
+十 O
+二 O
 月 O
 ， O
 生 O
@@ -5820,9 +5834,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -6029,9 +6042,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -6439,9 +6451,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -6563,7 +6574,9 @@
 堂 O
 ， O
 年 O
-八十七 O
+八 O
+十 O
+七 O
 。 O
 
 【 O
@@ -6573,7 +6586,9 @@
 傳 I-WORK_OF_ART
 或 O
 做 O
-八十六 O
+八 O
+十 O
+六 O
 ， O
 
 又 O
@@ -6583,7 +6598,9 @@
 
 記 O
 作 O
-八十五 O
+八 O
+十 O
+五 O
 。 O
 
 今 O
@@ -6591,7 +6608,8 @@
 生 O
 年 O
 推 O
-甲子 O
+甲 O
+子 O
 ， O
 從 O
 扶 B-WORK_OF_ART
@@ -6828,7 +6846,8 @@
 記 I-WORK_OF_ART
 。 O
 】 O
-萬壽 O
+萬 O
+壽 O
 三 O
 年 O
 ， O
@@ -6862,7 +6881,8 @@
 薨 O
 ， O
 年 O
-八十 O
+八 O
+十 O
 。 O
 【 O
 一 B-WORK_OF_ART
@@ -7260,9 +7280,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -7412,9 +7431,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
@@ -7506,9 +7524,8 @@
 。 O
 
 【 O
-榮 O
-
-華 B-WORK_OF_ART
+榮 B-WORK_OF_ART
+華 I-WORK_OF_ART
 物 I-WORK_OF_ART
 語 I-WORK_OF_ART
 。 O
