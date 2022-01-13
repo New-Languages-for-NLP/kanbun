@@ -9,9 +9,6 @@ def convert(export_path: Path, n_sents: int):
     export_path = Path(export_path)
     assert export_path.exists()
 
-    conll_path = Path.cwd() / "corpus" / "conll"
-    assert conll_path.exists()
-
     converted_path = Path.cwd() / "corpus" / "converted"
     assert converted_path.exists()
 
