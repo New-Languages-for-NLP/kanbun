@@ -526,12 +526,11 @@
 
 參 O
 取 O
-皇 B-OTHpart
-胤 I-OTHpart
-
-紹 B-OTHpart
-運 I-OTHpart
-錄 I-OTHpart
+皇 B-OTH
+胤 I-OTH
+紹 I-OTH
+運 I-OTH
+錄 I-OTH
 、 O
 尊 B-OTH
 卑 I-OTH
@@ -741,11 +740,10 @@
 、 O
 院 O
 號 O
-定 B-OTHpart
-部 I-OTHpart
-類 I-OTHpart
-
-記 B-OTHpart
+定 B-OTH
+部 I-OTH
+類 I-OTH
+記 I-OTH
 引 O
 外 O
 記 O
@@ -1484,11 +1482,10 @@
 、 O
 院 O
 號 O
-定 B-OTHpart
-部 I-OTHpart
-類 I-OTHpart
-
-記 B-OTHpart
+定 B-OTH
+部 I-OTH
+類 I-OTH
+記 B-OTH
 引 O
 帥 B-OTH
 入 I-OTH
@@ -1701,10 +1698,9 @@
 年 I-OTH
 記 I-OTH
 、 O
-平 B-OTHpart
-戶 I-OTHpart
-
-記 B-OTHpart
+平 B-OTH
+戶 I-OTH
+記 I-OTH
 寬 O
 平 O
 三 O
@@ -1787,7 +1783,7 @@
 平 O
 戶 O
 
-記 B-OTHpart
+記 B-OTH
 寬 O
 平 O
 三 O
@@ -2183,4 +2179,3 @@
 。 O
 
 】 O
-
