@@ -682,18 +682,16 @@
 弟 O
 姬 O
 ， O
-皇 B-PERpart
-
-后 B-PERpart
+皇 B-PER
+后 I-PER
 妹 O
 也 O
 。 O
 生 O
-阿 B-PERpart
-
-倍 B-PERpart
-皇 I-PERpart
-女 I-PERpart
+阿 B-PER
+倍 I-PER
+皇 I-PER
+女 I-PER
 、 O
 
 淡 O
@@ -1529,11 +1527,10 @@
 
 ○ O
 按 O
-景 B-PERpart
-行 I-PERpart
-
-帝 B-PERpart
-妃 I-PERpart
+景 B-PER
+行 I-PER
+帝 I-PER
+妃 I-PER
 有 O
 迦 O
 
@@ -1589,11 +1586,10 @@
 
 】 O
 【 O
-仁 B-PERpart
-
-德 B-PERpart
-天 I-PERpart
-皇 I-PERpart
+仁 B-PER
+德 I-PER
+天 I-PER
+皇 I-PER
 】 O
 仁 O
 德 O
@@ -1885,10 +1881,9 @@
 。 O
 
 按 O
-古 B-OTHpart
-事 I-OTHpart
-
-記 B-OTHpart
+古 B-OTH
+事 I-OTH
+記 I-OTH
 稱 O
 后 O
 曰 O
@@ -2480,13 +2475,12 @@
 ， O
 又 O
 娶 O
-宇 B-PERpart
-遲 I-PERpart
-
-能 B-PERpart
-若 I-PERpart
-郎 I-PERpart
-女 I-PERpart
+宇 B-PER
+遲 I-PER
+能 I-PER
+若 I-PER
+郎 I-PER
+女 I-PER
 ， O
 共 O
 無 O
@@ -3570,11 +3564,10 @@
 ， O
 
 蓋 O
-神 B-PERpart
-櫛 I-PERpart
-
-皇 B-PERpart
-子 I-PERpart
+神 B-PER
+櫛 I-PER
+皇 I-PER
+子 I-PER
 之 O
 後 O
 也 O
@@ -3595,4 +3588,3 @@
 。 O
 
 】 O
-
