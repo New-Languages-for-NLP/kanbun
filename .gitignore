@@ -130,3 +130,7 @@ dmypy.json
 
 # VSCode project settings
 .vscode/
+
+# spaCy local files
+newlang_project/assets/
+newlang_project/project.lock
