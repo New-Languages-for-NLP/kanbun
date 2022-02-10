@@ -15,7 +15,7 @@ vars:
   package_name: "kanbun"
   package_version: "0.0.1"
   wandb: false 
-  gpu: 0
+  gpu: -1
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
@@ -35,10 +35,14 @@ workflows:
     - convert
     - split
     - debug
+    - pretrain
     - train
     - evaluate
     - package
     - document
+  tune:
+    - train
+    - evaluate
 
 commands:
 
@@ -64,7 +68,7 @@ commands:
   - name: convert
     help: "Convert the data to spaCy's format"
     script: 
-      - "python scripts/convert.py assets/${vars.treebank}/3_inception_export ${vars.n_sents}"
+      - "python scripts/convert.py assets/${vars.treebank}/3_inception_export assets/${vars.treebank}/0_original_texts ${vars.n_sents}"
     deps:
       - "assets/${vars.treebank}/3_inception_export"
     outputs:
@@ -85,6 +89,15 @@ commands:
     help: "Assess data for training using spaCy's debug data"
     script:
       - "python -m spacy debug data configs/${vars.config}"
+
+  - name: pretrain
+    help: "Pretrain ${vars.treebank}"
+    script:
+      - "python -m spacy pretrain configs/${vars.config} ./output"
+    deps:
+      - "corpus/converted/raw_text.spacy"
+    outputs:
+      - "output/"
       
   - name: train
     help: "Train ${vars.treebank}"
@@ -93,7 +106,7 @@ commands:
     deps:
       - "corpus/converted/train.spacy"
       - "corpus/converted/dev.spacy"
-      - "configs/${vars.config}"
+      - "output/model40.bin"
     outputs:
       - "training/${vars.treebank}/model-best"
 
