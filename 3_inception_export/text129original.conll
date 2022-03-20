@@ -1,0 +1,4930 @@
+藤 B-PER
+原 I-PER
+冬 I-PER
+嗣 I-PER
+， O
+
+參 O
+議 B-PER
+麻 I-PER
+呂 I-PER
+曾 O
+孫 O
+。 O
+
+父 O
+豐 O
+伴 O
+， O
+
+豐 O
+後 O
+守 O
+。 O
+
+【 O
+○ O
+
+豐 O
+伴 O
+， O
+
+尊 B-OTH
+卑 I-OTH
+分 I-OTH
+脈 I-OTH
+作 O
+豐 O
+
+彥 O
+， O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+豐 O
+仲 O
+。 O
+
+】 O
+冬 O
+緒 O
+， O
+
+承 O
+和 O
+中 O
+， O
+
+為 O
+勘 O
+解 O
+由 O
+判 O
+官 O
+， O
+除 O
+式 B-ORG
+部 I-ORG
+大 O
+丞 O
+， O
+補 O
+藏 O
+人 O
+。 O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+】 O
+十四 O
+年 O
+， O
+授 O
+從 O
+五 O
+位 O
+下 O
+， O
+
+為 O
+右 B-ORG
+少 I-ORG
+辨 I-ORG
+。 O
+
+嘉 O
+祥 O
+中 O
+， O
+
+歷 O
+伊 B-LOC
+勢 I-LOC
+介 O
+、 O
+
+春 O
+宮 O
+亮 O
+。 O
+
+仁 O
+壽 O
+、 O
+
+齊 O
+衡 O
+間 O
+， O
+進 O
+左 B-LOC
+少 I-LOC
+辨 I-LOC
+從 O
+五 O
+位 O
+上 O
+， O
+
+為 O
+肥 O
+後 O
+守 O
+。 O
+
+【 O
+文德 B-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+貞 O
+觀 O
+初 O
+， O
+
+入 O
+為 O
+右 B-LOC
+中 I-LOC
+辨 I-LOC
+。 O
+
+帝 O
+始 O
+讀 O
+孝 O
+經 O
+， O
+冬 O
+緒 O
+
+與 O
+大 O
+江 O
+音 O
+人 O
+侍 O
+之 O
+。 O
+
+是 O
+歲 O
+， O
+
+敘 O
+從 O
+四 O
+位 O
+下 O
+。 O
+
+尋 O
+為 O
+大 O
+宰 O
+大 O
+貳 O
+， O
+
+歷 B-ORG
+彈 I-ORG
+正 O
+大 O
+弼 O
+、 O
+
+右 B-LOC
+大 I-LOC
+辨 I-LOC
+， O
+
+兼 O
+勘 O
+解 O
+由 O
+長 O
+官 O
+、 O
+
+美 O
+濃 O
+權 O
+守 O
+。 O
+
+十一 O
+年 O
+， O
+復 O
+為 O
+太 O
+宰 O
+大 O
+貳 O
+， O
+
+拜 O
+參 O
+議 O
+。 O
+十二 O
+年 O
+， O
+
+上 O
+書 O
+陳 O
+四 O
+事 O
+。 O
+一 O
+曰 O
+： O
+「 O
+
+凡 O
+軍 O
+旅 O
+之 O
+儲 O
+， O
+烽 O
+燧 O
+尤 O
+切 O
+。 O
+
+而 O
+數 O
+十 O
+年 O
+來 O
+， O
+
+國 O
+無 O
+機 O
+警 O
+。 O
+雖 O
+有 O
+其 O
+備 O
+， O
+
+未 O
+知 O
+調 O
+用 O
+。 O
+
+今 O
+須 O
+下 O
+知 O
+管 O
+內 O
+國 O
+島 O
+， O
+
+試 O
+以 O
+舉 O
+烽 O
+燧 O
+， O
+彼 O
+此 O
+相 O
+通 O
+， O
+
+以 O
+備 O
+不 O
+之 O
+虞 O
+。 O
+
+若 O
+不 O
+言 O
+其 O
+由 O
+， O
+
+恐 O
+驚 O
+
+動 O
+眾 O
+心 O
+。 O
+
+望 O
+請 O
+下 O
+知 O
+事 O
+由 O
+， O
+
+依 O
+件 O
+調 O
+練 O
+。 O
+
+」 O
+二 O
+曰 O
+： O
+
+「 O
+比 O
+年 O
+之 O
+間 O
+， O
+
+公 B-PER
+私 I-PER
+雜 I-PER
+人 I-PER
+， O
+或 O
+陸 O
+或 O
+海 O
+， O
+
+深 O
+入 O
+遠 O
+尋 O
+， O
+
+營 O
+求 O
+善 O
+馬 O
+。 O
+
+出 O
+
+關 O
+之 O
+數 O
+， O
+凡 O
+千 O
+餘 O
+匹 O
+。 O
+
+夫 O
+機 O
+急 O
+之 O
+備 O
+， O
+
+馬 O
+尤 O
+為 O
+用 O
+。 O
+
+而 O
+無 O
+賴 O
+之 O
+徒 O
+， O
+
+每 O
+歲 O
+搜 O
+取 O
+。 O
+
+若 O
+有 O
+罄 O
+乏 O
+， O
+
+如 O
+非 O
+常 O
+何 O
+。 O
+今 O
+將 O
+施 O
+禁 O
+制 O
+， O
+
+翻 O
+致 O
+謗 O
+讟 O
+。 O
+
+望 O
+請 O
+下 O
+知 O
+豐 O
+前 O
+、 O
+
+長 O
+門 O
+二 O
+國 O
+， O
+
+四 O
+年 O
+之 O
+間 O
+， O
+
+禁 O
+止 O
+出 O
+馬 O
+。 O
+
+」 O
+三 O
+曰 O
+： O
+
+「 O
+諸 B-LOC
+國 I-LOC
+雜 O
+米 O
+， O
+各 O
+隨 O
+其 O
+本 O
+色 O
+， O
+
+輸 O
+納 O
+諸 O
+司 O
+諸 O
+所 O
+。 O
+
+而 O
+或 O
+諸 O
+司 O
+全 O
+納 O
+用 O
+盡 O
+， O
+
+或 O
+諸 O
+所 O
+多 O
+致 O
+未 O
+進 O
+， O
+
+公 O
+途 O
+有 O
+闕 O
+。 O
+
+至 O
+有 O
+期 O
+會 O
+， O
+
+不 O
+得 O
+迴 O
+撥 O
+。 O
+
+況 O
+請 O
+庸 O
+米 O
+、 O
+雜 O
+米 O
+， O
+惣 O
+納 O
+稅 O
+庫 O
+， O
+
+自 O
+非 O
+符 O
+宣 O
+， O
+不 O
+得 O
+輙 O
+用 O
+。 O
+
+」 O
+四 O
+曰 O
+： O
+
+「 O
+穀 O
+倉 O
+院 O
+地 O
+子 O
+交 O
+易 O
+物 O
+， O
+
+比 O
+年 O
+間 O
+令 O
+監 O
+一 O
+人 O
+勾 O
+當 O
+其 O
+事 O
+， O
+
+每 O
+年 O
+交 O
+易 O
+， O
+
+輕 O
+物 O
+輸 O
+進 O
+。 O
+
+因 O
+茲 O
+勾 O
+當 O
+之 O
+人 O
+， O
+
+年 O
+初 O
+請 O
+領 O
+直 O
+稻 O
+， O
+
+其 O
+後 O
+府 O
+司 O
+責 O
+其 O
+返 O
+抄 O
+。 O
+而 O
+左 O
+右 O
+巧 O
+
+容 O
+， O
+不 O
+肯 O
+究 O
+進 O
+， O
+
+遂 O
+使 O
+不 O
+知 O
+之 O
+吏 O
+， O
+招 O
+放 O
+還 O
+之 O
+煩 O
+。 O
+
+熟 O
+尋 O
+其 O
+由 O
+， O
+
+理 O
+不 O
+可 O
+然 O
+。 O
+
+凡 O
+一 O
+官 O
+之 O
+事 O
+， O
+
+官 O
+長 O
+所 O
+行 O
+， O
+
+縱 O
+有 O
+其 O
+人 O
+， O
+何 O
+愁 O
+不 O
+濟 O
+。 O
+而 O
+更 O
+置 O
+專 O
+當 O
+
+， O
+還 O
+致 O
+物 O
+煩 O
+。 O
+
+望 O
+請 O
+當 O
+從 O
+停 O
+止 O
+， O
+
+府 O
+司 O
+一 O
+向 O
+交 O
+易 O
+奉 O
+進 O
+。 O
+
+」 O
+詔 O
+從 O
+之 O
+。 O
+
+明 O
+年 O
+， O
+
+敘 O
+正 O
+四 O
+位 O
+下 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+尋 O
+遷 O
+民 O
+部 O
+卿 O
+。 O
+
+十七 O
+年 O
+， O
+兼 O
+伊 O
+豫 O
+權 O
+守 O
+。 O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+帝 O
+讀 O
+史 B-OTH
+記 I-OTH
+， O
+詔 O
+冬 O
+緒 O
+特 O
+侍 O
+其 O
+席 O
+。 O
+
+明 O
+年 O
+， O
+
+敘 O
+從 O
+三 O
+位 O
+， O
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+兼 O
+播 O
+磨 O
+權 O
+守 O
+。 O
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+元 O
+慶 O
+中 O
+， O
+累 O
+表 O
+請 O
+致 O
+仕 O
+， O
+不 O
+許 O
+。 O
+
+拜 O
+中 B-PER
+納 I-PER
+言 I-PER
+， O
+敘 O
+正 O
+三 O
+位 O
+。 O
+詔 O
+
+撿 O
+校 O
+河 O
+內 O
+、 O
+
+河 O
+泉 O
+兩 O
+國 O
+， O
+
+遙 O
+攝 O
+其 O
+事 O
+， O
+
+頒 O
+下 O
+國 O
+司 O
+， O
+聽 O
+其 O
+處 O
+分 O
+。 O
+
+數 O
+年 O
+， O
+轉 O
+大 B-PER
+納 I-PER
+言 I-PER
+。 O
+
+上 O
+表 O
+辭 O
+之 O
+， O
+不 O
+許 O
+。 O
+
+尋 O
+兼 O
+彈 O
+正 O
+尹 O
+。 O
+仁 O
+和 O
+三 O
+年 O
+， O
+累 O
+請 O
+致 O
+仕 O
+， O
+
+上 O
+表 O
+曰 O
+： O
+
+「 O
+臣 O
+懸 O
+車 O
+之 O
+期 O
+一 O
+過 O
+， O
+
+歸 O
+睪 O
+之 O
+望 O
+彌 O
+深 O
+。 O
+
+叩 O
+重 O
+闈 O
+而 O
+未 O
+通 O
+， O
+
+叫 O
+
+層 O
+昊 O
+而 O
+無 O
+聽 O
+。 O
+
+臣 B-PER
+舊 O
+無 O
+蓍 O
+耄 O
+之 O
+德 O
+， O
+
+猥 O
+居 O
+獻 O
+宣 O
+之 O
+官 O
+。 O
+
+少 O
+不 O
+如 O
+人 O
+， O
+追 O
+感 O
+燭 O
+武 O
+之 O
+語 O
+， O
+老 O
+而 O
+彌 O
+耄 O
+， O
+
+猶 O
+恥 O
+趙 O
+孟 O
+之 O
+談 O
+。 O
+
+故 O
+流 O
+水 O
+不 O
+迴 O
+， O
+
+空 O
+起 O
+歎 O
+於 O
+川 O
+上 O
+， O
+漏 O
+箭 O
+已 O
+盡 O
+， O
+豈 O
+犯 O
+罪 O
+於 O
+夜 O
+行 O
+。 O
+
+伏 O
+念 O
+， O
+祿 O
+俸 O
+者 O
+， O
+士 O
+之 O
+所 O
+貪 O
+求 O
+也 O
+， O
+
+聖 O
+明 O
+者 O
+
+代 O
+之 O
+所 O
+希 O
+出 O
+也 O
+。 O
+
+臣 O
+以 O
+八十 O
+年 O
+之 O
+殘 O
+息 O
+， O
+
+遇 O
+一 O
+千 O
+歲 O
+之 O
+惟 O
+新 O
+。 O
+
+方 O
+當 O
+惜 O
+此 O
+下 O
+春 O
+之 O
+景 O
+， O
+
+圖 O
+彼 O
+上 O
+庠 O
+之 O
+榮 O
+。 O
+
+疲 O
+驂 O
+解 O
+駕 O
+， O
+
+暫 O
+徘 O
+徊 O
+於 O
+層 O
+軒 O
+之 O
+前 O
+， O
+
+涼 O
+燕 O
+辭 O
+巢 O
+
+， O
+猶 O
+栖 O
+
+遲 O
+於 O
+廣 O
+廈 O
+之 O
+下 O
+。 O
+而 O
+月 O
+制 O
+初 O
+迫 O
+， O
+
+氣 O
+力 O
+不 O
+隨 O
+， O
+
+心 O
+識 O
+之 O
+
+內 O
+， O
+邈 O
+如 O
+河 O
+山 O
+， O
+
+手 B-ORG
+足 I-ORG
+之 O
+間 O
+， O
+遠 O
+同 O
+楚 O
+越 O
+。 O
+
+仰 O
+北闕 O
+而 O
+隔 O
+趍 O
+拜 O
+， O
+
+望 O
+東 O
+岱 O
+而 O
+催 O
+歸 O
+魂 O
+。 O
+
+撫 O
+躬 O
+懷 O
+辱 O
+， O
+兢 O
+兢 O
+於 O
+素 O
+餐 O
+之 O
+惶 O
+， O
+
+揣 O
+分 O
+知 O
+歸 O
+， O
+遑 O
+遑 O
+於 O
+青 O
+蒲 O
+之 O
+請 O
+。 O
+
+伏 O
+冀 O
+， O
+
+降 O
+油 O
+雲 O
+之 O
+澤 O
+， O
+
+感 O
+匪 O
+石 O
+之 O
+祈 O
+。 O
+務 O
+帶 O
+彤 O
+影 O
+， O
+歸 O
+步 O
+素 O
+里 O
+。 O
+
+收 O
+龍 O
+章 O
+之 O
+妄 O
+寵 O
+， O
+
+就 O
+芰 O
+服 O
+而 O
+待 O
+終 O
+。 O
+
+豈 O
+比 O
+掛 O
+冠 O
+都 O
+門 O
+， O
+
+疏 O
+傳 O
+遺 O
+漢 O
+朝 O
+之 O
+榮 O
+貴 O
+， O
+竊 O
+慕 O
+擊 O
+壤 O
+野 O
+
+外 O
+， O
+逸 O
+老 O
+樂 O
+堯 O
+年 O
+之 O
+餘 O
+生 O
+。 O
+
+」 O
+詔 O
+許 O
+之 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+】 O
+
+寬 O
+平 O
+二 O
+年 O
+， O
+
+薨 O
+， O
+年 O
+八十二 O
+。 O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+、 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+○ O
+按 O
+本 O
+書 O
+
+享 O
+年 O
+前 O
+後 O
+矛 O
+盾 O
+， O
+
+今 O
+據 O
+任 O
+大同 O
+
+三 O
+年 O
+戊子 O
+生 O
+， O
+
+及 O
+要 B-OTH
+記 I-OTH
+元 O
+慶 O
+元 O
+年 O
+七十 O
+之 O
+文 O
+訂 O
+之 O
+。 O
+
+】 O
+子 O
+灌 O
+木 O
+， O
+大 O
+學 O
+助 O
+
+。 O
+【 O
+尊 B-OTH
+卑 I-OTH
+分 I-OTH
+脈 I-OTH
+。 O
+
+】 O
+安 O
+倍 O
+貞 O
+行 O
+， O
+大 B-PER
+納 I-PER
+言 I-PER
+安仁 O
+子 O
+也 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+仁 O
+壽 O
+中 O
+， O
+
+為 O
+右 O
+衛 O
+門 O
+權 O
+佐 O
+、 O
+
+檢 O
+非 O
+違 O
+使 O
+。 O
+
+齊 O
+衡 O
+、 O
+
+天 O
+安 O
+間 O
+， O
+
+轉 O
+左 O
+衛 O
+門 O
+權 O
+佐 O
+， O
+為 O
+大 O
+和 O
+守 O
+。 O
+
+【 O
+文德 B-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+貞 O
+觀 O
+初 O
+， O
+
+任 O
+刑 O
+部 O
+大 O
+輔 O
+， O
+
+為 O
+攝 O
+津 O
+守 O
+。 O
+
+丁 O
+母 O
+憂 O
+解 O
+職 O
+， O
+
+詔 O
+起 O
+之 O
+。 O
+
+十四 O
+年 O
+， O
+
+授 O
+正 O
+五 O
+位 O
+下 O
+， O
+
+為 O
+陸 O
+奧 O
+守 O
+。 O
+
+及 O
+拜 O
+辭 O
+， O
+
+引 O
+而 O
+升 O
+殿 O
+， O
+賜 O
+飲 O
+及 O
+御 O
+衣 O
+。 O
+明 O
+年 O
+， O
+
+奏 O
+曰 O
+： O
+
+「 O
+爵 O
+祿 O
+之 O
+興 O
+， O
+為 O
+優 O
+功 O
+績 O
+。 O
+
+然 O
+則 O
+授 O
+敘 O
+之 O
+事 O
+， O
+
+當 O
+必 O
+其 O
+人 O
+。 O
+而 O
+比 O
+年 O
+國 O
+司 O
+不 O
+依 O
+勞 O
+效 O
+， O
+任 O
+意 O
+授 O
+爵 O
+。 O
+
+由 O
+是 O
+預 O
+祿 O
+者 O
+眾 O
+， O
+
+調 O
+物 O
+減 O
+耗 O
+。 O
+
+所 O
+司 O
+勘 O
+出 O
+， O
+
+歷 B-ORG
+代 I-ORG
+不 O
+絕 O
+。 O
+
+望 O
+請 O
+， O
+
+夷 O
+俘 O
+位 O
+階 O
+， O
+
+每 O
+年 O
+立 O
+敘 O
+法 O
+， O
+選 O
+有 O
+功 O
+之 O
+胤 O
+， O
+
+隨 O
+年 O
+死 O
+之 O
+闕 O
+， O
+
+敘 O
+補 O
+二十 O
+人 O
+已 O
+下 O
+。 O
+
+」 O
+又 O
+曰 O
+： O
+
+「 O
+國 O
+中 O
+之 O
+政 O
+， O
+莫 O
+重 O
+收 O
+納 O
+。 O
+
+然 O
+則 O
+分 O
+配 O
+之 O
+吏 O
+， O
+可 O
+勤 O
+其 O
+事 O
+。 O
+
+而 O
+任 O
+用 O
+之 O
+官 O
+， O
+未 O
+必 O
+其 O
+人 O
+。 O
+
+或 O
+被 O
+誘 O
+郡 O
+
+司 O
+稅 O
+帳 O
+， O
+納 O
+藁 O
+為 O
+稻 O
+， O
+
+或 O
+見 O
+賂 O
+
+富 O
+饒 O
+酋 O
+豪 O
+， O
+
+以 O
+虛 O
+為 O
+實 O
+。 O
+
+須 O
+據 O
+格 O
+旨 O
+， O
+必 O
+科 O
+其 O
+罪 O
+。 O
+
+而 O
+偏 O
+貪 O
+奉 O
+料 O
+， O
+不 O
+畏 O
+有 O
+罪 O
+。 O
+望 O
+請 O
+奪 O
+致 O
+虛 O
+納 O
+欠 O
+
+損 O
+國 O
+司 O
+之 O
+公 O
+廨 O
+， O
+
+先 O
+補 O
+所 O
+欠 O
+， O
+然 O
+後 O
+科 O
+責 O
+。 O
+
+若 O
+欠 O
+物 O
+巨 O
+多 O
+， O
+
+公 O
+廨 O
+數 O
+少 O
+， O
+長 O
+官 O
+已 O
+下 O
+， O
+相 O
+共 O
+填 O
+納 O
+。 O
+」 O
+元 O
+慶 O
+中 O
+， O
+
+敘 O
+從 O
+四 O
+位 O
+上 O
+， O
+
+任 O
+太 O
+宰 O
+大 O
+貳 O
+。 O
+
+詣 O
+闕 O
+辭 O
+見 O
+， O
+
+賜 O
+御 O
+衣 O
+一 O
+襲 O
+， O
+
+拜 O
+舞 O
+而 O
+出 O
+。 O
+
+親 B-PER
+王 I-PER
+、 O
+公 O
+卿 O
+， O
+
+參 O
+侍 O
+仗 O
+下 O
+， O
+
+遮 O
+留 O
+貞 O
+行 O
+餞 O
+之 O
+。 O
+
+以 O
+內 O
+藏 O
+錢 O
+一萬 O
+， O
+
+充 O
+圍 O
+碁 O
+賭 O
+物 O
+， O
+
+酣 O
+暢 O
+而 O
+罷 O
+。 O
+
+先 O
+是 O
+， O
+
+少 O
+貳 O
+藤 O
+
+原 O
+房 O
+雄 O
+行 O
+警 O
+固 O
+事 O
+， O
+選 O
+任 O
+肥 O
+後 O
+守 O
+， O
+無 O
+人 O
+勾 O
+當 O
+。 O
+
+貞 O
+行 O
+奏 O
+請 O
+： O
+
+「 O
+器 O
+仗 O
+烽 O
+候 O
+， O
+
+是 O
+長 O
+官 O
+之 O
+職 O
+， O
+然 O
+則 O
+警 O
+固 O
+有 O
+例 O
+， O
+
+何 O
+必 O
+別 O
+配 O
+勾 O
+當 O
+。 O
+
+宜 O
+停 O
+少 O
+貳 O
+勾 O
+當 O
+， O
+府 O
+司 O
+隨 O
+宜 O
+處 O
+置 O
+。 O
+
+又 O
+令 O
+筑 O
+後 O
+、 O
+
+豐 O
+後 O
+兩 O
+國 O
+長 O
+官 O
+
+先 O
+經 O
+府 O
+司 O
+， O
+後 O
+聽 O
+入 O
+京 O
+。 O
+
+若 O
+無 O
+府 O
+解 O
+， O
+
+不 O
+得 O
+輒 O
+發 O
+。 O
+」 O
+敕 O
+從 O
+之 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+在 O
+原 O
+行 O
+平 O
+， O
+
+阿 O
+保 O
+親 B-PER
+王 I-PER
+第 O
+二 O
+子 O
+也 O
+， O
+初 O
+為 O
+諸 O
+王 O
+。 O
+
+天 O
+長 O
+中 O
+， O
+
+阿 O
+保 O
+上 O
+表 O
+， O
+請 O
+子 O
+男 O
+賜 O
+姓 O
+。 O
+
+行 O
+平 O
+兄 O
+弟 O
+， O
+
+賜 O
+姓 O
+在 O
+原 B-PER
+朝 I-PER
+臣 I-PER
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+承 O
+和 O
+中 O
+， O
+
+補 O
+藏 O
+人 O
+， O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+敘 O
+
+從 O
+五 O
+位 O
+下 O
+， O
+
+為 O
+侍 O
+從 O
+。 O
+
+【 O
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
+。 O
+】 O
+累 O
+遷 O
+右 O
+近 O
+衛 O
+少 O
+將 O
+。 O
+
+齊 O
+衡 O
+中 O
+， O
+除 O
+因 O
+幡 O
+守 O
+。 O
+
+天 O
+安 O
+元 O
+年 O
+， O
+
+為 O
+兵 O
+部 O
+大 O
+輔 O
+， O
+尋 O
+轉 O
+中 B-ORG
+務 I-ORG
+， O
+
+任 O
+左 B-PER
+馬 I-PER
+頭 I-PER
+。 O
+
+【 O
+文德 B-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+貞 O
+觀 O
+中 O
+， O
+
+遷 O
+左 O
+兵 O
+衛 O
+督 O
+， O
+
+歷 O
+播 O
+磨 O
+、 O
+
+信 O
+濃 O
+、 O
+備 O
+前 O
+、 O
+
+備 O
+中 O
+四 O
+國 O
+守 O
+， O
+
+敘 O
+正 O
+四 O
+位 O
+夏 O
+， O
+
+任 O
+參 O
+議 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+○ O
+備 O
+中 O
+守 O
+
+據 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+為 O
+檢 O
+非 O
+
+違 O
+使 O
+別 O
+當 O
+、 O
+
+左 O
+衛 O
+門 O
+督 O
+， O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+補 O
+藏 O
+人 B-PER
+頭 I-PER
+。 O
+參 O
+議 O
+補 O
+藏 O
+人 B-PER
+頭 I-PER
+， O
+
+是 O
+為 O
+始 O
+。 O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+、 O
+藏 O
+人 B-PER
+補 O
+任 O
+。 O
+
+】 O
+尋 O
+敘 O
+從 O
+三 O
+位 O
+， O
+
+任 O
+太 O
+宰 O
+權 O
+帥 O
+。 O
+
+先 O
+是 O
+， O
+漕 O
+筑 O
+前 O
+、 O
+
+肥 O
+前 O
+等 O
+六 O
+國 O
+穀 O
+， O
+為 O
+對 O
+馬 O
+年 O
+糧 O
+， O
+
+年 O
+中 O
+漂 O
+沒 O
+者 O
+， O
+
+十 O
+之 O
+六 O
+七 O
+。 O
+
+行 O
+平 O
+奏 O
+請 O
+： O
+
+「 O
+停 O
+六 O
+國 O
+運 O
+漕 O
+， O
+
+發 O
+其 O
+民 O
+營 O
+
+壹 O
+伎 O
+水 O
+田 O
+， O
+為 O
+對 O
+馬 O
+年 O
+糧 O
+， O
+
+停 O
+壹 O
+伎 O
+
+年 O
+貢 O
+， O
+課 O
+之 O
+六 O
+國 O
+。 O
+
+」 O
+又 O
+肥 O
+前 O
+、 O
+松 O
+浦 O
+郡 O
+， O
+
+庇 O
+羅 O
+、 O
+值 O
+嘉 O
+二 O
+鄉 O
+， O
+產 O
+奇 O
+石 O
+香 O
+藥 O
+。 O
+
+唐 O
+人 O
+來 O
+者 O
+多 O
+採 O
+之 O
+。 O
+
+新 O
+羅 O
+人 O
+掠 O
+奪 O
+貢 O
+船 O
+者 O
+， O
+亦 O
+經 O
+此 O
+島 O
+。 O
+
+行 O
+平 O
+奏 O
+
+請 O
+曰 O
+： O
+
+「 O
+」 O
+檢 O
+案 O
+內 O
+， O
+
+元 O
+有 O
+九 O
+國 O
+三 O
+島 O
+。 O
+
+至 O
+于 O
+天 O
+長 O
+元 O
+年 O
+， O
+停 O
+多 O
+褹 O
+
+嶋 O
+， O
+
+隸 O
+大 O
+隅 O
+國 O
+。 O
+
+是 O
+止 O
+貢 O
+鹿 O
+皮 O
+百 O
+領 O
+， O
+
+費 O
+三萬 O
+六 O
+千 O
+餘 O
+束 O
+稻 O
+之 O
+故 O
+也 O
+。 O
+
+今 O
+此 O
+二 O
+鄉 O
+， O
+地 O
+勢 O
+曠 O
+遠 O
+， O
+
+戶 O
+口 O
+殷 O
+阜 O
+。 O
+
+又 O
+土 O
+產 O
+所 O
+出 O
+， O
+
+物 O
+多 O
+奇 O
+異 O
+。 O
+
+而 O
+徒 O
+委 O
+郡 O
+司 O
+， O
+恣 O
+令 O
+聚 O
+歛 O
+。 O
+
+彼 O
+土 O
+之 O
+民 O
+， O
+
+厭 O
+私 B-PER
+求 O
+之 O
+苛 O
+， O
+切 O
+欲 O
+貢 O
+輸 O
+於 O
+公 O
+家 O
+。 O
+
+惣 O
+是 O
+國 O
+司 O
+難 O
+巡 O
+檢 O
+， O
+
+鄉 O
+長 O
+少 O
+權 O
+勢 O
+之 O
+所 O
+致 O
+也 O
+。 O
+
+加 O
+之 O
+， O
+
+地 O
+居 O
+海 B-LOC
+中 I-LOC
+， O
+
+境 O
+鄰 O
+異 O
+俗 O
+。 O
+
+唐 O
+人 O
+、 O
+
+新 O
+羅 O
+人 O
+來 O
+者 O
+， O
+本 O
+朝 O
+遣 O
+唐 O
+使 O
+等 O
+
+， O
+莫 O
+不 O
+經 O
+歷 O
+此 O
+嶋 O
+。 O
+府 O
+頭 O
+人 O
+民 O
+申 O
+云 O
+： O
+
+『 O
+去 O
+貞 O
+觀 O
+十一 O
+年 O
+， O
+
+新 B-LOC
+羅 I-LOC
+人 O
+掠 O
+奪 O
+貢 O
+船 O
+
+絹 O
+綿 O
+等 O
+。 O
+其 O
+賊 O
+同 O
+經 O
+此 O
+嶋 O
+來 O
+。 O
+
+』 O
+以 O
+此 O
+觀 O
+之 O
+， O
+
+此 O
+地 O
+
+是 O
+當 B-LOC
+國 I-LOC
+樞 O
+
+轄 O
+之 O
+地 O
+， O
+宜 O
+擇 O
+令 O
+長 O
+以 O
+慎 O
+防 O
+禦 O
+。 O
+
+又 O
+去 O
+年 O
+, O
+或 O
+人 O
+民 O
+等 O
+申 O
+云 O
+： O
+
+『 O
+
+唐 O
+人 O
+等 O
+必 O
+先 O
+到 O
+此 O
+嶋 O
+， O
+多 O
+採 O
+香 O
+藥 O
+， O
+
+以 O
+加 O
+貨 O
+物 O
+。 O
+
+不 O
+令 O
+此 O
+間 O
+
+人 O
+民 O
+觀 O
+其 O
+物 O
+。 O
+又 O
+其 O
+海 O
+濱 O
+多 O
+奇 O
+石 O
+， O
+
+或 O
+鍛 O
+練 O
+得 O
+銀 O
+， O
+
+或 O
+琢 O
+磨 O
+似 O
+玉 O
+。 O
+
+唐 O
+人 O
+取 O
+其 O
+石 O
+， O
+不 O
+曉 O
+土 O
+人 O
+。 O
+
+』 O
+以 O
+此 O
+言 O
+之 O
+， O
+
+不 O
+委 O
+以 O
+其 O
+人 O
+之 O
+弊 O
+， O
+大 O
+都 O
+皆 O
+如 O
+此 O
+。 O
+望 O
+請 O
+合 O
+二 O
+鄉 O
+， O
+
+更 O
+建 O
+二 O
+郡 O
+。 O
+
+號 O
+上 O
+近 O
+、 O
+下 O
+近 O
+， O
+
+便 O
+為 O
+值 O
+嘉 O
+嶋 O
+， O
+新 O
+置 O
+嶋 O
+司 O
+、 O
+
+郡 O
+領 O
+， O
+任 O
+土 O
+賦 O
+貢 O
+。 O
+
+但 O
+其 O
+俸 O
+舉 O
+定 O
+正 O
+稅 O
+、 O
+
+公 O
+廨 O
+之 O
+間 O
+， O
+令 O
+兼 O
+任 O
+肥 O
+前 O
+國 O
+權 O
+官 O
+。 O
+
+」 O
+公 B-PER
+卿 I-PER
+議 O
+奏 O
+曰 O
+： O
+
+「 O
+臣 O
+聞 O
+： O
+
+『 O
+聖 O
+人 O
+濟 O
+世 O
+， O
+
+以 O
+便 O
+物 O
+為 O
+先 O
+； O
+
+明 O
+王 O
+馭 O
+民 O
+， O
+
+以 O
+制 O
+宜 O
+為 O
+貴 B-PER
+。 O
+
+』 O
+今 O
+行 O
+平 O
+所 O
+請 O
+二 O
+條 O
+， O
+
+欲 O
+省 O
+運 O
+漕 O
+之 O
+費 O
+， O
+
+存 O
+任 O
+土 O
+之 O
+規 O
+， O
+
+有 O
+以 O
+詳 O
+矣 O
+。 O
+
+臣 O
+等 O
+商 O
+量 O
+， O
+營 O
+水 O
+田 O
+充 O
+年 O
+糧 O
+
+， O
+事 O
+乖 O
+仍 O
+舊 O
+。 O
+謀 O
+合 O
+權 O
+宜 O
+， O
+請 O
+試 O
+許 O
+二 O
+年 O
+， O
+
+先 O
+明 O
+息 O
+耗 O
+。 O
+
+合 O
+兩 O
+鄉 O
+為 O
+一 O
+嶋 O
+， O
+
+苟 O
+謂 O
+利 O
+公 O
+， O
+豈 O
+期 O
+膠 O
+柱 O
+。 O
+請 O
+隨 O
+其 O
+所 O
+陳 O
+。 O
+
+」 O
+允 O
+之 O
+。 O
+
+元 O
+慶 O
+中 O
+， O
+
+兼 O
+治 O
+部 O
+卿 O
+， O
+
+任 O
+中 B-PER
+納 I-PER
+言 I-PER
+， O
+敘 O
+正 O
+三 O
+位 O
+， O
+
+遷 O
+兼 O
+民 O
+部 O
+
+卿 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+上 O
+表 O
+辭 O
+曰 O
+： O
+
+「 O
+臣 O
+行 O
+平 O
+伏 O
+奉 O
+。 O
+
+今 O
+月 O
+九 O
+日 O
+詔 O
+旨 O
+， O
+以 O
+臣 O
+為 O
+民 O
+部 O
+卿 O
+。 O
+
+恩 O
+暄 O
+冬 O
+日 O
+， O
+懼 O
+切 O
+春 O
+冰 O
+。 O
+
+三 O
+省 O
+而 O
+慙 O
+， O
+
+一 O
+身 O
+無 O
+厝 O
+。 O
+
+臣 O
+謹 O
+撿 O
+
+， O
+人 O
+民 O
+損 O
+益 O
+， O
+倉 O
+庫 O
+盈 O
+虛 O
+， O
+雖 O
+繫 O
+國 O
+吏 O
+之 O
+常 O
+憂 O
+， O
+
+復 O
+關 O
+所 O
+司 O
+之 O
+明 O
+察 O
+。 O
+
+故 O
+既 O
+往 O
+任 O
+此 O
+職 O
+者 O
+， O
+皆 O
+是 O
+詳 O
+通 O
+政 O
+事 O
+
+， O
+廣 O
+蹈 O
+吏 O
+途 O
+。 O
+僉 O
+曰 O
+之 O
+容 O
+， O
+
+具 O
+瞻 O
+所 O
+屬 O
+而 O
+已 O
+。 O
+
+臣 O
+累 O
+佩 O
+銀 O
+魚 O
+， O
+久 O
+忍 O
+尸 O
+素 O
+。 O
+
+縱 O
+期 O
+粉 O
+骨 O
+， O
+
+已 O
+無 O
+才 O
+智 O
+之 O
+可 O
+施 O
+。 O
+
+空 O
+叩 O
+丹 O
+心 O
+， O
+唯 O
+有 O
+老 O
+病 O
+之 O
+相 O
+迫 O
+。 O
+
+上 O
+畏 O
+玄 O
+鑒 O
+， O
+
+下 O
+愧 O
+蒼 O
+生 O
+。 O
+
+伏 O
+願 O
+陛 O
+下 O
+， O
+
+曲 O
+迴 O
+聖 B-ORG
+思 O
+， O
+
+罷 O
+臣 O
+所 O
+職 O
+。 O
+
+勿 O
+俾 O
+微 O
+臣 O
+為 O
+天 O
+工 O
+之 O
+盜 O
+， O
+
+機 O
+要 O
+為 O
+閑 O
+曠 O
+之 O
+官 O
+。 O
+
+」 O
+不 O
+許 O
+。 O
+
+【 O
+三 B-OTHpart
+代 I-OTHpart
+
+實 B-OTHpart
+錄 I-OTHpart
+、 O
+菅 B-OTH
+家 I-OTH
+文 I-OTH
+草 I-OTH
+。 O
+
+】 O
+仁 O
+和 O
+初 O
+， O
+
+兼 O
+陸 O
+奧 O
+出 O
+羽 O
+按 O
+察 O
+使 O
+。 O
+
+尋 O
+上 O
+表 O
+曰 O
+： O
+
+「 O
+」 O
+臣 B-PER
+聞 O
+： O
+『 O
+年 O
+滿 O
+致 O
+仕 O
+， O
+
+人 B-PER
+臣 I-PER
+之 O
+定 O
+節 O
+； O
+
+職 O
+罷 O
+賜 O
+聽 O
+， O
+人 O
+君 O
+之 O
+恒 O
+規 O
+。 O
+
+』 O
+仰 O
+恒 O
+規 O
+於 O
+歸 O
+骸 O
+， O
+行 O
+
+瞻 O
+自 O
+盡 O
+； O
+
+地 O
+定 O
+節 O
+於 O
+止 O
+足 O
+， O
+
+趍 O
+走 O
+何 O
+堪 O
+。 O
+
+臣 O
+誤 O
+藉 O
+時 O
+來 O
+， O
+
+枉 O
+登 O
+華 O
+顯 O
+。 O
+
+寵 O
+光 O
+之 O
+榮 O
+， O
+
+已 O
+極 O
+於 O
+生 O
+成 O
+； O
+
+鴻 O
+霈 O
+之 O
+潤 O
+， O
+甚 O
+深 O
+過 O
+於 O
+涯 O
+分 O
+。 O
+
+今 O
+臣 O
+齡 O
+至 O
+七 O
+旬 O
+， O
+位 O
+高 O
+三 O
+品 O
+。 O
+
+薄 O
+冰 O
+隨 O
+步 O
+， O
+
+迷 O
+鐘 O
+於 O
+夜 O
+行 O
+， O
+
+言 B-ORG
+鑑 I-ORG
+承 O
+顏 O
+， O
+
+恐 O
+漏 O
+盡 O
+於 O
+陰 O
+罪 O
+， O
+
+流 O
+汗 O
+於 O
+絳 O
+縣 O
+老 O
+。 O
+
+臣 O
+性 O
+愚 O
+蒙 O
+， O
+同 O
+貌 O
+於 O
+白 O
+首 O
+郎 O
+， O
+
+臣 O
+鬢 O
+霜 O
+雪 O
+， O
+逢 O
+名 O
+遂 O
+之 O
+時 O
+， O
+行 O
+身 O
+退 O
+之 O
+
+道 O
+， O
+臣 O
+本 O
+聞 O
+焉 O
+。 O
+
+當 O
+懸 O
+車 O
+之 O
+年 O
+。 O
+
+負 O
+竊 O
+位 O
+之 O
+責 O
+， O
+臣 O
+所 O
+愧 O
+矣 O
+。 O
+
+伏 O
+願 O
+陛 O
+下 O
+， O
+
+養 O
+臣 O
+以 O
+罷 O
+所 O
+職 O
+， O
+優 O
+臣 B-PER
+以 O
+賜 O
+放 O
+歸 O
+。 O
+
+令 O
+老 O
+有 O
+所 O
+終 O
+， O
+責 O
+得 O
+所 O
+塞 O
+。 O
+不 O
+堪 O
+悃 O
+款 O
+之 O
+至 O
+。 O
+
+」 O
+敕 O
+曰 O
+： O
+
+「 O
+卿 O
+松 O
+柏 O
+之 O
+貞 O
+， O
+
+珪 O
+璋 O
+其 O
+德 O
+， O
+
+憂 O
+國 O
+每 O
+形 O
+於 O
+顏 O
+色 O
+。 O
+
+愛 O
+君 O
+無 O
+惜 O
+其 O
+腎 O
+腸 O
+， O
+
+而 O
+能 O
+屈 O
+伸 O
+有 O
+常 O
+， O
+
+終 O
+始 O
+以 O
+道 O
+， O
+謙 O
+謙 O
+援 O
+古 O
+人 O
+之 O
+義 O
+， O
+
+汲 O
+汲 O
+興 O
+大 O
+耋 O
+之 O
+嗟 O
+。 O
+雖 O
+知 O
+卿 O
+有 O
+懇 O
+請 O
+， O
+
+寧 O
+使 O
+朕 O
+無 O
+喉 O
+舌 O
+。 O
+
+卿 O
+其 O
+抑 O
+知 O
+止 O
+絕 O
+遺 O
+榮 O
+， O
+
+勉 O
+體 O
+虛 O
+懷 O
+。 O
+
+仍 O
+斷 O
+固 O
+請 O
+。 O
+
+魏 O
+元 O
+陽 O
+之 O
+就 O
+第 O
+， O
+
+當 O
+卜 O
+後 O
+年 O
+； O
+
+薜 O
+廣 B-ORG
+德 O
+之 O
+懸 O
+車 O
+， O
+
+莫 O
+視 O
+今 O
+日 O
+。 O
+
+」 O
+再 O
+表 O
+曰 O
+： O
+
+「 O
+臣 O
+行 O
+平 O
+言 O
+。 O
+中 O
+使 O
+左 O
+
+近 O
+衛 O
+少 O
+將 O
+藤 O
+原 O
+朝 O
+臣 O
+高 O
+藤 O
+至 O
+。 O
+
+伏 O
+奉 O
+敕 O
+旨 O
+， O
+
+不 O
+聽 O
+臣 O
+致 O
+仕 O
+。 O
+
+抑 O
+遏 O
+臣 O
+乞 O
+身 O
+， O
+
+綸 O
+綍 O
+出 O
+而 O
+成 O
+文 O
+， O
+
+恩 O
+湛 O
+垂 O
+露 O
+， O
+
+毫 O
+毛 O
+酬 O
+而 O
+無 O
+效 O
+。 O
+
+首 O
+戴 O
+高 O
+山 O
+， O
+
+臣 O
+尸 O
+素 O
+尚 O
+矣 O
+。 O
+
+妄 O
+濫 O
+虞 O
+舜 O
+之 O
+官 O
+， O
+
+老 O
+耄 O
+及 O
+焉 O
+。 O
+
+空 O
+忝 O
+王 O
+戎 O
+之 O
+任 O
+， O
+
+焦 O
+思 O
+之 O
+憤 O
+已 O
+滿 O
+。 O
+
+將 O
+稅 O
+累 O
+於 O
+薄 O
+韋 O
+， O
+
+噬 O
+臍 O
+之 O
+悔 O
+不 O
+休 O
+。 O
+願 O
+避 O
+路 O
+於 O
+振 O
+領 O
+， O
+苟 O
+守 O
+職 O
+之 O
+成 O
+達 O
+
+， O
+更 O
+策 O
+名 O
+而 O
+何 O
+取 O
+。 O
+況 O
+臣 O
+負 O
+薪 O
+
+寄 O
+質 O
+， O
+伏 O
+枕 O
+留 O
+魂 O
+。 O
+
+每 O
+歎 O
+蒲 O
+柳 O
+之 O
+委 O
+風 O
+， O
+盛 O
+葵 O
+藿 O
+之 O
+向 O
+日 O
+。 O
+誠 O
+切 O
+莊 O
+鴻 O
+， O
+
+欲 O
+表 O
+戀 O
+越 O
+之 O
+聲 O
+， O
+
+苦 O
+同 O
+鈎 O
+公 O
+， O
+遂 O
+移 O
+臥 O
+漳 O
+之 O
+病 O
+。 O
+
+今 O
+陛 O
+下 O
+優 O
+臣 O
+， O
+既 O
+以 O
+國 O
+士 O
+之 O
+分 O
+。 O
+
+臣 O
+訴 O
+陛 O
+下 O
+， O
+
+豈 O
+以 O
+眾 O
+人 O
+之 O
+心 O
+。 O
+雖 O
+云 O
+跼 O
+蹐 O
+迷 O
+方 O
+， O
+
+寒 O
+溫 O
+乖 O
+適 O
+。 O
+
+不 O
+忘 O
+奉 O
+身 O
+而 O
+退 O
+， O
+
+猶 O
+甘 O
+量 O
+力 O
+而 O
+行 O
+。 O
+
+臣 O
+情 O
+見 O
+於 O
+辭 O
+， O
+
+淚 O
+隨 O
+於 O
+汗 O
+。 O
+
+宸 O
+嚴 O
+鑑 O
+實 O
+， O
+
+思 O
+許 O
+罷 O
+官 O
+。 O
+
+」 O
+詔 O
+不 O
+許 O
+。 O
+
+又 O
+上 O
+表 O
+曰 O
+： O
+
+「 O
+臣 O
+重 O
+累 O
+
+表 O
+章 B-ORG
+， O
+
+反 O
+覆 O
+祈 O
+請 O
+。 O
+愚 O
+誠 O
+難 O
+達 O
+， O
+聖 O
+聽 O
+未 O
+回 O
+。 O
+適 O
+承 O
+宣 O
+喻 O
+， O
+
+雖 O
+感 O
+亭 O
+育 O
+之 O
+仁 O
+， O
+敢 O
+布 O
+腹 O
+心 O
+， O
+庶 O
+收 O
+號 O
+令 O
+之 O
+汗 O
+。 O
+
+臣 O
+留 O
+形 O
+於 O
+藥 O
+劑 O
+之 O
+內 O
+， O
+
+託 O
+命 O
+於 O
+桑 O
+榆 O
+之 O
+際 O
+。 O
+
+老 O
+之 O
+云 O
+至 O
+， O
+
+嗟 O
+乎 O
+命 O
+焉 O
+。 O
+
+況 O
+位 O
+望 O
+盡 O
+高 O
+， O
+
+榮 B-PER
+達 I-PER
+之 O
+分 O
+有 O
+限 O
+， O
+
+年 O
+毛 O
+已 O
+滿 O
+， O
+
+危 O
+淺 O
+之 O
+生 O
+不 O
+恒 O
+。 O
+當 O
+陛 O
+下 O
+晏 O
+食 O
+
+宵 O
+寐 O
+之 O
+勞 O
+， O
+微 O
+臣 O
+不 O
+勝 O
+趍 O
+拜 O
+。 O
+顧 O
+微 O
+臣 O
+尸 O
+位 O
+
+曠 O
+官 O
+之 O
+資 O
+， O
+陛 O
+下 O
+必 O
+賜 O
+哀 O
+憐 O
+。 O
+
+臣 O
+匪 O
+席 O
+之 O
+誠 O
+， O
+
+豈 O
+卷 O
+舌 O
+於 O
+喘 O
+。 O
+
+臣 B-PER
+結 O
+草 O
+之 O
+念 O
+， O
+
+將 O
+酬 O
+恩 O
+於 O
+枯 O
+骸 O
+。 O
+
+伏 O
+願 O
+陛 O
+下 O
+， O
+
+知 O
+臣 O
+赤心 O
+， O
+
+察 O
+臣 O
+丹 O
+悃 O
+， O
+
+褰 O
+冕 O
+旒 O
+於 O
+一 O
+旦 O
+， O
+
+勿 O
+奪 O
+宿 O
+志 O
+於 O
+匹 O
+夫 O
+。 O
+」 O
+詔 O
+許 O
+之 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+】 O
+
+寬 O
+平 O
+五 O
+年 O
+， O
+
+薨 O
+， O
+年 O
+七十六 O
+。 O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+嘗 O
+奏 O
+
+創 O
+獎 O
+學 B-LOC
+院 I-LOC
+於 O
+左 B-LOC
+京 I-LOC
+三 O
+條 O
+。 O
+
+【 O
+西 B-OTH
+宮 I-OTH
+記 I-OTH
+、 O
+
+拾 B-OTH
+芥 I-OTH
+抄 I-OTH
+。 O
+
+】 O
+子 O
+遠 O
+瞻 O
+， O
+
+右 O
+近 O
+衛 O
+將 O
+監 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+友 O
+于 O
+， O
+
+參 O
+議 O
+大 O
+宰 O
+權 O
+帥 O
+。 O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+藤 O
+原 O
+山 O
+陰 O
+， O
+左 B-PER
+大 I-PER
+臣 I-PER
+魚 O
+名 O
+玄 O
+孫 O
+。 O
+
+【 O
+尊 O
+卑 O
+
+分 B-OTHpart
+脈 I-OTHpart
+。 O
+】 O
+父 O
+高 O
+房 O
+， O
+越 O
+前 O
+守 O
+。 O
+
+山 O
+陰 O
+， O
+齊 O
+衡 O
+、 O
+
+天 O
+安 O
+間 O
+， O
+
+歷 O
+左 O
+馬 O
+大 O
+允 O
+、 O
+
+右 O
+近 O
+衛 O
+權 O
+將 O
+監 O
+， O
+補 O
+藏 O
+人 O
+， O
+
+敘 O
+從 O
+五 O
+位 O
+下 O
+， O
+
+為 O
+備 O
+後 O
+權 O
+介 O
+。 O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+】 O
+貞 O
+觀 O
+中 O
+， O
+
+遷 O
+右 O
+近 O
+衛 O
+
+權 O
+少 O
+將 O
+， O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+復 O
+補 O
+藏 O
+人 O
+， O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+兼 O
+美 O
+濃 O
+守 O
+。 O
+尋 O
+敘 O
+從 O
+四 O
+位 O
+下 O
+， O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+】 O
+擢 O
+藏 O
+人 B-PER
+頭 I-PER
+， O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+。 O
+
+】 O
+兼 O
+右 O
+近 O
+衛 O
+
+權 O
+中 O
+將 O
+。 O
+
+及 O
+陽 B-PER
+成 I-PER
+帝 I-PER
+立 O
+， O
+
+奉 O
+仕 O
+太 O
+上 O
+皇 B-PERpart
+。 O
+
+上 O
+表 O
+請 O
+賜 O
+本 O
+品 O
+秩 O
+， O
+
+罷 O
+中 O
+將 O
+。 O
+
+不 O
+許 O
+。 O
+
+元 O
+慶 O
+元 O
+年 O
+， O
+
+上 O
+表 O
+曰 O
+： O
+
+「 O
+」 O
+姑 O
+山 O
+之 O
+下 O
+， O
+既 O
+非 O
+
+多 O
+士 O
+之 O
+林 O
+； O
+魏 O
+闕 O
+之 O
+前 O
+， O
+
+自 O
+是 O
+群 O
+材 O
+之 O
+府 O
+。 O
+
+仍 O
+辭 O
+帝 O
+闥 O
+， O
+請 O
+奉仙 O
+閭 O
+。 O
+而 O
+人 O
+願 O
+至 O
+切 O
+， O
+
+天 O
+從 O
+未 O
+彰 O
+。 O
+
+伏 O
+願 O
+天 O
+恩 O
+， O
+
+假 O
+以 O
+殊 O
+貸 O
+， O
+
+停 O
+臣 O
+中 O
+
+禁 O
+八 O
+屯 O
+之 O
+將 O
+， O
+
+終 O
+臣 B-PER
+外 O
+州 O
+四 O
+年 O
+之 O
+秩 O
+。 O
+則 O
+上 O
+有 O
+成 O
+功 O
+之 O
+慈 O
+， O
+
+下 O
+無 O
+忘 O
+恩 O
+之 O
+累 O
+。 O
+
+」 O
+詔 O
+許 O
+之 O
+。 O
+為 O
+右 B-ORG
+大 I-ORG
+辨 I-ORG
+， O
+
+表 O
+辭 O
+不 O
+許 O
+。 O
+
+三 O
+年 O
+， O
+又 O
+請 O
+解 O
+職 O
+， O
+不 O
+許 O
+。 O
+
+尋 O
+拜 O
+參 O
+議 O
+， O
+
+及 O
+檢 O
+校 O
+諸 O
+國 O
+班 O
+田 O
+。 O
+
+山 O
+陰 O
+領 O
+攝 O
+津 O
+， O
+遙 O
+攝 O
+其 O
+事 O
+。 O
+
+仁 O
+和 O
+二 O
+年 O
+， O
+
+敘 O
+從 O
+三 O
+位 O
+， O
+
+任 O
+中 B-PER
+納 I-PER
+言 I-PER
+， O
+
+兼 O
+民 O
+部 O
+卿 O
+。 O
+
+【 O
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+。 O
+
+】 O
+四 O
+年 O
+， O
+薨 O
+， O
+
+年 O
+六十五 O
+。 O
+
+【 O
+公 B-OTH
+卿 I-OTH
+補 I-OTH
+任 I-OTH
+、 O
+一 B-OTH
+代 I-OTH
+要 I-OTH
+記 I-OTH
+。 O
+】 O
+山 O
+陰 O
+建 O
+祠 O
+於 O
+吉 B-PERpart
+田 I-PERpart
+， O
+
+以 O
+祭 O
+春 O
+日 O
+明 O
+神 O
+， O
+
+至 O
+今 O
+崇 O
+奉 O
+相 O
+繼 O
+。 O
+
+【 O
+大 B-OTH
+鏡 I-OTH
+。 O
+】 O
+世 O
+傳 O
+山 O
+陰 O
+割 O
+魚 O
+鳥 O
+， O
+
+時 O
+人 O
+稱 O
+得 O
+庖 O
+丁 O
+術 O
+。 O
+
+【 O
+藤 B-OTH
+原 I-OTH
+系 I-OTH
+圖 I-OTH
+。 O
+
+】 O
+子 O
+有 O
+賴 O
+， O
+
+從 O
+五 O
+位 O
+下 O
+， O
+
+但 O
+馬 O
+守 O
+。 O
+
+公 O
+利 O
+， O
+
+從 O
+四 O
+位 O
+下 O
+， O
+
+但 O
+馬 O
+權 O
+首 O
+。 O
+
+遂 O
+長 O
+， O
+從 O
+五 O
+位 O
+下 O
+， O
+主 O
+殿 O
+頭 O
+。 O
+
+言 O
+行 O
+， O
+
+正 O
+五 O
+位 O
+下 O
+， O
+
+左 O
+近 O
+衛 O
+將 O
+監 O
+。 O
+
+兼 O
+三 O
+， O
+從 O
+四 O
+位 O
+下 O
+， O
+
+陸 O
+奧 O
+守 O
+。 O
+
+仲 O
+正 O
+， O
+從 O
+四 O
+位 O
+上 O
+， O
+
+左 O
+京 O
+大 O
+夫 O
+、 O
+攝 O
+津 O
+守 O
+。 O
+
+僧 O
+如 O
+無 O
+， O
+大 O
+僧 O
+都 O
+， O
+【 O
+尊 B-OTH
+卑 I-OTH
+分 I-OTH
+脈 I-OTH
+。 O
+
+】 O
+持 O
+律 O
+精 O
+苦 O
+， O
+
+穎 O
+敏 O
+過 O
+人 O
+， O
+宇 O
+多 O
+法 O
+皇 B-PER
+酷 O
+重 O
+之 O
+。 O
+
+【 O
+源 B-OTH
+平 I-OTH
+盛 I-OTH
+衰 I-OTH
+記 I-OTH
+。 O
+○ O
+
+十 B-OTH
+訓 I-OTH
+抄 I-OTH
+曰 O
+， O
+
+山 O
+陰 O
+赴 O
+筑 O
+
+紫 O
+， O
+見 O
+漁 O
+者 O
+捕 O
+龜 O
+將 O
+殺 O
+之 O
+。 O
+惱 O
+而 O
+買 O
+之 O
+放 O
+去 O
+。 O
+
+後 O
+攜 O
+嬰 O
+兒 O
+浮 O
+海 O
+。 O
+
+妻 O
+惡 O
+非 O
+己 O
+出 O
+， O
+
+與 O
+乳 O
+母 O
+謀 O
+， O
+為 O
+誤 O
+失 O
+手 O
+墮 O
+海 O
+。 O
+
+頃 O
+之 O
+， O
+
+一 O
+大 O
+龜 O
+負 O
+兒 O
+而 O
+出 O
+， O
+得 O
+不 O
+死 O
+。 O
+
+所 O
+謂 O
+兒 O
+， O
+
+即 O
+如 O
+無 O
+也 O
+。 O
+
+盛 B-OTHpart
+衰 I-OTHpart
+記 I-OTHpart
+亦 O
+載 O
+此 O
+事 O
+， O
+
+為 O
+所 O
+生 O
+母 O
+嘗 O
+放 O
+龜 O
+， O
+與 O
+此 O
+少 O
+異 O
+。 O
+
+】 O
+如 O
+無 O
+子 O
+在 O
+衡 O
+， O
+自 O
+有 O
+傳 O
+。 O
+
