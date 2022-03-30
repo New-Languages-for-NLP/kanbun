@@ -13,7 +13,6 @@
 中 I-PERSON
 宮 I-PERSON
 ， O
-
 諱 B-PERSON
 任 I-PERSON
 子 I-PERSON
@@ -26,30 +25,29 @@
 女 O
 也 O
 。 O
+
 【 O
 一 B-OTH
 代 I-OTH
 要 I-OTH
 記 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
 傳 I-OTH
 、 O
-
 後 B-OTH
 宮 I-OTH
 略 I-OTH
 傳 I-OTH
 、 O
-
 紹 B-OTH
 運 I-OTH
 要 I-OTH
 略 I-OTH
 。 O
+
 】 O
 文 O
 治 O
@@ -61,23 +59,21 @@
 三 O
 位 O
 。 O
+
 【 O
 玉 B-OTH
 海 I-OTH
 、 O
-
 仲 B-OTH
 資 I-OTH
 王 I-OTH
 記 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
 傳 I-OTH
 、 O
-
 後 B-OTH
 宮 I-OTH
 略 I-OTH
@@ -90,12 +86,10 @@
 元 O
 年 O
 ， O
-
 為 O
 女 O
 御 O
 ， O
-
 尋 O
 立 O
 為 O
@@ -106,7 +100,6 @@
 年 O
 十八 O
 ， O
-
 長 O
 於 O
 帝 O
@@ -118,19 +111,18 @@
 玉 B-OTH
 海 I-OTH
 、 O
-
 一 B-OTH
 代 I-OTH
 要 I-OTH
 記 I-OTH
 、 O
-
 帝 B-OTH
 王 I-OTH
 編 I-OTH
 年 I-OTH
 記 I-OTH
 。 O
+
 ○ O
 女 B-OTH
 院 I-OTH
@@ -148,6 +140,7 @@
 門 O
 院 O
 。 O
+
 【 O
 一 B-OTH
 代 I-OTH
@@ -160,7 +153,6 @@
 年 I-OTH
 記 I-OTH
 、 O
-
 愚 B-OTH
 管 I-OTH
 抄 I-OTH
@@ -172,7 +164,6 @@
 七 O
 年 O
 ， O
-
 出 O
 居 O
 八 O
@@ -185,10 +176,8 @@
 大 O
 納 O
 言 O
-
 源 O
 通 O
-
 親 O
 傾 O
 巧 O
@@ -198,11 +187,9 @@
 與 O
 帝 O
 乳 O
-
 丹 O
 亂 O
 ， O
-
 欲 O
 納 O
 其 O
@@ -229,18 +216,15 @@
 謀 O
 ， O
 窺 O
-
 伺 O
 帝 O
 舉 O
 動 O
 ， O
-
 陽 O
 以 O
 賴 O
 朝 O
-
 意 O
 ， O
 勸 O
@@ -249,7 +233,6 @@
 政 O
 事 O
 ， O
-
 省 O
 遊 O
 豫 O
@@ -267,7 +250,6 @@
 不 O
 懌 O
 ， O
-
 因 O
 設 O
 詭 O
@@ -299,22 +281,22 @@
 管 I-OTH
 抄 I-OTH
 。 O
+
 】 O
 正 O
 治 O
 二 O
 年 O
 ， O
-
 上 O
 號 O
 曰 O
-
 宜 O
 秋 O
 門 O
 院 O
 。 O
+
 【 O
 玉 B-OTH
 海 I-OTH
@@ -334,20 +316,19 @@
 為 O
 尼 O
 ， O
-
 法 O
 名 O
 清 O
 淨 O
 智 O
 。 O
+
 【 O
 一 B-OTH
 代 I-OTH
 要 I-OTH
 記 I-OTH
 、 O
-
 帝 B-OTH
 王 I-OTH
 編 I-OTH
@@ -366,7 +347,6 @@
 。 O
 
 ○ O
-
 歷 B-OTH
 代 I-OTH
 皇 I-OTH
@@ -384,16 +364,13 @@
 二 O
 年 O
 ， O
-
 辭 O
 院 O
 號 O
 、 O
-
 年 O
 官 O
 、 O
-
 年 O
 爵 O
 。 O
@@ -404,14 +381,12 @@
 紀 I-OTH
 抄 I-OTH
 、 O
-
 帝 B-OTH
 王 I-OTH
 編 I-OTH
 年 I-OTH
 記 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
@@ -421,7 +396,6 @@
 】 O
 曆 O
 仁 O
-
 元 O
 年 O
 十二 O
@@ -436,12 +410,13 @@
 皇 I-OTH
 紀 I-OTH
 。 O
+
 】 O
 年 O
 六十六 O
 。 O
-【 O
 
+【 O
 ○ O
 據 O
 玉 B-OTH
@@ -449,19 +424,17 @@
 為 O
 中 O
 宮 O
-
 年 O
 十八 O
 文 O
 。 O
-○ O
 
+○ O
 歷 B-OTH
 代 I-OTH
 皇 I-OTH
 紀 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
@@ -469,9 +442,9 @@
 作 O
 六十五 O
 ， O
-
 誤 O
 。 O
+
 】 O
 典 O
 侍 O
@@ -485,32 +458,32 @@
 典 O
 侍 O
 。 O
+
 生 O
 僧 O
 道 O
-
 守 O
 。 O
+
 【 O
 一 B-OTH
 代 I-OTH
 要 I-OTH
 記 I-OTH
 、 O
-
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
 運 I-OTH
 錄 I-OTH
 。 O
+
 】 O
 藤 B-PERSON
 原 I-PERSON
 重 I-PERSON
 子 I-PERSON
 ， O
-
 式 O
 部 O
 少 O
@@ -523,7 +496,6 @@
 
 【 O
 ○ O
-
 參 O
 取 O
 皇 B-OTH
@@ -537,19 +509,17 @@
 分 I-OTH
 脈 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
 傳 I-OTH
 。 O
-○ O
 
+○ O
 百 B-OTH
 鍊 I-OTH
 抄 I-OTH
 承 O
-
 元 O
 元 O
 年 O
@@ -565,20 +535,17 @@
 順德 B-PERSON
 帝 I-PERSON
 、 O
-
 【 O
 仲 B-OTH
 資 I-OTH
 王 I-OTH
 記 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
 傳 I-OTH
 、 O
-
 歷 B-OTH
 代 I-OTH
 皇 I-OTH
@@ -597,14 +564,12 @@
 要 I-OTH
 記 I-OTH
 、 O
-
 帝 B-OTH
 王 I-OTH
 編 I-OTH
 年 I-OTH
 記 I-OTH
 、 O
-
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
@@ -625,19 +590,16 @@
 王 I-OTH
 記 I-OTH
 、 O
-
 百 B-OTH
 鍊 I-OTH
 抄 I-OTH
 、 O
-
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
 運 I-OTH
 錄 I-OTH
 、 O
-
 諸 B-OTH
 門 I-OTH
 跡 I-OTH
@@ -654,13 +616,11 @@
 於 O
 帝 O
 ， O
-
 既 O
 而 O
 愛 O
 弛 O
 ， O
-
 由 O
 是 O
 重 O
@@ -681,13 +641,11 @@
 九 O
 年 O
 ， O
-
 敘 O
 從 O
 三 O
 位 O
 ， O
-
 尋 O
 進 O
 從 O
@@ -713,6 +671,7 @@
 增 B-OTH
 鏡 I-OTH
 。 O
+
 】 O
 承 O
 元 O
@@ -723,7 +682,6 @@
 三 O
 宮 O
 ， O
-
 進 O
 號 O
 脩 O
@@ -760,14 +718,12 @@
 臣 O
 於 O
 水 O
-
 無 O
 瀨 O
 殿 O
 賭 O
 射 O
 ， O
-
 遣 O
 近 O
 習 O
@@ -799,7 +755,6 @@
 視 O
 之 O
 ， O
-
 錢 O
 也 O
 。 O
@@ -815,7 +770,6 @@
 笑 O
 曰 O
 ： O
-
 「 O
 門 O
 院 O
@@ -829,7 +783,6 @@
 賭 O
 射 O
 ， O
-
 賭 O
 以 O
 錢 O
@@ -839,6 +792,7 @@
 事 O
 也 O
 。 O
+
 顧 O
 汝 O
 曹 O
@@ -858,7 +812,6 @@
 】 O
 承 O
 久 O
-
 三 O
 年 O
 ， O
@@ -871,20 +824,17 @@
 薙 O
 髮 O
 ， O
-
 門 O
 院 O
 亦 O
 為 O
 尼 O
 ， O
-
 【 O
 百 B-OTH
 鍊 I-OTH
 抄 I-OTH
 、 O
-
 光 O
 臺 O
 院 O
@@ -908,19 +858,15 @@
 院 O
 號 O
 、 O
-
 年 O
 官 O
 、 O
-
 年 O
 爵 O
 、 O
-
 封 O
 戶 O
 、 O
-
 諸 O
 司 O
 例 O
@@ -944,7 +890,6 @@
 
 【 O
 ○ O
-
 參 O
 取 O
 明 B-OTH
@@ -964,7 +909,6 @@
 入 O
 焉 O
 ， O
-
 門 O
 院 O
 畏 O
@@ -990,7 +934,6 @@
 ， O
 薨 O
 ， O
-
 年 O
 八十三 O
 。 O
@@ -1001,7 +944,6 @@
 皇 I-OTH
 紀 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
@@ -1013,11 +955,9 @@
 在 I-PERSON
 子 I-PERSON
 ， O
-
 法 B-LOC
 勝 I-LOC
 寺 I-LOC
-
 執 O
 行 O
 能 O
@@ -1032,7 +972,6 @@
 分 I-OTH
 脈 I-OTH
 、 O
-
 五 B-OTH
 代 I-OTH
 帝 I-OTH
@@ -1056,7 +995,6 @@
 西 B-LOC
 海 I-LOC
 ， O
-
 在 O
 子 O
 與 O
@@ -1067,6 +1005,7 @@
 在 O
 京師 O
 。 O
+
 母 O
 與 O
 參 O
@@ -1076,14 +1015,13 @@
 親 O
 姦 O
 ， O
-
 【 O
 愚 B-OTH
 管 I-OTH
 抄 I-OTH
 。 O
-○ O
 
+○ O
 藤 O
 原 O
 氏 O
@@ -1096,7 +1034,6 @@
 
 】 O
 通 O
-
 親 O
 視 O
 在 O
@@ -1109,7 +1046,6 @@
 入 O
 宮 O
 ， O
-
 稱 O
 宰 O
 相 O
@@ -1122,7 +1058,6 @@
 門 O
 帝 O
 、 O
-
 【 O
 增 B-OTH
 鏡 I-OTH
@@ -1202,7 +1137,6 @@
 灰 O
 壇 O
 ， O
-
 拜 O
 太 O
 神 O
@@ -1217,7 +1151,6 @@
 卜 O
 之 O
 ， O
-
 得 O
 為 O
 仁 O
@@ -1230,13 +1163,11 @@
 長 O
 仁 O
 ， O
-
 以 O
 卜 O
 不 O
 從 O
 ， O
-
 頗 O
 不 O
 樂 O
@@ -1245,7 +1176,6 @@
 及 O
 上 O
 食 O
-
 輟 O
 箸 O
 不 O
@@ -1263,13 +1193,11 @@
 之 O
 何 O
 ？ O
-
 無 O
 如 O
 之 O
 何 O
 ？ O
-
 」 O
 左 O
 右 O
@@ -1288,7 +1216,6 @@
 顧 O
 曰 O
 ： O
-
 「 O
 往 O
 語 O
@@ -1311,7 +1238,6 @@
 其 O
 意 O
 ， O
-
 喜 O
 不 O
 自 O
@@ -1339,7 +1265,6 @@
 大 O
 位 O
 ， O
-
 是 O
 為 O
 土 O
@@ -1347,6 +1272,7 @@
 門 O
 帝 O
 。 O
+
 在 O
 子 O
 本 O
@@ -1354,7 +1280,6 @@
 藤 B-PERSON
 原 I-PERSON
 ， O
-
 以 O
 僧 O
 女 O
@@ -1364,7 +1289,6 @@
 國 O
 母 O
 ， O
-
 因 O
 以 O
 通 O
@@ -1372,7 +1296,6 @@
 為 O
 父 O
 ， O
-
 冒 O
 源 O
 姓 O
@@ -1386,6 +1309,7 @@
 物 I-OTH
 語 I-OTH
 。 O
+
 】 O
 後 O
 及 O
@@ -1414,6 +1338,7 @@
 管 I-OTH
 抄 I-OTH
 。 O
+
 】 O
 土 O
 御 O
@@ -1422,13 +1347,11 @@
 即 O
 位 O
 ， O
-
 敘 O
 從 O
 三 O
 位 O
 ， O
-
 準 O
 三 O
 宮 O
@@ -1440,12 +1363,10 @@
 王 I-OTH
 記 I-OTH
 、 O
-
 百 B-OTH
 鍊 I-OTH
 抄 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
@@ -1458,7 +1379,6 @@
 二 O
 年 O
 ， O
-
 進 O
 號 O
 曰 O
@@ -1474,7 +1394,6 @@
 要 I-OTH
 記 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
@@ -1502,11 +1421,9 @@
 元 O
 年 O
 ， O
-
 為 O
 尼 O
 ， O
-
 法 O
 名 O
 真 O
@@ -1535,7 +1452,6 @@
 院 O
 居 O
 土 O
-
 御 O
 門 O
 殿 O
@@ -1572,7 +1488,6 @@
 七 O
 月 O
 ， O
-
 薨 O
 ， O
 年 O
@@ -1583,34 +1498,30 @@
 增 B-OTH
 鏡 I-OTH
 、 O
-
 歷 B-OTH
 代 I-OTH
 皇 I-OTH
 紀 I-OTH
 、 O
-
 帝 B-OTH
 王 I-OTH
 編 I-OTH
 年 I-OTH
 記 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
 傳 I-OTH
 。 O
-○ O
 
+○ O
 百 B-OTH
 鍊 I-OTH
 抄 I-OTH
 作 O
 八十六 O
 ， O
-
 一 B-OTH
 代 I-OTH
 要 I-OTH
@@ -1624,6 +1535,7 @@
 三 O
 日 O
 。 O
+
 【 O
 園 B-OTH
 太 I-OTH
@@ -1655,14 +1567,12 @@
 年 I-OTH
 記 I-OTH
 、 O
-
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
 運 I-OTH
 錄 I-OTH
 、 O
-
 諸 B-OTH
 門 I-OTH
 跡 I-OTH
@@ -1673,6 +1583,7 @@
 要 I-OTH
 記 I-OTH
 。 O
+
 ○ O
 女 B-OTH
 院 I-OTH
@@ -1690,7 +1601,6 @@
 御 O
 方 O
 ， O
-
 【 O
 帝 B-OTH
 王 I-OTH
@@ -1722,7 +1632,6 @@
 年 I-OTH
 紀 I-OTH
 、 O
-
 仲 B-OTH
 資 I-OTH
 王 I-OTH
@@ -1745,7 +1654,6 @@
 親 I-PERSON
 王 I-PERSON
 、 O
-
 【 O
 帝 B-OTH
 王 I-OTH
@@ -1753,26 +1661,24 @@
 年 I-OTH
 記 I-OTH
 、 O
-
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
 運 I-OTH
 錄 I-OTH
 、 O
-
 諸 B-OTH
 門 I-OTH
 跡 I-OTH
 譜 I-OTH
 。 O
+
 】 O
 賴 B-PERSON
 仁 I-PERSON
 親 I-PERSON
 王 I-PERSON
 、 O
-
 【 O
 帝 B-OTH
 王 I-OTH
@@ -1782,7 +1688,6 @@
 、 O
 平 O
 戶 O
-
 記 B-OTH
 寬 O
 平 O
@@ -1800,7 +1705,6 @@
 納 I-PERSON
 言 I-PERSON
 典 O
-
 侍 O
 所 O
 生 O
@@ -1822,7 +1726,6 @@
 運 I-OTH
 錄 I-OTH
 、 O
-
 女 B-OTH
 院 I-OTH
 小 I-OTH
@@ -1839,7 +1742,6 @@
 帝 O
 崩 O
 ， O
-
 歸 O
 京師 O
 。 O
@@ -1862,7 +1764,6 @@
 大 O
 納 O
 言 O
-
 定 O
 能 O
 女 O
@@ -1882,18 +1783,17 @@
 親 B-PERSON
 王 I-PERSON
 、 O
-
 僧 O
 行 O
 超 O
 。 O
+
 【 O
 一 B-OTH
 代 I-OTH
 要 I-OTH
 記 I-OTH
 、 O
-
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
@@ -1908,26 +1808,24 @@
 少 O
 納 O
 言 O
-
 信 B-PERSON
 康 I-PERSON
 女 I-PERSON
 也 O
 。 O
+
 【 O
 一 O
 代 O
 要 O
 記 O
 、 O
-
 帝 B-OTH
 王 I-OTH
 編 I-OTH
 年 I-OTH
 記 I-OTH
 、 O
-
 尊 B-OTH
 卑 I-OTH
 分 I-OTH
@@ -1948,8 +1846,8 @@
 皇 I-OTH
 紀 I-OTH
 。 O
-○ O
 
+○ O
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
@@ -1969,6 +1867,7 @@
 親 B-PERSON
 王 I-PERSON
 。 O
+
 【 O
 帝 B-OTH
 王 I-OTH
@@ -1981,7 +1880,6 @@
 張 O
 局 O
 ， O
-
 法 O
 眼 O
 顯 O
@@ -2037,7 +1935,6 @@
 入 O
 宮 O
 ， O
-
 有 O
 寵 O
 。 O
@@ -2064,7 +1961,6 @@
 親 I-PERSON
 王 I-PERSON
 、 O
-
 【 O
 皇 B-OTH
 胤 I-OTH
@@ -2072,15 +1968,14 @@
 運 I-OTH
 錄 I-OTH
 。 O
+
 】 O
 瀧 O
 、 O
-
 姬 O
 法 O
 師 O
 ， O
-
 亦 O
 並 O
 以 O
@@ -2089,8 +1984,8 @@
 入 O
 宮 O
 。 O
-瀧 O
 
+瀧 O
 ， O
 生 O
 覺 O
@@ -2099,21 +1994,21 @@
 親 B-PERSON
 王 I-PERSON
 。 O
+
 【 O
 一 B-OTH
 代 I-OTH
 要 I-OTH
 記 I-OTH
 、 O
-
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
 運 I-OTH
 錄 I-OTH
 。 O
-○ O
 
+○ O
 要 B-OTH
 記 I-OTH
 稱 O
@@ -2121,7 +2016,6 @@
 波 O
 局 O
 ， O
-
 金 O
 不 O
 取 O
@@ -2132,27 +2026,23 @@
 法 O
 師 O
 ， O
-
 生 O
 僧 O
 覺 O
 譽 O
 、 O
-
 【 O
 一 B-OTH
 代 I-OTH
 要 I-OTH
 記 I-OTH
 、 O
-
 皇 B-OTH
 胤 I-OTH
 紹 I-OTH
 運 I-OTH
 錄 I-OTH
 、 O
-
 諸 B-OTH
 門 I-OTH
 跡 I-OTH
@@ -2164,7 +2054,6 @@
 道 O
 伊 O
 、 O
-
 僧 B-OTH
 道 I-OTH
 緣 I-OTH
