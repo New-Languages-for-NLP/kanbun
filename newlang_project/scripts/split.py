@@ -24,6 +24,9 @@ def split(test_size: float, random_state: int, lang: str):
     train_set, validation_set = train_test_split(
         docs, test_size=test_size, random_state=random_state
     )
+    validation_set, test_set = train_test_split(
+        validation_set, test_size=test_size, random_state=random_state
+    )
 
     # the DocBin will store the training documents
     train_db = DocBin()
@@ -37,8 +40,15 @@ def split(test_size: float, random_state: int, lang: str):
         validation_db.add(doc)
     validation_db.to_disk((corpus_path / "dev.spacy"))
 
+    # Save the test Docs to disk
+    test_db = DocBin()
+    for doc in test_set:
+        test_db.add(doc)
+    test_db.to_disk((corpus_path / "test.spacy"))
+
     print(f"🚂 Created {len(train_set)} training docs")
     print(f"😊 Created {len(validation_set)} validation docs")
+    print(f"🧪 Created {len(test_set)} test docs")
 
 
 if __name__ == "__main__":
