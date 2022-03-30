@@ -200,9 +200,9 @@
 廢 O
 立 O
 ， O
-古 B-PER
-麻 I-PER
-呂 I-PER
+古 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 黨 O
 之 O
 ， O
@@ -241,11 +241,11 @@
 浦 O
 郡 O
 人 O
-川 B-PER
-部 I-PER
-酒 I-PER
-麻 I-PER
-呂 I-PER
+川 B-PERSON
+部 I-PERSON
+酒 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 ， O
 
 為 O
@@ -335,8 +335,8 @@
 紀 I-OTH
 。 O
 】 O
-古 B-PER
-麻 I-PER
+古 B-PERSON
+麻 I-PERSON
 
 呂 O
 子 O
@@ -870,9 +870,9 @@
 。 O
 
 】 O
-皇 B-PER
-太 I-PER
-子 I-PER
+皇 B-PERSON
+太 I-PERSON
+子 I-PERSON
 以 O
 佐 O
 伯 O
@@ -883,9 +883,9 @@
 參 O
 議 O
 ， O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 藤 O
 
 原 O
@@ -918,8 +918,8 @@
 城 O
 ， O
 
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 留 O
 守 O
 ， O
@@ -942,8 +942,8 @@
 ， O
 
 廢 O
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 。 O
 
 繼 O
@@ -1248,7 +1248,7 @@
 ， O
 
 語 O
-臣 B-PER
+臣 B-PERSON
 曰 O
 ： O
 
@@ -2321,10 +2321,10 @@
 遣 O
 參 O
 議 O
-藤 B-PER
-原 I-PER
-真 I-PER
-先 I-PER
+藤 B-PERSON
+原 I-PERSON
+真 I-PERSON
+先 I-PERSON
 ， O
 
 饗 O
@@ -2377,8 +2377,8 @@
 下 O
 。 O
 
-副 B-PER
-使 I-PER
+副 B-PERSON
+使 I-PERSON
 紀 O
 喬 O
 容 O
@@ -2423,8 +2423,8 @@
 大 O
 使 O
 、 O
-副 B-PER
-使 I-PER
+副 B-PERSON
+使 I-PERSON
 ， O
 並 O
 唐 O
@@ -2469,9 +2469,9 @@
 給 O
 。 O
 
-高 B-PER
-麗 I-PER
-使 I-PER
+高 B-PERSON
+麗 I-PERSON
+使 I-PERSON
 王 O
 新 B-LOC
 福 I-LOC

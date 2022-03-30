@@ -1,8 +1,8 @@
-可 B-PER
-美 I-PER
-真 I-PER
-手 I-PER
-命 I-PER
+可 B-PERSON
+美 I-PERSON
+真 I-PERSON
+手 I-PERSON
+命 I-PERSON
 。 O
 
 【 O
@@ -28,12 +28,12 @@
 父 O
 曰 O
 
-櫛 B-PER
-玉 I-PER
-饒 I-PER
-速 I-PER
-日 I-PER
-命 I-PER
+櫛 B-PERSON
+玉 I-PERSON
+饒 I-PERSON
+速 I-PERSON
+日 I-PERSON
+命 I-PERSON
 ， O
 
 【 O
@@ -111,9 +111,9 @@
 而 O
 無 O
 有 O
-櫛 B-PER
-玉 I-PER
-饒 I-PER
+櫛 B-PERSON
+玉 I-PERSON
+饒 I-PERSON
 速 O
 日 O
 之 O
@@ -142,9 +142,9 @@
 
 謂 O
 為 O
-物 B-PER
-部 I-PER
-氏 I-PER
+物 B-PERSON
+部 I-PERSON
+氏 I-PERSON
 之 O
 遠 O
 祖 O
@@ -171,8 +171,8 @@
 張 O
 連 O
 、 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 連 O
 之 O
 出 O
@@ -310,10 +310,10 @@
 
 】 O
 生 O
-可 B-PER
-美 I-PER
-真 I-PER
-手 I-PER
+可 B-PERSON
+美 I-PERSON
+真 I-PERSON
+手 I-PERSON
 ， O
 
 因 O
@@ -497,9 +497,9 @@
 得 O
 更 O
 稱 O
-天 B-PER
-神 I-PER
-子 I-PER
+天 B-PERSON
+神 I-PERSON
+子 I-PERSON
 ， O
 
 以 O
@@ -513,10 +513,10 @@
 ： O
 
 「 O
-天 B-PER
-神 I-PER
-之 I-PER
-子 I-PER
+天 B-PERSON
+神 I-PERSON
+之 I-PERSON
+子 I-PERSON
 亦 O
 多 O
 。 O
@@ -528,10 +528,10 @@
 ， O
 
 實 O
-天 B-PER
-神 I-PER
-之 I-PER
-子 I-PER
+天 B-PERSON
+神 I-PERSON
+之 I-PERSON
+子 I-PERSON
 者 O
 ， O
 必 O
@@ -619,8 +619,8 @@
 日 O
 固 O
 知 O
-天 B-PER
-神 I-PER
+天 B-PERSON
+神 I-PERSON
 之 O
 意 O
 ， O
@@ -663,9 +663,9 @@
 
 是 O
 為 O
-物 B-PER
-部 I-PER
-氏 I-PER
+物 B-PERSON
+部 I-PERSON
+氏 I-PERSON
 之 O
 遠 O
 祖 O
@@ -699,18 +699,18 @@
 髓 O
 彥 O
 舉 O
-宇 B-PER
-摩 I-PER
-志 I-PER
-麻 I-PER
+宇 B-PERSON
+摩 I-PERSON
+志 I-PERSON
+麻 I-PERSON
 治 O
 為 O
 君 O
 。 O
-宇 B-PER
-摩 I-PER
-志 I-PER
-麻 I-PER
+宇 B-PERSON
+摩 I-PERSON
+志 I-PERSON
+麻 I-PERSON
 治 O
 殺 O
 長 O
@@ -747,10 +747,10 @@
 。 O
 
 】 O
-可 B-PER
-美 I-PER
-真 I-PER
-手 I-PER
+可 B-PERSON
+美 I-PERSON
+真 I-PERSON
+手 I-PERSON
 以 O
 其 O
 所 O
@@ -779,14 +779,14 @@
 
 既 O
 而 O
-可 B-PER
-美 I-PER
-真 I-PER
-手 I-PER
+可 B-PERSON
+美 I-PERSON
+真 I-PERSON
+手 I-PERSON
 率 O
 天 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 ， O
 
 討 O
@@ -805,10 +805,10 @@
 時 O
 ， O
 
-可 B-PER
-美 I-PER
-真 I-PER
-手 I-PER
+可 B-PERSON
+美 I-PERSON
+真 I-PERSON
+手 I-PERSON
 先 O
 奉天 O
 瑞 O
@@ -880,14 +880,14 @@
 殿 O
 ， O
 
-可 B-PER
-美 I-PER
-真 I-PER
-手 I-PER
+可 B-PERSON
+美 I-PERSON
+真 I-PERSON
+手 I-PERSON
 率 O
 內 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 ， O
 樹 O
 矛 O
@@ -907,8 +907,8 @@
 為 O
 帝 O
 及 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 ， O
 奉天 O
 瑞 O
@@ -994,14 +994,14 @@
 支 O
 或 O
 作 O
-彥 B-PER
-湯 I-PER
-友 I-PER
+彥 B-PERSON
+湯 I-PERSON
+友 I-PERSON
 。 O
 】 O
-彥 B-PER
-湯 I-PER
-支 I-PER
+彥 B-PERSON
+湯 I-PERSON
+支 I-PERSON
 
 命 O
 ， O
@@ -1031,9 +1031,9 @@
 其 O
 職 O
 。 O
-彥 B-PER
-湯 I-PER
-支 I-PER
+彥 B-PERSON
+湯 I-PERSON
+支 I-PERSON
 孫 O
 大 O
 木 O
@@ -1043,11 +1043,11 @@
 
 有子 O
 曰 O
-大 B-PER
-綜 I-PER
-麻 I-PER
-杵 I-PER
-命 I-PER
+大 B-PERSON
+綜 I-PERSON
+麻 I-PERSON
+杵 I-PERSON
+命 I-PERSON
 。 O
 
 大 O
@@ -1097,8 +1097,8 @@
 色 O
 雄 O
 班 O
-神 B-PER
-物 I-PER
+神 B-PERSON
+物 I-PERSON
 。 O
 
 吉 O
@@ -1174,10 +1174,10 @@
 
 子 O
 曰 O
-大 B-PER
-新 I-PER
-河 I-PER
-命 I-PER
+大 B-PERSON
+新 I-PERSON
+河 I-PERSON
+命 I-PERSON
 、 O
 
 曰 O
@@ -1211,8 +1211,8 @@
 。 O
 
 】 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 十 O
 千 O
 根 O
@@ -1246,8 +1246,8 @@
 葺 O
 、 O
 
-中 B-PER
-臣 I-PER
+中 B-PERSON
+臣 I-PERSON
 大 O
 鹿 O
 島 O
@@ -1342,8 +1342,8 @@
 
 賜 O
 姓 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 連 O
 公 O
 。 O
@@ -1363,8 +1363,8 @@
 
 既 O
 書 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 十 O
 千 O
 根 O
@@ -1407,9 +1407,9 @@
 自 O
 是 O
 ， O
-物 B-PER
-部 I-PER
-氏 I-PER
+物 B-PERSON
+部 I-PERSON
+氏 I-PERSON
 世 O
 掌 O
 之 O
@@ -1422,8 +1422,8 @@
 。 O
 
 】 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 武 O
 諸 O
 隅 O
@@ -1528,23 +1528,23 @@
 、 O
 
 曰 O
-伊 B-PER
-與 I-PER
-連 I-PER
-公 I-PER
+伊 B-PERSON
+與 I-PERSON
+連 I-PERSON
+公 I-PERSON
 、 O
 曰 O
-小 B-PER
-神 I-PER
-連 I-PER
-公 I-PER
+小 B-PERSON
+神 I-PERSON
+連 I-PERSON
+公 I-PERSON
 、 O
 
 曰 O
-大 B-PER
-別 I-PER
-連 I-PER
-公 I-PER
+大 B-PERSON
+別 I-PERSON
+連 I-PERSON
+公 I-PERSON
 。 O
 
 其 O

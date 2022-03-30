@@ -57,9 +57,9 @@
 幹 O
 。 O
 
-聖 B-PER
-武 I-PER
-帝 I-PER
+聖 B-PERSON
+武 I-PERSON
+帝 I-PERSON
 創 O
 東 B-LOC
 大 I-LOC
@@ -428,8 +428,8 @@
 ， O
 
 兼 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 宮 O
 大 O
 夫 O
@@ -444,10 +444,10 @@
 奉 O
 詔 O
 與 O
-藤 B-PER
-原 I-PER
-種 I-PER
-繼 I-PER
+藤 B-PERSON
+原 I-PERSON
+種 I-PERSON
+繼 I-PERSON
 等 O
 ， O
 
@@ -891,9 +891,9 @@
 之 O
 才 O
 ， O
-聖 B-PER
-武 I-PER
-帝 I-PER
+聖 B-PERSON
+武 I-PERSON
+帝 I-PERSON
 殊 O
 寵 O
 
@@ -1261,8 +1261,8 @@
 下 O
 郡 O
 國 O
-中 B-PER
-村 I-PER
+中 B-PERSON
+村 I-PERSON
 ， O
 
 因 O
@@ -1300,7 +1300,7 @@
 公 O
 麻 O
 
-呂 B-PER
+呂 B-PERSON
 頗 O
 有 O
 巧 O
@@ -1473,8 +1473,8 @@
 名 O
 。 O
 
-武 B-PER
-帝 I-PER
+武 B-PERSON
+帝 I-PERSON
 聞 O
 而 O
 召 O
@@ -1520,8 +1520,8 @@
 賜 O
 姓 O
 背 O
-奈 B-PER
-王 I-PER
+奈 B-PERSON
+王 I-PERSON
 ， O
 累 O
 進 O
@@ -1564,11 +1564,11 @@
 朝 O
 真 O
 。 O
-橘 B-PER
-奈 I-PER
-良 I-PER
-麻 I-PER
-呂 I-PER
+橘 B-PERSON
+奈 I-PERSON
+良 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 之 O
 變 O
 ， O
@@ -1701,8 +1701,8 @@
 ： O
 
 「 O
-自 B-PER
-臣 I-PER
+自 B-PERSON
+臣 I-PERSON
 之 O
 先 O
 世 O
@@ -1843,11 +1843,11 @@
 人 O
 。 O
 
-藤 B-PER
-原 I-PER
-仲 I-PER
-麻 I-PER
-呂 I-PER
+藤 B-PERSON
+原 I-PERSON
+仲 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 之 O
 亂 O
 ， O

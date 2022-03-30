@@ -1,14 +1,14 @@
 【 O
-仲 B-PER
-哀 I-PER
-天皇 I-PER
+仲 B-PERSON
+哀 I-PERSON
+天皇 I-PERSON
 】 O
 仲 O
 哀 O
 神 O
 功 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 ， O
 
 氣 O
@@ -56,8 +56,8 @@
 ， O
 立 O
 為 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 
 及 O
@@ -109,9 +109,9 @@
 臣 O
 尊 O
 曰 O
-皇 B-PER
-太 I-PER
-后 I-PER
+皇 B-PERSON
+太 I-PERSON
+后 I-PERSON
 。 O
 
 攝 O
@@ -143,8 +143,8 @@
 主 O
 ， O
 
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 奉 O
 遺 O
 腹 O
@@ -175,15 +175,15 @@
 宜 O
 立 O
 為 O
-天 B-PER
-子 I-PER
+天 B-PERSON
+子 I-PERSON
 ， O
 
 而 O
 立 O
 為 O
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 ， O
 
 名 O
@@ -192,8 +192,8 @@
 正 O
 。 O
 
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 疑 O
 乎 O
 
@@ -230,8 +230,8 @@
 歷 O
 敘 O
 
-帝 B-PER
-王 I-PER
+帝 B-PERSON
+王 I-PERSON
 治 O
 天 O
 下 O
@@ -250,8 +250,8 @@
 
 不 O
 數 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 至 O
 於 O
@@ -284,8 +284,8 @@
 ， O
 
 如 O
-推 B-PER
-古 I-PER
+推 B-PERSON
+古 I-PERSON
 、 O
 
 持 O
@@ -293,13 +293,13 @@
 ， O
 皆 O
 稱 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 ， O
 
 而 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 則 O
 否 O
 。 O
@@ -315,8 +315,8 @@
 曰 O
 神 O
 功 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 ， O
 
 而 O
@@ -357,15 +357,15 @@
 之 O
 際 O
 ， O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 稱 O
 制 O
 ， O
 實 O
 行 O
-天 B-PER
-子 I-PER
+天 B-PERSON
+子 I-PERSON
 之 O
 事 O
 ， O
@@ -459,8 +459,8 @@
 諡 O
 神 O
 功 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 
 【 O
@@ -478,22 +478,22 @@
 人 O
 大 O
 兄 O
-王 B-PER
-女 I-PER
+王 B-PERSON
+女 I-PERSON
 也 O
 。 O
 
 生 O
-麛 B-PER
-坂 I-PER
-皇 I-PER
-子 I-PER
+麛 B-PERSON
+坂 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 、 O
 
-忍 B-PER
-熊 I-PER
-皇 I-PER
-子 I-PER
+忍 B-PERSON
+熊 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 。 O
 
 【 O
@@ -518,8 +518,8 @@
 譽 O
 屋 O
 別 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 。 O
 【 O
 日 B-OTH
@@ -529,25 +529,25 @@
 
 】 O
 【 O
-應 B-PER
-神 I-PER
-天 I-PER
-皇 I-PER
+應 B-PERSON
+神 I-PERSON
+天 I-PERSON
+皇 I-PERSON
 】 O
 應 O
 神 O
 仲 O
 姬 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 ， O
 五百 O
 城 O
 
 入 O
 彥 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 之 O
 孫 O
 ， O
@@ -583,38 +583,38 @@
 
 立 O
 為 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 生 O
-荒 B-PER
-田 I-PER
-皇 I-PER
-女 I-PER
+荒 B-PERSON
+田 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 、 O
 
-仁 B-PER
-德 I-PER
-帝 I-PER
+仁 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 、 O
-根 B-PER
-鳥 I-PER
-皇 I-PER
-子 I-PER
+根 B-PERSON
+鳥 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 。 O
 
-仁 B-PER
-德 I-PER
-帝 I-PER
+仁 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 即 O
 位 O
 ， O
 
 尊 O
 曰 O
-皇 B-PER
-太 I-PER
-后 I-PER
+皇 B-PERSON
+太 I-PERSON
+后 I-PERSON
 。 O
 
 【 O
@@ -642,35 +642,35 @@
 大 O
 中 O
 彥 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 、 O
 
 大 O
 山 O
 守 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 、 O
 
 去 O
 來 O
-真 B-PER
-稚 I-PER
-皇 I-PER
-子 I-PER
+真 B-PERSON
+稚 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 、 O
 
-大原 B-PER
-皇 I-PER
-女 I-PER
+大原 B-PERSON
+皇 I-PERSON
+女 I-PERSON
 、 O
 
 澇 O
 來 O
 田 O
-皇 B-PER
-女 I-PER
+皇 B-PERSON
+女 I-PERSON
 。 O
 【 O
 日 B-OTH
@@ -682,36 +682,36 @@
 弟 O
 姬 O
 ， O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 妹 O
 也 O
 。 O
 生 O
-阿 B-PER
-倍 I-PER
-皇 I-PER
-女 I-PER
+阿 B-PERSON
+倍 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 、 O
 
 淡 O
 路 O
-御 B-PER
-原 I-PER
-皇 I-PER
-女 I-PER
+御 B-PERSON
+原 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 、 O
-紀 B-PER
-菟 I-PER
-野 I-PER
-皇 I-PER
-女 I-PER
+紀 B-PERSON
+菟 I-PERSON
+野 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 、 O
 
-三 B-PER
-野 I-PER
-郎 I-PER
-女 I-PER
+三 B-PERSON
+野 I-PERSON
+郎 I-PERSON
+女 I-PERSON
 。 O
 【 O
 日 B-OTH
@@ -720,10 +720,10 @@
 。 O
 ○ O
 
-三 B-PER
-野 I-PER
-郎 I-PER
-女 I-PER
+三 B-PERSON
+野 I-PERSON
+郎 I-PERSON
+女 I-PERSON
 據 O
 古 O
 事 O
@@ -907,9 +907,9 @@
 。 O
 
 生 O
-皇 B-PER
-太 I-PER
-子 I-PER
+皇 B-PERSON
+太 I-PERSON
+子 I-PERSON
 菟 O
 道 O
 
@@ -918,16 +918,16 @@
 子 O
 、 O
 
-八 B-PER
-田 I-PER
-皇 I-PER
-女 I-PER
+八 B-PERSON
+田 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 、 O
 
-雌 B-PER
-鳥 I-PER
-皇 I-PER
-女 I-PER
+雌 B-PERSON
+鳥 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 。 O
 
 【 O
@@ -989,8 +989,8 @@
 長 O
 日 O
 子 O
-王 B-PER
-女 I-PER
+王 B-PERSON
+女 I-PERSON
 ， O
 息 O
 
@@ -1004,13 +1004,13 @@
 
 】 O
 生 O
-稚 B-PER
-野 I-PER
-毛 I-PER
-二 I-PER
-派 I-PER
-皇 I-PER
-子 I-PER
+稚 B-PERSON
+野 I-PERSON
+毛 I-PERSON
+二 I-PERSON
+派 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 。 O
 【 O
 日 B-OTH
@@ -1064,8 +1064,8 @@
 隼 O
 總 O
 別 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 。 O
 【 O
 日 B-OTH
@@ -1087,14 +1087,14 @@
 葉 O
 
 枝 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 、 O
-小 B-PER
-葉 I-PER
-枝 I-PER
-皇 I-PER
-子 I-PER
+小 B-PERSON
+葉 I-PERSON
+枝 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 、 O
 
 幡 O
@@ -1129,12 +1129,12 @@
 媛 O
 ， O
 
-吉 B-PER
-備 I-PER
-武 I-PER
-彥 I-PER
-命 I-PER
-女 I-PER
+吉 B-PERSON
+備 I-PERSON
+武 I-PERSON
+彥 I-PERSON
+命 I-PERSON
+女 I-PERSON
 也 O
 。 O
 
@@ -1527,10 +1527,10 @@
 
 ○ O
 按 O
-景 B-PER
-行 I-PER
-帝 I-PER
-妃 I-PER
+景 B-PERSON
+行 I-PERSON
+帝 I-PERSON
+妃 I-PERSON
 有 O
 迦 O
 
@@ -1546,16 +1546,16 @@
 
 】 O
 生 O
-川 B-PER
-原 I-PER
-田 I-PER
-郎 I-PER
-女 I-PER
+川 B-PERSON
+原 I-PERSON
+田 I-PERSON
+郎 I-PERSON
+女 I-PERSON
 、 O
 
-玉 B-PER
-郎 I-PER
-女 I-PER
+玉 B-PERSON
+郎 I-PERSON
+女 I-PERSON
 、 O
 
 忍 O
@@ -1567,15 +1567,15 @@
 、 O
 
 登 O
-富 B-PER
-志 I-PER
-郎 I-PER
-女 I-PER
+富 B-PERSON
+志 I-PERSON
+郎 I-PERSON
+女 I-PERSON
 、 O
 
-堅 B-PER
-石 I-PER
-王 I-PER
+堅 B-PERSON
+石 I-PERSON
+王 I-PERSON
 。 O
 
 【 O
@@ -1586,18 +1586,18 @@
 
 】 O
 【 O
-仁 B-PER
-德 I-PER
-天 I-PER
-皇 I-PER
+仁 B-PERSON
+德 I-PERSON
+天 I-PERSON
+皇 I-PERSON
 】 O
 仁 O
 德 O
 磐 O
 之 O
 媛 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 ， O
 
 葛 O
@@ -1617,8 +1617,8 @@
 ， O
 立 O
 為 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 
 七 O
@@ -1637,11 +1637,11 @@
 ， O
 帝 O
 欲 O
-納 B-PER
-八 I-PER
-田 I-PER
-皇 I-PER
-女 I-PER
+納 B-PERSON
+八 I-PERSON
+田 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 為 O
 妃 O
 ， O
@@ -1707,10 +1707,10 @@
 ， O
 
 召 O
-八 B-PER
-田 I-PER
-皇 I-PER
-女 I-PER
+八 B-PERSON
+田 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 納 O
 宮 O
 中 O
@@ -1834,14 +1834,14 @@
 ： O
 
 「 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 納 O
-八 B-PER
-田 I-PER
-若 I-PER
-郎 I-PER
-女 I-PER
+八 B-PERSON
+田 I-PERSON
+若 I-PERSON
+郎 I-PERSON
+女 I-PERSON
 
 ， O
 太 O
@@ -1861,8 +1861,8 @@
 言 O
 ， O
 
-太 B-PER
-后 I-PER
+太 B-PERSON
+后 I-PERSON
 恚 O
 恨 O
 ， O
@@ -1887,17 +1887,17 @@
 稱 O
 后 O
 曰 O
-太 B-PER
-后 I-PER
+太 B-PERSON
+后 I-PERSON
 ， O
 蓋 O
-上 B-PER
-世 I-PER
-皇 I-PER
-后 I-PER
+上 B-PERSON
+世 I-PERSON
+皇 I-PERSON
+后 I-PERSON
 、 O
-太 B-PER
-后 I-PER
+太 B-PERSON
+后 I-PERSON
 ， O
 
 稱 O
@@ -1916,8 +1916,8 @@
 
 凡 O
 尊 O
-天 B-PER
-子 I-PER
+天 B-PERSON
+子 I-PERSON
 之 O
 正 O
 嫡 O
@@ -1925,8 +1925,8 @@
 
 概 O
 稱 O
-太 B-PER
-后 I-PER
+太 B-PERSON
+后 I-PERSON
 也 O
 。 O
 
@@ -2062,10 +2062,10 @@
 十一 O
 月 O
 ， O
-帝 B-PER
+帝 B-PERSON
 欲 O
 見 O
-后 B-PER
+后 B-PERSON
 ， O
 幸 O
 山 O
@@ -2103,10 +2103,10 @@
 陛 O
 下 O
 納 O
-八 B-PER
-田 I-PER
-皇 I-PER
-女 I-PER
+八 B-PERSON
+田 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 為 O
 妃 O
 。 O
@@ -2164,10 +2164,10 @@
 、 O
 
 住 O
-吉 B-PER
-仲 I-PER
-皇 I-PER
-子 I-PER
+吉 B-PERSON
+仲 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 、 O
 
 反 O
@@ -2175,8 +2175,8 @@
 帝 O
 、 O
 
-允恭 B-PER
-帝 I-PER
+允恭 B-PERSON
+帝 I-PERSON
 。 O
 
 帝 O
@@ -2271,11 +2271,11 @@
 事 I-OTH
 記 I-OTH
 作 O
-八 B-PER
-田 I-PER
-若 I-PER
-郎 I-PER
-女 I-PER
+八 B-PERSON
+田 I-PERSON
+若 I-PERSON
+郎 I-PERSON
+女 I-PERSON
 。 O
 
 】 O
@@ -2296,8 +2296,8 @@
 菟 O
 道 O
 稚 O
-郎 B-PER
-子 I-PER
+郎 B-PERSON
+子 I-PERSON
 臨 O
 薨 O
 ， O
@@ -2318,8 +2318,8 @@
 之 O
 以 O
 成 O
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 之 O
 志 O
 ， O
@@ -2328,17 +2328,17 @@
 磐 O
 之 O
 媛 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 不 O
 懌 O
 。 O
 及 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 幸 O
 紀 O
 國 O
@@ -2356,8 +2356,8 @@
 磐 O
 之 O
 媛 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 崩 O
 。 O
 三十八 O
@@ -2368,8 +2368,8 @@
 
 立 O
 為 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 【 O
 日 B-OTH
@@ -2445,9 +2445,9 @@
 
 尊 O
 曰 O
-皇 B-PER
-大 I-PER
-后 I-PER
+皇 B-PERSON
+大 I-PERSON
+后 I-PERSON
 。 O
 
 【 O
@@ -2463,24 +2463,24 @@
 曰 O
 ， O
 
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 娶 O
-八 B-PER
-田 I-PER
-若 I-PER
-郎 I-PER
+八 B-PERSON
+田 I-PERSON
+若 I-PERSON
+郎 I-PERSON
 
 女 O
 ， O
 又 O
 娶 O
-宇 B-PER
-遲 I-PER
-能 I-PER
-若 I-PER
-郎 I-PER
-女 I-PER
+宇 B-PERSON
+遲 I-PERSON
+能 I-PERSON
+若 I-PERSON
+郎 I-PERSON
+女 I-PERSON
 ， O
 共 O
 無 O
@@ -2534,7 +2534,7 @@
 向 O
 國 O
 有 O
-女子 B-PER
+女子 B-PERSON
 ， O
 
 名 O
@@ -2569,8 +2569,8 @@
 帝 O
 時 O
 為 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 ， O
 
 見 O
@@ -2644,14 +2644,14 @@
 大 O
 草 O
 香 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 、 O
 
 幡 O
 梭 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 
 【 O
@@ -2701,9 +2701,9 @@
 磨 O
 ， O
 
-譽 B-PER
-田 I-PER
-天皇 I-PER
+譽 B-PERSON
+田 I-PERSON
+天皇 I-PERSON
 偶 O
 獵 O
 于 O
@@ -2723,8 +2723,8 @@
 來 O
 。 O
 
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 怪 O
 之 O
 ， O
@@ -2805,9 +2805,9 @@
 請 O
 為 O
 
-奏 B-PER
-天 I-PER
-皇 I-PER
+奏 B-PERSON
+天 I-PERSON
+皇 I-PERSON
 。 O
 」 O
 建 O
@@ -2821,7 +2821,7 @@
 日 O
 ， O
 
-天皇 B-PER
+天皇 B-PERSON
 使 O
 髮 O
 長 O
@@ -2849,19 +2849,19 @@
 
 】 O
 【 O
-履 B-PER
-中 I-PER
-天 I-PER
-皇 I-PER
+履 B-PERSON
+中 I-PERSON
+天 I-PERSON
+皇 I-PERSON
 】 O
-履 B-PER
-中 I-PER
-草 I-PER
-香 I-PER
-幡 I-PER
-梭 I-PER
-皇 I-PER
-后 I-PER
+履 B-PERSON
+中 I-PERSON
+草 I-PERSON
+香 I-PERSON
+幡 I-PERSON
+梭 I-PERSON
+皇 I-PERSON
+后 I-PERSON
 ， O
 
 一 O
@@ -2893,9 +2893,9 @@
 下 O
 命 O
 。 O
-仁 B-PER
-德 I-PER
-帝 I-PER
+仁 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 為 O
 定 O
 
@@ -2919,10 +2919,10 @@
 ， O
 
 生 O
-中 B-PER
-蒂 I-PER
-皇 I-PER
-后 I-PER
+中 B-PERSON
+蒂 I-PERSON
+皇 I-PERSON
+后 I-PERSON
 。 O
 帝 O
 六 O
@@ -2933,8 +2933,8 @@
 
 立 O
 為 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 。 O
 帝 O
 崩 O
@@ -2943,10 +2943,10 @@
 
 再 O
 為 O
-雄 B-PER
-略 I-PER
-皇 I-PER
-后 I-PER
+雄 B-PERSON
+略 I-PERSON
+皇 I-PERSON
+后 I-PERSON
 。 O
 
 【 O
@@ -2961,11 +2961,11 @@
 媛 O
 ， O
 
-葦 B-PER
-田 I-PER
-宿 I-PER
-彌 I-PER
-女 I-PER
+葦 B-PERSON
+田 I-PERSON
+宿 I-PERSON
+彌 I-PERSON
+女 I-PERSON
 也 O
 。 O
 
@@ -2976,27 +2976,27 @@
 月 O
 ， O
 為 O
-皇 B-PER
-妃 I-PER
+皇 B-PERSON
+妃 I-PERSON
 。 O
 生 O
-市 B-PER
-邊 I-PER
-押 I-PER
-羽 I-PER
-皇 I-PER
-子 I-PER
+市 B-PERSON
+邊 I-PERSON
+押 I-PERSON
+羽 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 、 O
 
-御 B-PER
-馬 I-PER
-皇 I-PER
-子 I-PER
+御 B-PERSON
+馬 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 、 O
-青 B-PER
-海 I-PER
-皇 I-PER
-女 I-PER
+青 B-PERSON
+海 I-PERSON
+皇 I-PERSON
+女 I-PERSON
 
 。 O
 五 O
@@ -3146,15 +3146,15 @@
 吉 O
 仲 O
 
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 為 O
 使 O
 。 O
 
 仲 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 姦 O
 之 O
 。 O
@@ -3165,8 +3165,8 @@
 ， O
 
 仲 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 伏 O
 誅 O
 。 O
@@ -3184,8 +3184,8 @@
 黑 O
 媛 O
 為 O
-皇 B-PER
-妃 I-PER
+皇 B-PERSON
+妃 I-PERSON
 。 O
 查 O
 二 O
@@ -3270,8 +3270,8 @@
 鏡 I-OTH
 以 O
 仲 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 所 O
 姦 O
 
@@ -3293,11 +3293,11 @@
 。 O
 
 】 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 以 O
-皇 B-PER
-妃 I-PER
+皇 B-PERSON
+妃 I-PERSON
 薨 O
 
 為 O
@@ -3376,8 +3376,8 @@
 魚 O
 磯 O
 別 O
-王 B-PER
-女 I-PER
+王 B-PERSON
+女 I-PERSON
 也 O
 。 O
 
@@ -3530,8 +3530,8 @@
 ， O
 神 O
 櫛 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 ， O
 
 讚 B-LOC
@@ -3564,10 +3564,10 @@
 ， O
 
 蓋 O
-神 B-PER
-櫛 I-PER
-皇 I-PER
-子 I-PER
+神 B-PERSON
+櫛 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 之 O
 後 O
 也 O

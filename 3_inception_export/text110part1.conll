@@ -5,10 +5,10 @@
 使 O
 主 O
 ， O
-玉 B-PER
-田 I-PER
-宿 I-PER
-彌子 I-PER
+玉 B-PERSON
+田 I-PERSON
+宿 I-PERSON
+彌子 I-PERSON
 也 O
 。 O
 
@@ -29,14 +29,14 @@
 菟 O
 、 O
 
-蘇 B-PER
-我 I-PER
-滿 I-PER
-智 I-PER
+蘇 B-PERSON
+我 I-PERSON
+滿 I-PERSON
+智 I-PERSON
 、 O
 
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 伊 O
 莒 O
 弗 O
@@ -63,15 +63,15 @@
 圓 O
 時 O
 為 O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 。 O
 
 境 O
 黑 O
 彥 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 與 O
 眉 O
 輪 O
@@ -102,8 +102,8 @@
 聞 O
 ， O
 
-人 B-PER
-臣 I-PER
+人 B-PERSON
+臣 I-PERSON
 有 O
 故 O
 ， O
@@ -126,8 +126,8 @@
 。 O
 
 今 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 與 O
 王 O
 來 O
@@ -270,9 +270,9 @@
 鳥 O
 ， O
 
-木 B-PER
-菟 I-PER
-子 I-PER
+木 B-PERSON
+菟 I-PERSON
+子 I-PERSON
 也 O
 。 O
 
@@ -290,16 +290,16 @@
 。 O
 
 】 O
-雄 B-PER
-略 I-PER
-帝 I-PER
+雄 B-PERSON
+略 I-PERSON
+帝 I-PERSON
 即 O
 位 O
 ， O
 
 為 O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 。 O
 
 歷 O
@@ -317,13 +317,13 @@
 朝 O
 。 O
 及 O
-仁賢 B-PER
-帝 I-PER
+仁賢 B-PERSON
+帝 I-PERSON
 崩 O
 ， O
 
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 未 O
 登 O
 祚 O
@@ -345,8 +345,8 @@
 佯 O
 為 O
 
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 營 O
 宮 O
 ， O
@@ -363,18 +363,18 @@
 ， O
 
 無 O
-人 B-PER
-臣 I-PER
+人 B-PERSON
+臣 I-PERSON
 禮 O
 。 O
 時 O
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 竊 O
 悅 O
 
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 麤 O
 鹿 O
 火 O
@@ -422,8 +422,8 @@
 。 O
 
 」 O
-大 B-PER
-子 I-PER
+大 B-PERSON
+子 I-PERSON
 將 O
 往 O
 ， O
@@ -468,8 +468,8 @@
 之 O
 。 O
 
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 恚 O
 之 O
 ， O
@@ -504,8 +504,8 @@
 間 O
 。 O
 
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 乃 O
 逡 O
 巡 O
@@ -523,8 +523,8 @@
 去 O
 。 O
 
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 贈 O
 歌 O
 於 O
@@ -541,8 +541,8 @@
 是 O
 ， O
 
-大 B-PER
-子 I-PER
+大 B-PERSON
+子 I-PERSON
 始 O
 知 O
 其 O
@@ -554,8 +554,8 @@
 怒 O
 真 O
 烏 O
-父 B-PER
-子 I-PER
+父 B-PERSON
+子 I-PERSON
 不 O
 敬 O
 之 O
@@ -649,8 +649,8 @@
 此 O
 為 O
 
-仁賢 B-PER
-帝 I-PER
+仁賢 B-PERSON
+帝 I-PERSON
 事 O
 。 O
 而 O
@@ -746,8 +746,8 @@
 無 O
 遺 O
 。 O
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 即 O
 位 O
 ， O
@@ -803,8 +803,8 @@
 。 O
 
 】 O
-蘇 B-PER
-我 I-PER
+蘇 B-PERSON
+我 I-PERSON
 稻 O
 目 O
 宿 O

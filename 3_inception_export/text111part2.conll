@@ -13,8 +13,8 @@
 時 O
 太 O
 上 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 將 O
 幸 O
 參 O
@@ -164,9 +164,9 @@
 ， O
 
 拜 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 。 O
 二 O
 年 O
@@ -187,9 +187,9 @@
 養 O
 、 O
 
-禮 B-PER
-麻 I-PER
-呂 I-PER
+禮 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 、 O
 
 鷹 O
@@ -197,11 +197,11 @@
 ， O
 黨 O
 于 O
-橘 B-PER
-奈 I-PER
-良 I-PER
-麻 I-PER
-呂 I-PER
+橘 B-PERSON
+奈 I-PERSON
+良 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 。 O
 敕 O
 曰 O
@@ -261,17 +261,17 @@
 。 O
 
 】 O
-石 B-PER
-上 I-PER
-麻 I-PER
-呂 I-PER
+石 B-PERSON
+上 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 。 O
 
 本 B-ORG
 姓 O
-物 B-PER
-部 I-PER
-連 I-PER
+物 B-PERSON
+部 I-PERSON
+連 I-PERSON
 。 O
 大 O
 連 O
@@ -388,17 +388,17 @@
 敗 O
 走 O
 ， O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 以 O
 下 O
 皆 O
 散 O
 ， O
 
-獨 B-PER
-麻 I-PER
-呂 I-PER
+獨 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 從 O
 之 O
 。 O
@@ -512,9 +512,9 @@
 
 尋 O
 拜 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 。 O
 
 大 O
@@ -529,9 +529,9 @@
 位 O
 ， O
 為 O
-大 B-PER
-納 I-PER
-言 I-PER
+大 B-PERSON
+納 I-PERSON
+言 I-PERSON
 兼 O
 太 O
 宰 O
@@ -566,9 +566,9 @@
 年 O
 ， O
 拜 O
-右 B-PER
-大 I-PER
-臣 I-PER
+右 B-PERSON
+大 I-PERSON
+臣 I-PERSON
 ， O
 益 O
 封 O
@@ -591,9 +591,9 @@
 位 O
 ， O
 轉 O
-左 B-PER
-大 I-PER
-臣 I-PER
+左 B-PERSON
+大 I-PERSON
+臣 I-PERSON
 。 O
 
 遷 O
@@ -602,8 +602,8 @@
 城 O
 ， O
 
-麻 B-PER
-呂 I-PER
+麻 B-PERSON
+呂 I-PERSON
 為 O
 難 O
 
@@ -665,10 +665,10 @@
 多 O
 治 O
 此 O
-三 B-PER
-宅 I-PER
-麻 I-PER
-呂 I-PER
+三 B-PERSON
+宅 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 ， O
 
 就 O
@@ -719,10 +719,10 @@
 端 O
 。 O
 
-子 B-PER
-乙 I-PER
-麻 I-PER
-呂 I-PER
+子 B-PERSON
+乙 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 。 O
 
 【 O
@@ -733,15 +733,15 @@
 。 O
 
 】 O
-物 B-PER
-部 I-PER
-乙 I-PER
-麻 I-PER
-呂 I-PER
+物 B-PERSON
+部 I-PERSON
+乙 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 。 O
-乙 B-PER
-麻 I-PER
-呂 I-PER
+乙 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 ， O
 
 天平 O
@@ -818,9 +818,9 @@
 ， O
 
 拜 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 。 O
 二 O
 年 O
@@ -835,9 +835,9 @@
 紀 I-OTH
 。 O
 】 O
-乙 B-PER
-麻 I-PER
-呂 I-PER
+乙 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 為 O
 人 O
 穎 O
@@ -923,9 +923,9 @@
 
 無 O
 出 O
-乙 B-PER
-麻 I-PER
-呂 I-PER
+乙 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 右 O
 者 O
 ， O

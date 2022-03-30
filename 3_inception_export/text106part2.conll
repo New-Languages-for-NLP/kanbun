@@ -1,5 +1,5 @@
-高 B-PER
-皇 I-PER
+高 B-PERSON
+皇 I-PERSON
 產 O
 靈 O
 
@@ -123,8 +123,8 @@
 臣 O
 從 O
 神 O
-武 B-PER
-帝 I-PER
+武 B-PERSON
+帝 I-PERSON
 ， O
 
 東 O
@@ -155,10 +155,10 @@
 
 夜 O
 夢 O
-天 B-PER
-照 I-PER
-大 I-PER
-神 I-PER
+天 B-PERSON
+照 I-PERSON
+大 I-PERSON
+神 I-PERSON
 ， O
 
 【 O
@@ -166,10 +166,10 @@
 事 I-OTH
 記 I-OTH
 為 O
-高 B-PER
-木 I-PER
-大 I-PER
-神 I-PER
+高 B-PERSON
+木 I-PERSON
+大 I-PERSON
+神 I-PERSON
 。 O
 】 O
 曰 O
@@ -393,9 +393,9 @@
 ， O
 
 使 O
-道 B-PER
-臣 I-PER
-命 I-PER
+道 B-PERSON
+臣 I-PERSON
+命 I-PERSON
 、 O
 
 大 O
@@ -736,8 +736,8 @@
 
 密 O
 命 O
-道 B-PER
-臣 I-PER
+道 B-PERSON
+臣 I-PERSON
 ， O
 帥 O
 大 O
@@ -2557,8 +2557,8 @@
 「 O
 吾 O
 聞 O
-天 B-PER
-神 I-PER
+天 B-PERSON
+神 I-PERSON
 至 O
 ， O
 
@@ -2617,9 +2617,9 @@
 至 O
 ， O
 
-聚 B-PER
-八十 I-PER
-梟 I-PER
+聚 B-PERSON
+八十 I-PERSON
+梟 I-PERSON
 帥 O
 
 ， O
@@ -2828,10 +2828,10 @@
 孫 O
 為 O
 
-賀 B-PER
-茂 I-PER
-縣 I-PER
-主 I-PER
+賀 B-PERSON
+茂 I-PERSON
+縣 I-PERSON
+主 I-PERSON
 。 O
 【 O
 古 B-OTH
@@ -2885,26 +2885,26 @@
 
 初 O
 名 O
-天 B-PER
-香 I-PER
-語 I-PER
-山 I-PER
-命 I-PER
+天 B-PERSON
+香 I-PERSON
+語 I-PERSON
+山 I-PERSON
+命 I-PERSON
 ， O
 
 一 O
 名 O
-手 B-PER
-栗 I-PER
-彥 I-PER
-命 I-PER
+手 B-PERSON
+栗 I-PERSON
+彥 I-PERSON
+命 I-PERSON
 。 O
 
-宇 B-PER
-摩 I-PER
-治 I-PER
-麻 I-PER
-治 I-PER
+宇 B-PERSON
+摩 I-PERSON
+治 I-PERSON
+麻 I-PERSON
+治 I-PERSON
 異 O
 母 O
 兄 O
@@ -3038,10 +3038,10 @@
 倉 O
 下 O
 夢 O
-天 B-PER
-照 I-PER
-大 I-PER
-神 I-PER
+天 B-PERSON
+照 I-PERSON
+大 I-PERSON
+神 I-PERSON
 ， O
 【 O
 古 B-OTH
@@ -3050,14 +3050,14 @@
 以 O
 為 O
 夢 O
-天 B-PER
-照 I-PER
-大 I-PER
-神 I-PER
+天 B-PERSON
+照 I-PERSON
+大 I-PERSON
+神 I-PERSON
 及 O
-高 B-PER
-木 I-PER
-神 I-PER
+高 B-PERSON
+木 I-PERSON
+神 I-PERSON
 。 O
 
 】 O

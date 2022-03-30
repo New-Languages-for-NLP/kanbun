@@ -141,9 +141,9 @@
 。 O
 
 】 O
-仁 B-PER
-明 I-PER
-帝 I-PER
+仁 B-PERSON
+明 I-PERSON
+帝 I-PERSON
 即 O
 位 O
 ， O
@@ -448,8 +448,8 @@
 
 選 O
 取 O
-辨 B-PER
-官 I-PER
+辨 B-PERSON
+官 I-PERSON
 、 O
 
 式 B-LOC
@@ -532,7 +532,7 @@
 。 O
 
 』 O
-臣 B-PER
+臣 B-PERSON
 聞 O
 此 O
 語 O
@@ -558,8 +558,8 @@
 ， O
 
 而 O
-臣 B-PER
-子 I-PER
+臣 B-PERSON
+子 I-PERSON
 之 O
 理 O
 ， O
@@ -579,8 +579,8 @@
 小 O
 野 O
 
-朝 B-PER
-臣 I-PER
+朝 B-PERSON
+臣 I-PERSON
 恒 O
 柯 O
 、 O
@@ -669,8 +669,8 @@
 。 O
 
 】 O
-文德 B-PER
-帝 I-PER
+文德 B-PERSON
+帝 I-PERSON
 即 O
 位 O
 ， O
@@ -997,8 +997,8 @@
 ， O
 
 兼 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 宮 O
 大 O
 夫 O
@@ -1536,8 +1536,8 @@
 宜 O
 。 O
 
-公 B-PER
-卿 I-PER
+公 B-PERSON
+卿 I-PERSON
 議 O
 曰 O
 ： O
@@ -1664,9 +1664,9 @@
 岑 O
 守 O
 與 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 良 O
 岑 O
 安世 O
@@ -2194,17 +2194,17 @@
 傳 O
 。 O
 
-藤 B-PER
-原 I-PER
-三 I-PER
-守 I-PER
+藤 B-PERSON
+原 I-PERSON
+三 I-PERSON
+守 I-PERSON
 ， O
 參 O
 議 O
-巨 B-PER
-勢 I-PER
-麻 I-PER
-呂 I-PER
+巨 B-PERSON
+勢 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 之 O
 孫 O
 ， O
@@ -2350,9 +2350,9 @@
 ， O
 任 O
 權 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 ， O
 
 再 O
@@ -2447,13 +2447,13 @@
 帶 O
 
 權 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 侍 O
 太 O
 上 O
-皇 B-PER
+皇 B-PERSON
 。 O
 
 【 O
@@ -2479,9 +2479,9 @@
 卿 O
 ， O
 轉 O
-大 B-PER
-納 I-PER
-言 I-PER
+大 B-PERSON
+納 I-PERSON
+言 I-PERSON
 ， O
 
 兼 O
@@ -2520,9 +2520,9 @@
 。 O
 
 】 O
-仁 B-PER
-明 I-PER
-帝 I-PER
+仁 B-PERSON
+明 I-PERSON
+帝 I-PERSON
 即 O
 位 O
 ， O
@@ -2533,9 +2533,9 @@
 ， O
 
 兼 O
-皇 B-PER
-太 I-PER
-子 I-PER
+皇 B-PERSON
+太 I-PERSON
+子 I-PERSON
 傅 O
 。 O
 
@@ -2546,9 +2546,9 @@
 ， O
 
 拜 O
-右 B-PER
-大 I-PER
-臣 I-PER
+右 B-PERSON
+大 I-PERSON
+臣 I-PERSON
 。 O
 七 O
 年 O
@@ -2572,8 +2572,8 @@
 後 O
 山 O
 科 O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 。 O
 【 O
 公 B-OTH
@@ -2694,21 +2694,21 @@
 ， O
 
 與 O
-右 B-PER
-大 I-PER
-臣 I-PER
-藤 B-PER
-原 I-PER
-冬 I-PER
-嗣 I-PER
+右 B-PERSON
+大 I-PERSON
+臣 I-PERSON
+藤 B-PERSON
+原 I-PERSON
+冬 I-PERSON
+嗣 I-PERSON
 、 O
 
-藤 B-PER
-原 I-PER
-葛 I-PER
-野 I-PER
-麻 I-PER
-呂 I-PER
+藤 B-PERSON
+原 I-PERSON
+葛 I-PERSON
+野 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 、 O
 
 參 O
@@ -2821,18 +2821,18 @@
 。 O
 
 】 O
-藤 B-PER
-原 I-PER
-有 I-PER
-貞 I-PER
+藤 B-PERSON
+原 I-PERSON
+有 I-PERSON
+貞 I-PERSON
 ， O
 
 童 O
 齓 O
 侍 O
-仁 B-PER
-明 I-PER
-帝 I-PER
+仁 B-PERSON
+明 I-PERSON
+帝 I-PERSON
 ， O
 以 O
 娣 O

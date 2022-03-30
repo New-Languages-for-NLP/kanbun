@@ -3,10 +3,10 @@
 葺 O
 ， O
 
-孝 B-PER
-昭 I-PER
-皇 I-PER
-子 I-PER
+孝 B-PERSON
+昭 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 天 O
 足 O
 彥 O
@@ -36,9 +36,9 @@
 世 O
 。 O
 】 O
-崇 B-PER
-神 I-PER
-帝 I-PER
+崇 B-PERSON
+神 I-PERSON
+帝 I-PERSON
 十 O
 年 O
 ， O
@@ -259,8 +259,8 @@
 從 O
 神 O
 功 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 征 O
 新 B-LOC
 羅 I-LOC
@@ -407,9 +407,9 @@
 君 O
 。 O
 
-崇 B-PER
-神 I-PER
-帝 I-PER
+崇 B-PERSON
+神 I-PERSON
+帝 I-PERSON
 時 O
 ， O
 
@@ -678,8 +678,8 @@
 】 O
 忍 O
 熊 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 之 O
 亂 O
 ， O
@@ -1074,8 +1074,8 @@
 三十二 O
 年 O
 ， O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 日 O
 葉 O
 酢 O
@@ -1104,8 +1104,8 @@
 群 O
 臣 O
 議 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 葬 O
 儀 O
 。 O
@@ -1221,8 +1221,8 @@
 物 O
 樹 O
 于 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 陵 O
 。 O
 
@@ -1268,8 +1268,8 @@
 改 O
 姓 O
 土 O
-部 B-PER
-臣 I-PER
+部 B-PERSON
+臣 I-PERSON
 。 O
 
 自 O
@@ -1315,10 +1315,10 @@
 。 O
 
 】 O
-新 B-PER
-羅 I-PER
-王 I-PER
-子 I-PER
+新 B-PERSON
+羅 I-PERSON
+王 I-PERSON
+子 I-PERSON
 也 O
 。 O
 垂 O
@@ -1415,8 +1415,8 @@
 
 】 O
 足 O
-高 B-PER
-玉 I-PER
+高 B-PERSON
+玉 I-PERSON
 、 O
 
 鵜 O
@@ -1424,9 +1424,9 @@
 鹿 O
 、 O
 
-赤 B-PER
-石 I-PER
-玉 I-PER
+赤 B-PERSON
+石 I-PERSON
+玉 I-PERSON
 、 O
 出 O
 石 O
@@ -1984,13 +1984,13 @@
 ， O
 
 生 O
-多 B-PER
-遲 I-PER
-摩 I-PER
-母 I-PER
-呂 I-PER
-須 I-PER
-玖 I-PER
+多 B-PERSON
+遲 I-PERSON
+摩 I-PERSON
+母 I-PERSON
+呂 I-PERSON
+須 I-PERSON
+玖 I-PERSON
 。 O
 母 O
 呂 O
@@ -1998,11 +1998,11 @@
 
 久 O
 生 O
-多 B-PER
-遲 I-PER
-摩 I-PER
-斐 I-PER
-泥 I-PER
+多 B-PERSON
+遲 I-PERSON
+摩 I-PERSON
+斐 I-PERSON
+泥 I-PERSON
 。 O
 斐 O
 泥 O
@@ -2040,9 +2040,9 @@
 訶 O
 、 O
 
-清 B-PER
-日 I-PER
-子 I-PER
+清 B-PERSON
+日 I-PERSON
+子 I-PERSON
 。 O
 
 多 O
@@ -2342,9 +2342,9 @@
 祠 O
 。 O
 
-清 B-PER
-彥 I-PER
-子 I-PER
+清 B-PERSON
+彥 I-PERSON
+子 I-PERSON
 田 O
 道 O
 間 O

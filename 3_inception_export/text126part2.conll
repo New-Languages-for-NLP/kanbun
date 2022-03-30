@@ -1,7 +1,7 @@
-藤 B-PER
-原 I-PER
-春 I-PER
-津 I-PER
+藤 B-PERSON
+原 I-PERSON
+春 I-PERSON
+津 I-PERSON
 ， O
 
 風 O
@@ -10,8 +10,8 @@
 麗 O
 ， O
 
-清 B-PER
-警 I-PER
+清 B-PERSON
+警 I-PERSON
 寬 O
 雅 O
 。 O
@@ -29,9 +29,9 @@
 ， O
 
 遷 O
-皇 B-PER
-太 I-PER
-后 I-PER
+皇 B-PERSON
+太 I-PERSON
+后 I-PERSON
 宮 O
 大 O
 進 O
@@ -85,10 +85,10 @@
 左 O
 丞 O
 相 O
-藤 B-PER
-原 I-PER
-朝 I-PER
-臣 I-PER
+藤 B-PERSON
+原 I-PERSON
+朝 I-PERSON
+臣 I-PERSON
 公 O
 ， O
 
@@ -204,10 +204,10 @@
 右 O
 馬 O
 頭 O
-藤 B-PER
-原 I-PER
-朝 I-PER
-臣 I-PER
+藤 B-PERSON
+原 I-PERSON
+朝 I-PERSON
+臣 I-PERSON
 春 O
 津 O
 ， O
@@ -434,10 +434,10 @@
 。 O
 
 】 O
-清 B-PER
-原 I-PER
-夏 I-PER
-野 I-PER
+清 B-PERSON
+原 I-PERSON
+夏 I-PERSON
+野 I-PERSON
 ， O
 
 初 O
@@ -537,8 +537,8 @@
 野 O
 名 O
 觸 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 諱 O
 ， O
 
@@ -620,8 +620,8 @@
 ， O
 補 O
 藏 O
-人 B-PER
-頭 I-PER
+人 B-PERSON
+頭 I-PERSON
 ， O
 
 兼 O
@@ -783,9 +783,9 @@
 ， O
 
 雖 O
-朝 B-PER
-集 I-PER
-使 I-PER
+朝 B-PERSON
+集 I-PERSON
+使 I-PERSON
 ， O
 
 不 O
@@ -888,9 +888,9 @@
 ， O
 
 任 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 ， O
 兼 O
 左 O
@@ -1052,8 +1052,8 @@
 ， O
 
 為 O
-親 B-PER
-王 I-PER
+親 B-PERSON
+王 I-PERSON
 國 O
 ， O
 送 O
@@ -1105,8 +1105,8 @@
 支 O
 無 O
 品 O
-親 B-PER
-王 I-PER
+親 B-PERSON
+王 I-PERSON
 之 O
 用 O
 。 O
@@ -1130,9 +1130,9 @@
 ， O
 
 為 O
-大 B-PER
-納 I-PER
-言 I-PER
+大 B-PERSON
+納 I-PERSON
+言 I-PERSON
 。 O
 
 【 O
@@ -1206,9 +1206,9 @@
 ， O
 
 為 O
-右 B-PER
-大 I-PER
-臣 I-PER
+右 B-PERSON
+大 I-PERSON
+臣 I-PERSON
 ， O
 
 大 O
@@ -1226,8 +1226,8 @@
 
 】 O
 初 O
-藤 B-PER
-原 I-PER
+藤 B-PERSON
+原 I-PERSON
 不 O
 比 O
 等 O
@@ -1278,10 +1278,10 @@
 貞 O
 、 O
 
-藤 B-PER
-原 I-PER
-常 I-PER
-嗣 I-PER
+藤 B-PERSON
+原 I-PERSON
+常 I-PERSON
+嗣 I-PERSON
 、 O
 
 文 B-LOC
@@ -1332,9 +1332,9 @@
 。 O
 
 】 O
-仁 B-PER
-明 I-PER
-帝 I-PER
+仁 B-PERSON
+明 I-PERSON
+帝 I-PERSON
 即 O
 位 O
 ， O
@@ -1454,8 +1454,8 @@
 稱 O
 雙 O
 岡 O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 。 O
 又 O
 以 O
@@ -1466,8 +1466,8 @@
 
 稱 O
 比 O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 。 O
 
 【 O
@@ -1491,10 +1491,10 @@
 雄 O
 。 O
 
-清 B-PER
-原 I-PER
-瀧 I-PER
-雄 I-PER
+清 B-PERSON
+原 I-PERSON
+瀧 I-PERSON
+雄 I-PERSON
 ， O
 
 天 O
@@ -1622,10 +1622,10 @@
 。 O
 
 】 O
-清 B-PER
-原 I-PER
-秋 I-PER
-雄 I-PER
+清 B-PERSON
+原 I-PERSON
+秋 I-PERSON
+雄 I-PERSON
 ， O
 
 工 O

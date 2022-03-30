@@ -33,8 +33,8 @@
 蓋 O
 丹 O
 馬 O
-物 B-PER
-裹 I-PER
+物 B-PERSON
+裹 I-PERSON
 、 O
 
 田 O
@@ -177,8 +177,8 @@
 酢 O
 媛 O
 
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 先 O
 垂 O
 仁 O
@@ -279,8 +279,8 @@
 。 O
 
 而 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 既 O
 崩 O
 ， O
@@ -593,8 +593,8 @@
 者 O
 ， O
 願 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 統 O
 御 O
 宇 O
@@ -1100,9 +1100,9 @@
 三 O
 女 O
 於 O
-仁 B-PER
-德 I-PER
-帝 I-PER
+仁 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 。 O
 
 履 O
@@ -1110,17 +1110,17 @@
 帝 O
 之 O
 為 O
-皇 B-PER
-太 I-PER
-子 I-PER
+皇 B-PERSON
+太 I-PERSON
+子 I-PERSON
 也 O
 ， O
 
-住 B-PER
-吉 I-PER
-仲 I-PER
-皇 I-PER
-子 I-PER
+住 B-PERSON
+吉 I-PERSON
+仲 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 反 O
 ， O
 阿 O
@@ -1135,9 +1135,9 @@
 ， O
 
 扶 O
-皇 B-PER
-太 I-PER
-子 I-PER
+皇 B-PERSON
+太 I-PERSON
+子 I-PERSON
 上 O
 馬 O
 而 O
@@ -1150,9 +1150,9 @@
 。 O
 
 】 O
-皇 B-PER
-太 I-PER
-子 I-PER
+皇 B-PERSON
+太 I-PERSON
+子 I-PERSON
 即 O
 位 O
 ， O
@@ -1270,8 +1270,8 @@
 ： O
 
 「 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 既 O
 赦 O
 我 O
@@ -1443,8 +1443,8 @@
 
 普 O
 洞 O
-王 B-PER
-子 I-PER
+王 B-PERSON
+子 I-PERSON
 也 O
 。 O
 
@@ -1504,9 +1504,9 @@
 。 O
 
 】 O
-應 B-PER
-神 I-PER
-帝 I-PER
+應 B-PERSON
+神 I-PERSON
+帝 I-PERSON
 
 十四 O
 年 O
@@ -1701,9 +1701,9 @@
 良 O
 王 O
 。 O
-仁 B-PER
-德 I-PER
-帝 I-PER
+仁 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 時 O
 ， O
 以 O
@@ -1752,8 +1752,8 @@
 賜 O
 普 O
 
-洞 B-PER
-王 I-PER
+洞 B-PERSON
+王 I-PERSON
 姓 O
 波 O
 陀 O
@@ -1831,8 +1831,8 @@
 ， O
 
 付 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 將 O
 刑 O
 之 O
@@ -2009,8 +2009,8 @@
 是 O
 ， O
 
-秦 B-PER
-氐 I-PER
+秦 B-PERSON
+氐 I-PERSON
 分 O
 散 O
 不 O

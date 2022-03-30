@@ -1,6 +1,6 @@
-藤 B-PER
-原 I-PER
-助 I-PER
+藤 B-PERSON
+原 I-PERSON
+助 I-PERSON
 ， O
 少 O
 遊 O
@@ -394,13 +394,13 @@
 錄 I-OTH
 。 O
 】 O
-藤 B-PER
-原 I-PER
-諸葛 I-PER
+藤 B-PERSON
+原 I-PERSON
+諸葛 I-PERSON
 ， O
-右 B-PER
-大 I-PER
-臣 I-PER
+右 B-PERSON
+大 I-PERSON
+臣 I-PERSON
 三 O
 守 O
 孫 O
@@ -492,9 +492,9 @@
 輔 O
 、 O
 
-少 B-PER
-納 I-PER
-言 I-PER
+少 B-PERSON
+納 I-PERSON
+言 I-PERSON
 、 O
 
 兵 O
@@ -563,17 +563,17 @@
 。 O
 
 】 O
-太 B-PER
-政 I-PER
-大 I-PER
-臣 I-PER
+太 B-PERSON
+政 I-PERSON
+大 I-PERSON
+臣 I-PERSON
 基 O
 經 O
 欲 O
 廢 O
-陽 B-PER
-成 I-PER
-帝 I-PER
+陽 B-PERSON
+成 I-PERSON
+帝 I-PERSON
 ， O
 
 會 O
@@ -610,10 +610,10 @@
 ， O
 宜 O
 隨 O
-太 B-PER
-政 I-PER
-大 I-PER
-臣 I-PER
+太 B-PERSON
+政 I-PERSON
+大 I-PERSON
+臣 I-PERSON
 處 O
 分 O
 。 O
@@ -652,9 +652,9 @@
 位 O
 ， O
 拜 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 。 O
 
 七 O
@@ -756,4 +756,3 @@
 。 O
 
 】 O
-

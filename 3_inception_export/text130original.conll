@@ -1,7 +1,7 @@
-藤 B-PER
-原 I-PER
-保 I-PER
-則 I-PER
+藤 B-PERSON
+原 I-PERSON
+保 I-PERSON
+則 I-PERSON
 ， O
 
 右 O
@@ -1387,10 +1387,10 @@
 羽 O
 守 O
 
-藤 B-PER
-原 I-PER
-興 I-PER
-世 I-PER
+藤 B-PERSON
+原 I-PERSON
+興 I-PERSON
+世 I-PERSON
 ， O
 戰 O
 數 O
@@ -1406,9 +1406,9 @@
 。 O
 
 】 O
-右 B-PER
-大 I-PER
-臣 I-PER
+右 B-PERSON
+大 I-PERSON
+臣 I-PERSON
 基 O
 經 O
 密 O
@@ -1454,15 +1454,15 @@
 
 「 O
 自 O
-天 B-PER
-智 I-PER
-天 I-PER
-皇 I-PER
+天 B-PERSON
+智 I-PERSON
+天 I-PERSON
+皇 I-PERSON
 時 O
 ， O
 
-藤 B-PER
-氏 I-PER
+藤 B-PERSON
+氏 I-PERSON
 世 O
 立 O
 勳 O
@@ -2115,10 +2115,10 @@
 房 O
 、 O
 
-清 B-PER
-原 I-PER
-令 I-PER
-望 I-PER
+清 B-PERSON
+原 I-PERSON
+令 I-PERSON
+望 I-PERSON
 、 O
 
 上 O
@@ -2270,10 +2270,10 @@
 權 O
 大 O
 允 O
-藤 B-PER
-原 I-PER
-滋 I-PER
-實 I-PER
+藤 B-PERSON
+原 I-PERSON
+滋 I-PERSON
+實 I-PERSON
 ， O
 及 O
 茨 O
@@ -2344,8 +2344,8 @@
 正 I-ORG
 月 O
 
-麻 B-PER
-呂 I-PER
+麻 B-PERSON
+呂 I-PERSON
 等 O
 ， O
 感 O
@@ -2600,7 +2600,7 @@
 米 O
 穀 O
 於 O
-雄 B-PER
+雄 B-PERSON
 
 勝 O
 郡 O
@@ -2697,8 +2697,8 @@
 』 O
 今 O
 如 O
-奏 B-PER
-狀 I-PER
+奏 B-PERSON
+狀 I-PERSON
 ， O
 
 同 O
@@ -3407,10 +3407,10 @@
 房 O
 、 O
 
-藤 B-PER
-原 I-PER
-滋 I-PER
-實 I-PER
+藤 B-PERSON
+原 I-PERSON
+滋 I-PERSON
+實 I-PERSON
 ， O
 
 單 O
@@ -3614,8 +3614,8 @@
 保 O
 則 O
 
-奏 B-PER
-狀 I-PER
+奏 B-PERSON
+狀 I-PERSON
 取 O
 決 O
 。 O
@@ -3863,16 +3863,16 @@
 」 O
 於 O
 是 O
-清 B-PER
-原 I-PER
-令 I-PER
-望 I-PER
+清 B-PERSON
+原 I-PERSON
+令 I-PERSON
+望 I-PERSON
 、 O
 
-藤 B-PER
-原 I-PER
-滋 I-PER
-賓 I-PER
+藤 B-PERSON
+原 I-PERSON
+滋 I-PERSON
+賓 I-PERSON
 、 O
 
 茨 O
@@ -4092,10 +4092,10 @@
 遣 O
 權 O
 介 O
-藤 B-PER
-原 I-PER
-統 I-PER
-行 I-PER
+藤 B-PERSON
+原 I-PERSON
+統 I-PERSON
+行 I-PERSON
 、 O
 
 權 O
@@ -4151,8 +4151,8 @@
 ， O
 
 如 O
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 意 O
 。 O
 
@@ -4224,8 +4224,8 @@
 幸 O
 以 O
 
-天 B-PER
-子 I-PER
+天 B-PERSON
+子 I-PERSON
 恩 O
 命 O
 而 O
@@ -4295,8 +4295,8 @@
 附 O
 。 O
 
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 語 O
 諸 O
 豪 O
@@ -4345,8 +4345,8 @@
 。 O
 
 」 O
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 即 O
 發 O
 
@@ -4639,8 +4639,8 @@
 ， O
 苦 O
 來 O
-苛 B-PER
-政 I-PER
+苛 B-PERSON
+政 I-PERSON
 。 O
 
 三 O
@@ -5155,8 +5155,8 @@
 溢 O
 。 O
 
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 嚴 O
 張 O
 憲 O
@@ -5263,8 +5263,8 @@
 績 O
 。 O
 
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 辭 O
 
 謝 O
@@ -5611,8 +5611,8 @@
 上 O
 。 O
 
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 頻 O
 稱 O
 病 O
@@ -5636,8 +5636,8 @@
 遣 O
 。 O
 
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 在 O
 鎮 O
 府 O
@@ -5736,8 +5736,8 @@
 止 O
 。 O
 
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 蒞 O
 鎮 O
 ， O
@@ -6080,8 +6080,8 @@
 。 O
 
 】 O
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 ， O
 
 天 O
@@ -6173,8 +6173,8 @@
 掾 O
 。 O
 
-保 B-PER
-則 I-PER
+保 B-PERSON
+則 I-PERSON
 稱 O
 曰 O
 ： O
@@ -6323,9 +6323,9 @@
 疾 O
 ， O
 
-忽 B-PER
-語 I-PER
-人 I-PER
+忽 B-PERSON
+語 I-PERSON
+人 I-PERSON
 曰 O
 ： O
 
@@ -6401,9 +6401,9 @@
 
 三 O
 位 O
-大 B-PER
-納 I-PER
-言 I-PER
+大 B-PERSON
+納 I-PERSON
+言 I-PERSON
 ， O
 
 兼 O
@@ -6806,10 +6806,10 @@
 
 ， O
 守 O
-藤 B-PER
-原 I-PER
-興 I-PER
-世 I-PER
+藤 B-PERSON
+原 I-PERSON
+興 I-PERSON
+世 I-PERSON
 戰 O
 屢 O
 敗 O

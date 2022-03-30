@@ -9,17 +9,17 @@
 皇 O
 子 O
 
-彥 B-PER
-太 I-PER
-忍 I-PER
-信 I-PER
+彥 B-PERSON
+太 I-PERSON
+忍 I-PERSON
+信 I-PERSON
 命 O
 。 O
 
-彥 B-PER
-太 I-PER
-忍 I-PER
-信 I-PER
+彥 B-PERSON
+太 I-PERSON
+忍 I-PERSON
+信 I-PERSON
 生 O
 
 屋 O
@@ -28,9 +28,9 @@
 男 O
 武 O
 
-雄 B-PER
-心 I-PER
-命 I-PER
+雄 B-PERSON
+心 I-PERSON
+命 I-PERSON
 。 O
 
 屋 O
@@ -42,9 +42,9 @@
 心 O
 ， O
 
-景 B-PER
-行 I-PER
-帝 I-PER
+景 B-PERSON
+行 I-PERSON
+帝 I-PERSON
 三 O
 年 O
 ， O
@@ -185,8 +185,8 @@
 遂 O
 詔 O
 
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 日 O
 本 O
 武 O
@@ -219,8 +219,8 @@
 稚 O
 足 O
 彥 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 及 O
 武 O
 內 O
@@ -253,17 +253,17 @@
 ， O
 遂 O
 立 O
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 為 O
-皇 B-PER
-太 I-PER
-子 I-PER
+皇 B-PERSON
+太 I-PERSON
+子 I-PERSON
 ， O
 
-成 B-PER
-務 I-PER
-帝 I-PER
+成 B-PERSON
+務 I-PERSON
+帝 I-PERSON
 是 O
 也 O
 。 O
@@ -285,9 +285,9 @@
 武 O
 內 O
 與 O
-成 B-PER
-務 I-PER
-帝 I-PER
+成 B-PERSON
+務 I-PERSON
+帝 I-PERSON
 同 O
 日 O
 生 O
@@ -302,9 +302,9 @@
 以 O
 為 O
 與 O
-景 B-PER
-行 I-PER
-帝 I-PER
+景 B-PERSON
+行 I-PERSON
+帝 I-PERSON
 同 O
 日 O
 生 O
@@ -327,8 +327,8 @@
 ， O
 
 拜 O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 ， O
 
 以 O
@@ -344,8 +344,8 @@
 。 O
 
 】 O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 始 O
 于 O
 此 O
@@ -367,9 +367,9 @@
 
 】 O
 及 O
-仲 B-PER
-哀 I-PER
-帝 I-PER
+仲 B-PERSON
+哀 I-PERSON
+帝 I-PERSON
 征 O
 熊 O
 襲 O
@@ -385,8 +385,8 @@
 武 O
 內 O
 與 O
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 謀 O
 ， O
 
@@ -448,9 +448,9 @@
 ， O
 
 生 O
-應 B-PER
-神 I-PER
-帝 I-PER
+應 B-PERSON
+神 I-PERSON
+帝 I-PERSON
 。 O
 辛巳 O
 歲 O
@@ -558,8 +558,8 @@
 
 】 O
 擊 O
-忍 B-PER
-熊 I-PER
+忍 B-PERSON
+熊 I-PERSON
 。 O
 
 武 O
@@ -580,8 +580,8 @@
 ， O
 
 與 O
-忍 B-PER
-熊 I-PER
+忍 B-PERSON
+熊 I-PERSON
 相 O
 持 O
 ， O
@@ -688,8 +688,8 @@
 河 O
 。 O
 
-忍 B-PER
-熊 I-PER
+忍 B-PERSON
+熊 I-PERSON
 信 O
 之 O
 ， O
@@ -720,8 +720,8 @@
 掩 O
 擊 O
 。 O
-忍 B-PER
-熊 I-PER
+忍 B-PERSON
+熊 I-PERSON
 敗 O
 走 O
 ， O
@@ -746,8 +746,8 @@
 眾 O
 。 O
 
-忍 B-PER
-熊 I-PER
+忍 B-PERSON
+熊 I-PERSON
 窮 O
 蹙 O
 ， O
@@ -775,16 +775,16 @@
 笥 O
 
 飯 O
-大 B-PER
-神 I-PER
+大 B-PERSON
+神 I-PERSON
 。 O
 
 及 O
 歸 O
 ， O
 
-皇 B-PER
-后 I-PER
+皇 B-PERSON
+后 I-PERSON
 作 O
 歌 O
 為 O
@@ -927,8 +927,8 @@
 ： O
 
 「 O
-大 B-PER
-臣 I-PER
+大 B-PERSON
+臣 I-PERSON
 赤心 O
 奉 O
 上 O
@@ -948,7 +948,7 @@
 闕 O
 ， O
 
-自 B-PER
+自 B-PERSON
 辨 O
 無 O
 罪 O
@@ -1157,24 +1157,24 @@
 內 O
 歷 O
 仕 O
-景 B-PER
-行 I-PER
+景 B-PERSON
+行 I-PERSON
 、 O
 
-成 B-PER
-務 I-PER
+成 B-PERSON
+務 I-PERSON
 、 O
 
-仲 B-PER
-哀 I-PER
+仲 B-PERSON
+哀 I-PERSON
 、 O
 
-應 B-PER
-神 I-PER
+應 B-PERSON
+神 I-PERSON
 、 O
 
-仁 B-PER
-德 I-PER
+仁 B-PERSON
+德 I-PERSON
 五 O
 朝 O
 ， O
@@ -1365,8 +1365,8 @@
 禰 O
 、 O
 
-蘇 B-PER
-我 I-PER
+蘇 B-PERSON
+我 I-PERSON
 石 O
 川 O
 宿 O
@@ -1510,9 +1510,9 @@
 因 O
 賜 O
 姓 O
-大 B-PER
-雀 I-PER
-臣 I-PER
+大 B-PERSON
+雀 I-PERSON
+臣 I-PERSON
 。 O
 
 【 O
@@ -1550,8 +1550,8 @@
 。 O
 
 】 O
-蘇 B-PER
-我 I-PER
+蘇 B-PERSON
+我 I-PERSON
 石 O
 川 O
 宿 O
@@ -1683,9 +1683,9 @@
 。 O
 
 】 O
-履 B-PER
-忠 I-PER
-帝 I-PER
+履 B-PERSON
+忠 I-PERSON
+帝 I-PERSON
 
 二 O
 年 O
@@ -1726,9 +1726,9 @@
 任 I-OTH
 。 O
 】 O
-雄 B-PER
-略 I-PER
-帝 I-PER
+雄 B-PERSON
+略 I-PERSON
+帝 I-PERSON
 時 O
 ， O
 
@@ -1794,17 +1794,17 @@
 室 O
 ， O
 
-木 B-PER
-菟 I-PER
-入 I-PER
-帝 I-PER
+木 B-PERSON
+菟 I-PERSON
+入 I-PERSON
+帝 I-PERSON
 產 O
 室 O
 。 O
 
-應 B-PER
-神 I-PER
-帝 I-PER
+應 B-PERSON
+神 I-PERSON
+帝 I-PERSON
 以 O
 為 O
 祥 O
@@ -1826,9 +1826,9 @@
 木 O
 菟 O
 。 O
-應 B-PER
-神 I-PER
-帝 I-PER
+應 B-PERSON
+神 I-PERSON
+帝 I-PERSON
 十六 O
 年 O
 ， O
@@ -1929,11 +1929,11 @@
 歸 O
 。 O
 
-住 B-PER
-吉 I-PER
-仲 I-PER
-皇 B-PER
-子 I-PER
+住 B-PERSON
+吉 I-PERSON
+仲 I-PERSON
+皇 B-PERSON
+子 I-PERSON
 謀 O
 反 O
 ， O
@@ -1964,8 +1964,8 @@
 殺 O
 仲 O
 
-皇 B-PER
-子 I-PER
+皇 B-PERSON
+子 I-PERSON
 。 O
 木 O
 菟 O
@@ -2022,13 +2022,13 @@
 ， O
 
 與 O
-蘇 B-PER
-賀 I-PER
-滿 I-PER
-智 I-PER
+蘇 B-PERSON
+賀 I-PERSON
+滿 I-PERSON
+智 I-PERSON
 、 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 伊 O
 莒 O
 弗 O
@@ -2077,9 +2077,9 @@
 禰 O
 ， O
 
-應 B-PER
-神 I-PER
-帝 I-PER
+應 B-PERSON
+神 I-PERSON
+帝 I-PERSON
 三 O
 年 O
 ， O
@@ -2091,8 +2091,8 @@
 代 O
 、 O
 
-蘇 B-PER
-我 I-PER
+蘇 B-PERSON
+我 I-PERSON
 石 O
 川 O
 、 O
@@ -2167,9 +2167,9 @@
 鳥 O
 ， O
 
-仁 B-PER
-德 I-PER
-帝 I-PER
+仁 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 時 O
 為 O
 都 O
@@ -2242,8 +2242,8 @@
 請 O
 。 O
 
-太 B-PER
-后 I-PER
+太 B-PERSON
+后 I-PERSON
 不 O
 覺 O
 ， O
@@ -2469,9 +2469,9 @@
 國 O
 。 O
 
-貴 B-PER
-國 I-PER
-遣 I-PER
+貴 B-PERSON
+國 I-PERSON
+遣 I-PERSON
 沙 O
 志 O
 比 O
@@ -2544,8 +2544,8 @@
 ： O
 
 「 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 遣 O
 沙 O
 至 O
@@ -2592,8 +2592,8 @@
 。 O
 
 」 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 大 O
 怒 O
 ， O
@@ -2633,8 +2633,8 @@
 其 O
 妹 O
 在 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 後 O
 宮 O
 。 O
@@ -2649,8 +2649,8 @@
 使 O
 人 O
 問 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 怒 O
 解 O
 未 O
@@ -2673,8 +2673,8 @@
 跪 O
 。 O
 」 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 怒 O
 曰 O
 ： O
@@ -2851,10 +2851,10 @@
 ， O
 
 為 O
-仁 B-PER
-德 I-PER
-皇 I-PER
-后 I-PER
+仁 B-PERSON
+德 I-PERSON
+皇 I-PERSON
+后 I-PERSON
 。 O
 
 葦 O
@@ -2865,12 +2865,12 @@
 媛 O
 ， O
 嫁 O
-市 B-PER
-邊 I-PER
-押 I-PER
-磐 I-PER
-皇 I-PER
-子 I-PER
+市 B-PERSON
+邊 I-PERSON
+押 I-PERSON
+磐 I-PERSON
+皇 I-PERSON
+子 I-PERSON
 ， O
 生 O
 顯 O
@@ -2905,10 +2905,10 @@
 彥 O
 孫 O
 曰 O
-玉 B-PER
-田 I-PER
-宿 I-PER
-禰 I-PER
+玉 B-PERSON
+田 I-PERSON
+宿 I-PERSON
+禰 I-PERSON
 。 O
 
 【 O
@@ -2959,8 +2959,8 @@
 靜 O
 。 O
 
-玉 B-PER
-田 I-PER
+玉 B-PERSON
+田 I-PERSON
 不 O
 在 O
 焉 O
@@ -2984,8 +2984,8 @@
 之 O
 。 O
 
-玉 B-PER
-田 I-PER
+玉 B-PERSON
+田 I-PERSON
 方 O
 集 O
 男 O
@@ -3004,9 +3004,9 @@
 旨 O
 。 O
 
-玉 B-PER
-田 I-PER
-懼 I-PER
+玉 B-PERSON
+田 I-PERSON
+懼 I-PERSON
 ， O
 
 以 O
@@ -3041,8 +3041,8 @@
 之 O
 ， O
 
-玉 B-PER
-田 I-PER
+玉 B-PERSON
+田 I-PERSON
 衷 O
 甲 O
 而 O
@@ -3086,8 +3086,8 @@
 之 O
 。 O
 
-玉 B-PER
-田 I-PER
+玉 B-PERSON
+田 I-PERSON
 逃 O
 匿 O
 其 O
@@ -3150,8 +3150,8 @@
 此 O
 ， O
 則 O
-玉 B-PER
-田 I-PER
+玉 B-PERSON
+田 I-PERSON
 ， O
 
 襲 O
@@ -3196,16 +3196,16 @@
 祥 O
 註 O
 於 O
-雄 B-PER
-略 I-PER
+雄 B-PERSON
+略 I-PERSON
 后 B-OTH
 妃 I-OTH
 傳 I-OTH
 。 O
 
 】 O
-玉 B-PER
-田 I-PER
+玉 B-PERSON
+田 I-PERSON
 子 O
 圓 O
 ， O
@@ -3306,9 +3306,9 @@
 。 O
 
 】 O
-應 B-PER
-神 I-PER
-帝 I-PER
+應 B-PERSON
+神 I-PERSON
+帝 I-PERSON
 十六 O
 年 O
 
