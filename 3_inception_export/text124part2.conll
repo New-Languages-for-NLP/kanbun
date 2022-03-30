@@ -40,7 +40,8 @@
 
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -148,7 +149,8 @@
 
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -185,7 +187,8 @@
 
 承 O
 和 O
-十一 O
+十 O
+一 O
 年 O
 ， O
 為 O
@@ -207,7 +210,8 @@
 後 I-OTH
 紀 I-OTH
 、 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -259,7 +263,8 @@
 。 O
 
 
-文德 B-PERSON
+文 B-PERSON
+德 I-PERSON
 帝 I-PERSON
 即 O
 位 O
@@ -300,12 +305,15 @@
 ， O
 時 O
 年 O
-五十五 O
+五 O
+十 O
+五 O
 。 O
 
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -403,7 +411,8 @@
 夷 O
 雅 O
 ， O
-餘慶 O
+餘 O
+慶 O
 延 O
 於 O
 身 O
@@ -671,7 +680,8 @@
 率 O
 近 O
 衛 O
-四十 O
+四 O
+十 O
 人 O
 ， O
 圍 O
@@ -813,7 +823,8 @@
 
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 、 O
@@ -835,7 +846,8 @@
 
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -1517,7 +1529,8 @@
 前 O
 後 O
 並 O
-二千 O
+二 O
+千 O
 戶 O
 ， O
 先 O
@@ -1529,7 +1542,8 @@
 ， O
 聽 O
 返 O
-千戶 O
+千 O
+戶 O
 。 O
 
 
@@ -1737,7 +1751,8 @@
 少 O
 所 O
 賜 O
-千戶 O
+千 O
+戶 O
 ， O
 於 O
 臣 O
@@ -1752,7 +1767,8 @@
 奉 O
 返 O
 此 O
-五百 O
+五 O
+百 O
 戶 O
 ， O
 將 O
@@ -1804,7 +1820,9 @@
 薨 O
 ， O
 年 O
-五十五 O
+五 O
+十 O
+五 O
 。 O
 
 
@@ -2062,7 +2080,8 @@
 
 
 以 O
-東京 O
+東 O
+京 O
 六 O
 條 O
 宅 O
@@ -2259,7 +2278,8 @@
 。 O
 
 
-十七 O
+十 O
+七 O
 年 O
 ， O
 薨 O
@@ -2357,7 +2377,8 @@
 。 O
 
 
-文德 B-PERSON
+文 B-PERSON
+德 I-PERSON
 帝 I-PERSON
 在 O
 儲 O
@@ -2504,7 +2525,9 @@
 卒 O
 ， O
 年 O
-四十二 O
+四 O
+十 O
+二 O
 。 O
 
 
@@ -2545,7 +2568,8 @@
 愛 O
 發 O
 ， O
-大同 O
+大 O
+同 O
 中 O
 ， O
 為 O
@@ -2712,7 +2736,9 @@
 薨 O
 ， O
 年 O
-五十七 O
+五 O
+十 O
+七 O
 。 O
 
 

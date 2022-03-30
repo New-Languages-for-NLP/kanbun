@@ -123,7 +123,8 @@
 元 O
 元 O
 年 O
-十一 O
+十 O
+一 O
 月 O
 ， O
 入 O
@@ -154,7 +155,8 @@
 增 B-WORK_OF_ART
 鏡 I-WORK_OF_ART
 為 O
-十二 O
+十 O
+二 O
 月 O
 ， O
 歷 B-WORK_OF_ART
@@ -172,7 +174,8 @@
 長 O
 於 O
 帝 O
-十一 O
+十 O
+一 O
 歲 O
 。 O
 
@@ -299,7 +302,8 @@
 元 O
 元 O
 年 O
-十二 O
+十 O
+二 O
 月 O
 ， O
 進 O
@@ -408,7 +412,9 @@
 】 O
 崩 O
 年 O
-七十三 O
+七 O
+十 O
+三 O
 。 O
 
 
@@ -1032,7 +1038,9 @@
 
 】 O
 年 O
-八十四 O
+八 O
+十 O
+四 O
 。 O
 
 
@@ -1139,7 +1147,8 @@
 】 O
 藤 B-PERSON
 原 I-PERSON
-成子 I-PERSON
+成 I-PERSON
+子 I-PERSON
 ， O
 太 B-PERSON
 政 I-PERSON

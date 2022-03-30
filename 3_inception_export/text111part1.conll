@@ -224,7 +224,8 @@
 大 O
 鹿 O
 島 O
-十一 O
+十 O
+一 O
 世 O
 孫 O
 常 O
@@ -232,7 +233,8 @@
 大 O
 連 O
 ， O
-欽明 O
+欽 O
+明 O
 朝 O
 始 O
 賜 O
@@ -470,7 +472,8 @@
 蹴 O
 鞠 O
 於 O
-法興 B-LOC
+法 B-LOC
+興 I-LOC
 寺 I-LOC
 槻 O
 樹 O
@@ -639,7 +642,8 @@
 川 I-PERSON
 麻 I-PERSON
 呂 I-PERSON
-赤心 O
+赤 O
+心 O
 奉 O
 帝 O
 。 O
@@ -731,7 +735,8 @@
 及 O
 期 O
 ， O
-天皇 B-PERSON
+天 B-PERSON
+皇 I-PERSON
 御 O
 大 O
 極 O
@@ -1060,7 +1065,8 @@
 並 O
 曰 O
 ， O
-二千 O
+二 O
+千 O
 戶 O
 。 O
 
@@ -1093,7 +1099,8 @@
 帝 I-PERSON
 功 O
 田 O
-一百 O
+一 O
+百 O
 町 O
 ， O
 賜 O
@@ -1111,7 +1118,8 @@
 」 O
 其 O
 年 O
-十二 O
+十 O
+二 O
 月 O
 太 O
 政 O
@@ -1126,18 +1134,21 @@
 內 O
 大 O
 臣 O
-乙巳 O
+乙 O
+巳 O
 歲 O
 功 O
 田 O
-一百 O
+一 O
+百 O
 町 O
 。 O
 
 
 」 O
 按 O
-乙巳 O
+乙 O
+巳 O
 歲 O
 ， O
 即 O
@@ -1300,7 +1311,8 @@
 ！ O
 積 O
 善 O
-餘慶 O
+餘 O
+慶 O
 ， O
 猶 O
 是 O
@@ -1487,19 +1499,24 @@
 內 B-PERSON
 大 I-PERSON
 臣 I-PERSON
-春秋 O
-五十 O
+春 O
+秋 O
+五 O
+十 O
 薨 O
 ， O
 殯 O
 於 O
-山南 B-LOC
+山 B-LOC
+南 I-LOC
 。 O
 
 
 碑 O
 曰 O
-五十六 O
+五 O
+十 O
+六 O
 。 O
 
 
@@ -2341,7 +2358,8 @@
 ， O
 唯 O
 祈 O
-天祚 O
+天 O
+祚 O
 之 O
 永 O
 久 O
@@ -2615,7 +2633,8 @@
 吾 I-LOC
 寺 I-LOC
 等 O
-十四 O
+十 O
+四 O
 人 O
 ， O
 絞 O
@@ -2625,7 +2644,8 @@
 ， O
 流 O
 者 O
-十五 O
+十 O
+五 O
 人 O
 。 O
 
@@ -2834,7 +2854,8 @@
 德 O
 太 O
 古 O
-奉天 B-PERSON
+奉 B-PERSON
+天 I-PERSON
 智 I-PERSON
 帝 I-PERSON
 命 O
@@ -3042,7 +3063,9 @@
 
 
 年 O
-六十六 O
+六 O
+十 O
+六 O
 。 O
 
 
@@ -3534,7 +3557,8 @@
 ， O
 通 O
 前 O
-二百 O
+二 O
+百 O
 戶 O
 。 O
 
@@ -3554,12 +3578,14 @@
 ， O
 增 O
 封 O
-三百 O
+三 O
+百 O
 戶 O
 ， O
 通 O
 前 O
-五百 O
+五 O
+百 O
 戶 O
 。 O
 
@@ -3577,8 +3603,10 @@
 假 O
 資 O
 人 O
-一百 O
-二十 O
+一 O
+百 O
+二 O
+十 O
 人 O
 。 O
 
@@ -3608,7 +3636,8 @@
 年 O
 ， O
 賜 O
-靈壽 O
+靈 O
+壽 O
 杖 O
 及 O
 輿 O
@@ -3635,7 +3664,9 @@
 
 
 年 O
-七十八 O
+七 O
+十 O
+八 O
 。 O
 
 
@@ -3672,7 +3703,9 @@
 
 
 年 O
-七十八 O
+七 O
+十 O
+八 O
 ， O
 據 O
 公 B-OTH

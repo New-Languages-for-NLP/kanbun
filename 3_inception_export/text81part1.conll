@@ -182,7 +182,8 @@
 親 B-PERSON
 王 I-PERSON
 、 O
-慎子 O
+慎 O
+子 O
 內 O
 親 B-PERSON
 王 I-PERSON
@@ -242,7 +243,9 @@
 中 O
 ， O
 年 O
-二十八 O
+二 O
+十 O
+八 O
 。 O
 
 
@@ -305,7 +308,9 @@
 
 
 年 O
-二十八 O
+二 O
+十 O
+八 O
 據 O
 扶 B-WORK_OF_ART
 桑 I-WORK_OF_ART
@@ -564,7 +569,8 @@
 御 O
 藤 B-PERSON
 原 I-PERSON
-道子 I-PERSON
+道 I-PERSON
+子 I-PERSON
 ， O
 內 B-PERSON
 大 I-PERSON
@@ -774,7 +780,9 @@
 
 
 年 O
-九十一 O
+九 O
+十 O
+一 O
 。 O
 
 

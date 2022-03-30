@@ -1,7 +1,8 @@
 【 O
 仲 B-PERSON
 哀 I-PERSON
-天皇 I-PERSON
+天 I-PERSON
+皇 I-PERSON
 】 O
 仲 O
 哀 O
@@ -119,7 +120,8 @@
 攝 O
 政 O
 凡 O
-七十 O
+七 O
+十 O
 年 O
 矣 O
 ， O
@@ -391,7 +393,8 @@
 
 
 】 O
-己丑 O
+己 O
+丑 O
 歲 O
 ， O
 崩 O
@@ -401,7 +404,8 @@
 宮 O
 ， O
 年 O
-一百 O
+一 O
+百 O
 歲 O
 ， O
 葬 O
@@ -538,7 +542,8 @@
 皇 B-PERSON
 后 I-PERSON
 ， O
-五百 O
+五 O
+百 O
 城 O
 入 O
 彥 O
@@ -657,7 +662,8 @@
 皇 I-PERSON
 子 I-PERSON
 、 O
-大原 B-PERSON
+大 B-PERSON
+原 I-PERSON
 皇 I-PERSON
 女 I-PERSON
 、 O
@@ -1175,7 +1181,9 @@
 
 】 O
 帝 O
-二十二 O
+二 O
+十 O
+二 O
 年 O
 三 O
 月 O
@@ -1259,7 +1267,8 @@
 原 O
 海 O
 人 O
-八十 O
+八 O
+十 O
 人 O
 ， O
 艤 O
@@ -1305,7 +1314,8 @@
 辭 O
 摩 O
 ， O
-いや O
+い O
+や O
 二 O
 並 O
 び O
@@ -1326,7 +1336,8 @@
 辭 O
 摩 O
 ， O
-いや O
+い O
+や O
 二 O
 並 O
 び O
@@ -1339,7 +1350,9 @@
 弭 O
 ， O
 寄 O
-ろしき O
+ろ O
+し O
+き O
 嶋 O
 嶋 O
 豫 O
@@ -1352,11 +1365,13 @@
 魔 O
 ， O
 誰 O
-かた O
+か O
+た O
 去 O
 れ O
 放 O
-ちし O
+ち O
+し O
 攮 O
 伽 O
 多 O
@@ -1369,7 +1384,8 @@
 ， O
 吉 O
 備 O
-なる O
+な O
+る O
 妹 O
 を O
 吉 O
@@ -1382,7 +1398,9 @@
 ， O
 相 O
 見 O
-つるも O
+つ O
+る O
+も O
 の O
 阿 O
 比 O
@@ -1429,7 +1447,8 @@
 ， O
 其 O
 兄 O
-弟子 O
+弟 O
+子 O
 孫 O
 皆 O
 為 O
@@ -1624,7 +1643,9 @@
 。 O
 
 
-二十二 O
+二 O
+十 O
+二 O
 年 O
 ， O
 帝 O
@@ -1654,7 +1675,8 @@
 。 O
 
 
-三十 O
+三 O
+十 O
 年 O
 九 O
 月 O
@@ -2046,7 +2068,8 @@
 
 
 」 O
-十一 O
+十 O
+一 O
 月 O
 ， O
 帝 B-PERSON
@@ -2123,7 +2146,9 @@
 。 O
 
 
-三十五 O
+三 O
+十 O
+五 O
 年 O
 六 O
 月 O
@@ -2137,9 +2162,12 @@
 。 O
 
 
-三十七 O
+三 O
+十 O
+七 O
 年 O
-十一 O
+十 O
+一 O
 月 O
 ， O
 葬 O
@@ -2165,7 +2193,8 @@
 正 O
 帝 O
 、 O
-允恭 B-PERSON
+允 B-PERSON
+恭 I-PERSON
 帝 I-PERSON
 。 O
 
@@ -2299,7 +2328,9 @@
 
 
 帝 O
-二十二 O
+二 O
+十 O
+二 O
 年 O
 ， O
 欲 O
@@ -2342,7 +2373,9 @@
 。 O
 
 
-三十五 O
+三 O
+十 O
+五 O
 年 O
 ， O
 磐 O
@@ -2354,7 +2387,9 @@
 。 O
 
 
-三十八 O
+三 O
+十 O
+八 O
 年 O
 正 O
 月 O
@@ -2529,7 +2564,8 @@
 向 O
 國 O
 有 O
-女子 B-PERSON
+女 B-PERSON
+子 I-PERSON
 ， O
 名 O
 髮 O
@@ -2698,7 +2734,8 @@
 ， O
 譽 B-PERSON
 田 I-PERSON
-天皇 I-PERSON
+天 I-PERSON
+皇 I-PERSON
 偶 O
 獵 O
 于 O
@@ -2811,7 +2848,8 @@
 宴 O
 日 O
 ， O
-天皇 B-PERSON
+天 B-PERSON
+皇 I-PERSON
 使 O
 髮 O
 長 O

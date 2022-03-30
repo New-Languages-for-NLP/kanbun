@@ -20,7 +20,8 @@
 。 O
 
 
-五百 O
+五 O
+百 O
 城 O
 入 O
 姬 O
@@ -76,7 +77,8 @@
 
 
 】 O
-五百 O
+五 O
+百 O
 野 O
 皇 B-PERSON
 女 I-PERSON
@@ -93,7 +95,8 @@
 
 
 帝 O
-二十 O
+二 O
+十 O
 年 O
 二 O
 月 O
@@ -145,10 +148,14 @@
 】 O
 帝 O
 有 O
-二十六 O
+二 O
+十 O
+六 O
 女 O
 ， O
-二十五 O
+二 O
+十 O
+五 O
 女 O
 皆 O
 封 O
@@ -177,7 +184,8 @@
 應 B-WORK_OF_ART
 神 I-WORK_OF_ART
 】 O
-十五 O
+十 O
+五 O
 女 O
 荒 O
 田 O
@@ -218,7 +226,8 @@
 
 
 】 O
-大原 O
+大 O
+原 O
 皇 B-PERSON
 女 I-PERSON
 ， O
@@ -264,7 +273,8 @@
 皇 B-PERSON
 女 I-PERSON
 ， O
-大原 B-PERSON
+大 B-PERSON
+原 I-PERSON
 皇 I-PERSON
 女 I-PERSON
 同 O
@@ -511,7 +521,8 @@
 仁 O
 德 O
 帝 O
-四十 O
+四 O
+十 O
 年 O
 ， O
 與 O
@@ -722,7 +733,9 @@
 仁 B-PERSON
 德 I-PERSON
 帝 O
-三十五 O
+三 O
+十 O
+五 O
 年 O
 六 O
 月 O
@@ -735,7 +748,9 @@
 。 O
 
 
-三十八 O
+三 O
+十 O
+八 O
 年 O
 ， O
 八 O
@@ -1124,7 +1139,8 @@
 帝 O
 崩 O
 ， O
-仁賢 O
+仁 O
+賢 O
 帝 O
 與 O
 顯 O

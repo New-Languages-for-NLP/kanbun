@@ -20,7 +20,8 @@
 
 
 為 O
-欽明 O
+欽 O
+明 O
 皇 B-PERSON
 后 I-PERSON
 。 O
@@ -84,7 +85,8 @@
 姬 O
 ， O
 入 O
-欽明 O
+欽 O
+明 O
 帝 O
 宮 O
 。 O
@@ -99,7 +101,8 @@
 
 】 O
 【 O
-欽明 O
+欽 O
+明 O
 】 O
 九 O
 女 O
@@ -282,7 +285,8 @@
 穗 O
 部 O
 間 O
-人皇 O
+人 O
+皇 O
 女 O
 ， O
 妃 O
@@ -628,7 +632,8 @@
 
 適 O
 彥 O
-人皇 B-PERSON
+人 B-PERSON
+皇 I-PERSON
 子 I-PERSON
 據 O
 古 B-WORK_OF_ART
@@ -765,7 +770,8 @@
 天 O
 智 O
 帝 O
-甲子 O
+甲 O
+子 O
 歲 O
 六 O
 月 O

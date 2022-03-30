@@ -84,7 +84,8 @@
 治 O
 元 O
 年 O
-十一 O
+十 O
+一 O
 月 O
 ， O
 生 O
@@ -361,7 +362,9 @@
 殿 O
 ， O
 年 O
-三十六 O
+三 O
+十 O
+六 O
 。 O
 
 
@@ -609,7 +612,9 @@
 崩 O
 ， O
 年 O
-二十八 O
+二 O
+十 O
+八 O
 。 O
 
 
@@ -635,7 +640,9 @@
 分 I-WORK_OF_ART
 脈 I-WORK_OF_ART
 年 O
-二十七 O
+二 O
+十 O
+七 O
 。 O
 
 
@@ -1056,10 +1063,14 @@
 帝 O
 遣 O
 使 O
-四十一 O
+四 O
+十 O
+一 O
 社 O
 、 O
-七十四 O
+七 O
+十 O
+四 O
 寺 O
 ， O
 召 O
@@ -1100,7 +1111,9 @@
 囚 O
 流 O
 人 O
-七十三 O
+七 O
+十 O
+三 O
 人 O
 。 O
 
@@ -1110,13 +1123,15 @@
 玉 B-WORK_OF_ART
 海 I-WORK_OF_ART
 作 O
-十五 O
+十 O
+五 O
 人 O
 ， O
 山 B-WORK_OF_ART
 槐 I-WORK_OF_ART
 記 I-WORK_OF_ART
-十三 O
+十 O
+三 O
 人 O
 。 O
 
@@ -1320,7 +1335,8 @@
 難 O
 ， O
 母 O
-時子 O
+時 O
+子 O
 憂 O
 之 O
 ， O
@@ -1348,7 +1364,8 @@
 有 O
 童 O
 子 O
-十二 O
+十 O
+二 O
 人 O
 渡 O
 橋 O
@@ -1379,7 +1396,8 @@
 
 
 」 O
-時子 O
+時 O
+子 O
 還 O
 告 O
 兄 O
@@ -1455,7 +1473,8 @@
 ， O
 奉 O
 還 O
-京師 O
+京 O
+師 O
 ， O
 寓 O
 吉 O
@@ -1507,7 +1526,8 @@
 】 O
 徒 O
 居 O
-華山 O
+華 O
+山 O
 帝 O
 野 O
 河 O
@@ -1541,7 +1561,8 @@
 ， O
 又 O
 徙 O
-大原 O
+大 O
+原 O
 寂 O
 光 O
 院 O
@@ -1661,16 +1682,19 @@
 保 O
 元 O
 年 O
-十二 O
+十 O
+二 O
 月 O
 ， O
 崩 O
 于 O
-大原 O
+大 O
+原 O
 ， O
 【 O
 ○ O
-大原 O
+大 O
+原 O
 據 O
 平 B-WORK_OF_ART
 家 I-WORK_OF_ART
@@ -1687,7 +1711,9 @@
 
 】 O
 年 O
-五十七 O
+五 O
+十 O
+七 O
 。 O
 
 
@@ -1706,19 +1732,25 @@
 衰 I-WORK_OF_ART
 記 I-WORK_OF_ART
 作 O
-六十八 O
+六 O
+十 O
+八 O
 ， O
 紹 B-WORK_OF_ART
 運 I-WORK_OF_ART
 要 I-WORK_OF_ART
 略 I-WORK_OF_ART
-五十八 O
+五 O
+十 O
+八 O
 、 O
 女 B-WORK_OF_ART
 院 I-WORK_OF_ART
 小 I-WORK_OF_ART
 傳 I-WORK_OF_ART
-五十九 O
+五 O
+十 O
+九 O
 。 O
 
 
@@ -1728,7 +1760,8 @@
 為 O
 中 O
 宮 O
-十六 O
+十 O
+六 O
 之 O
 文 O
 訂 O
@@ -2091,7 +2124,8 @@
 時 O
 等 O
 陷 O
-京師 O
+京 O
+師 O
 ， O
 遷 O
 後 O
@@ -2227,7 +2261,9 @@
 
 】 O
 年 O
-七十二 O
+七 O
+十 O
+二 O
 。 O
 
 
@@ -2881,7 +2917,8 @@
 日 O
 將 O
 往 O
-大原 O
+大 O
+原 O
 事 O
 佛 O
 。 O
@@ -2958,7 +2995,9 @@
 
 時 O
 年 O
-二十三 O
+二 O
+十 O
+三 O
 。 O
 
 
@@ -3093,7 +3132,8 @@
 督 O
 遂 O
 居 O
-大原 O
+大 O
+原 O
 。 O
 
 
