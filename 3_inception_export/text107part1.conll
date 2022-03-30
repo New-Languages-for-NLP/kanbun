@@ -1998,12 +1998,11 @@
 
 久 O
 生 O
-多 B-PERpart
-遲 I-PERpart
-摩 I-PERpart
-斐 I-PERpart
-
-泥 B-PERpart
+多 B-PER
+遲 I-PER
+摩 I-PER
+斐 I-PER
+泥 I-PER
 。 O
 斐 O
 泥 O
@@ -2359,4 +2358,3 @@
 。 O
 
 】 O
-

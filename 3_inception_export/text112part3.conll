@@ -397,11 +397,10 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 蚊 O
@@ -456,8 +455,8 @@
 高 O
 市 O
 
-麻 B-PERderiv
-呂 I-PERderiv
+麻 B-PER
+呂 I-PER
 ， O
 屬 O
 將 O
@@ -661,11 +660,10 @@
 戶 O
 。 O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 持 B-PER
@@ -712,11 +710,10 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 和 O
@@ -1498,11 +1495,10 @@
 ， O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 根 O
 作 O
 尼 O
@@ -1631,8 +1627,8 @@
 亂 O
 ， O
 奉天 O
-武 B-PERpart
-帝 I-PERpart
+武 B-PER
+帝 I-PER
 命 O
 ， O
 
@@ -1786,8 +1782,8 @@
 
 同 O
 奉天 O
-武 B-PERpart
-帝 I-PERpart
+武 B-PER
+帝 I-PER
 命 O
 ， O
 發 O
@@ -2173,11 +2169,10 @@
 呂 I-PER
 ， O
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 ， O
 三 O
 輪 O
@@ -2391,16 +2386,14 @@
 。 O
 
 按 O
-懷 B-OTHpart
-風 I-OTHpart
-
-藻 B-OTHpart
+懷 B-OTH
+風 I-OTH
+藻 I-OTH
 載 O
-藤 B-PERpart
-
-原 B-PERpart
-麻 I-PERpart
-呂 I-PERpart
+藤 B-PER
+原 I-PER
+麻 I-PER
+呂 I-PER
 過 O
 神 B-PER
 納 I-PER
@@ -3272,4 +3265,3 @@
 有 O
 傳 O
 。 O
-

@@ -168,10 +168,9 @@
 。 O
 而 O
 據 O
-日 B-OTHpart
-
-本 B-OTHpart
-紀 I-OTHpart
+日 B-OTH
+本 I-OTH
+紀 I-OTH
 ， O
 日 O
 葉 O
@@ -390,12 +389,11 @@
 本 I-OTH
 紀 I-OTH
 引 O
-筑 B-OTHpart
-
-前 B-OTHpart
-風 I-OTHpart
-土 I-OTHpart
-記 I-OTHpart
+筑 B-OTH
+前 I-OTH
+風 I-OTH
+土 I-OTH
+記 I-OTH
 。 O
 
 ○ O
@@ -485,9 +483,8 @@
 日 O
 桙 O
 即 O
-新 B-LOCpart
-
-羅 B-LOCpart
+新 B-LOC
+羅 I-LOC
 天 O
 日 O
 槍 O
@@ -873,8 +870,8 @@
 續 O
 日 O
 
-本 B-OTHpart
-紀 I-OTHpart
+本 B-OTH
+紀 I-OTH
 延 O
 曆 O
 四 O
@@ -1674,7 +1671,7 @@
 真 O
 德 O
 王 O
-、 B-null
+、 O
 
 曰 O
 普 O
@@ -1862,9 +1859,8 @@
 神 O
 風 O
 の O
-伊 B-LOCpart
-
-勢 B-LOCpart
+伊 B-LOC
+勢 I-LOC
 の O
 柯 O
 武 O
@@ -2233,4 +2229,3 @@
 錄 I-OTH
 。 O
 】 O
-

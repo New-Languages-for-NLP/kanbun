@@ -1142,10 +1142,10 @@
 臣 O
 既 O
 用 O
-諷 B-OTHderiv
-歌 I-OTHderiv
-倒 B-OTHderiv
-語 I-OTHderiv
+諷 B-OTH
+歌 I-OTH
+倒 B-OTH
+語 I-OTH
 ， O
 
 得 O
@@ -2863,11 +2863,10 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 熊 O
@@ -3051,11 +3050,10 @@
 以 O
 為 O
 夢 O
-天 B-PERpart
-照 I-PERpart
-
-大 B-PERpart
-神 I-PERpart
+天 B-PER
+照 I-PER
+大 I-PER
+神 I-PER
 及 O
 高 B-PER
 木 I-PER
@@ -3304,4 +3302,3 @@
 。 O
 
 】 O
-

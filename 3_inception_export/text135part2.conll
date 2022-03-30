@@ -618,11 +618,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -1656,11 +1655,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -1769,11 +1767,10 @@
 父 O
 ， O
 贈 O
-太 B-PERpart
-政 I-PERpart
-
-大 B-PERpart
-臣 I-PERpart
+太 B-PER
+政 I-PER
+大 I-PER
+臣 I-PER
 正 O
 
 一 O
@@ -1924,11 +1921,10 @@
 科 O
 ， O
 【 O
-朝 B-OTHpart
-野 I-OTHpart
-群 I-OTHpart
-
-載 B-OTHpart
+朝 B-OTH
+野 I-OTH
+群 I-OTH
+載 B-OTH
 。 O
 
 】 O
@@ -2644,4 +2640,3 @@
 脈 I-OTH
 。 O
 】 O
-

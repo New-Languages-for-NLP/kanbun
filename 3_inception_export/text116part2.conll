@@ -329,15 +329,14 @@
 。 O
 
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
-古 B-PERpart
-麻 I-PERpart
+古 B-PER
+麻 I-PER
 
 呂 O
 子 O
@@ -864,11 +863,10 @@
 辨 I-ORG
 。 O
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 
 】 O
@@ -2251,11 +2249,10 @@
 下 O
 。 O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 清 O
@@ -2592,4 +2589,3 @@
 。 O
 
 】 O
-

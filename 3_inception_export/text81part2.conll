@@ -225,10 +225,10 @@
 御 O
 。 O
 【 O
-一 B-null
-代 I-null
-要 I-null
-記 I-null
+一 B-WORK_OF_ART
+代 I-WORK_OF_ART
+要 I-WORK_OF_ART
+記 I-WORK_OF_ART
 、 O
 
 歷 B-WORK_OF_ART
@@ -1799,10 +1799,10 @@
 法 O
 。 O
 【 O
-一 B-null
-代 I-null
-要 I-null
-記 I-null
+一 B-WORK_OF_ART
+代 I-WORK_OF_ART
+要 I-WORK_OF_ART
+記 I-WORK_OF_ART
 、 O
 
 女 B-WORK_OF_ART
@@ -3599,11 +3599,11 @@
 運 I-WORK_OF_ART
 錄 I-WORK_OF_ART
 、 O
-帝 B-null
-王 I-null
-編 I-null
-年 I-null
-記 I-null
+帝 B-WORK_OF_ART
+王 I-WORK_OF_ART
+編 I-WORK_OF_ART
+年 I-WORK_OF_ART
+記 I-WORK_OF_ART
 、 O
 
 今 B-WORK_OF_ART
@@ -3778,9 +3778,9 @@
 皇 B-WORK_OF_ART
 胤 I-WORK_OF_ART
 
-紹 B-WORK_OF_ARTderiv
-運 I-WORK_OF_ARTderiv
-錄 I-WORK_OF_ARTderiv
+紹 B-WORK_OF_ART
+運 I-WORK_OF_ART
+錄 I-WORK_OF_ART
 、 O
 今 B-WORK_OF_ART
 鏡 I-WORK_OF_ART

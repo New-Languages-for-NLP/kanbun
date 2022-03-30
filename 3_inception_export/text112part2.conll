@@ -357,11 +357,10 @@
 戶 O
 。 O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 十一 O
@@ -491,11 +490,10 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-
-本 O
-紀 O
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 】 O
 道 O
 足 O
@@ -744,8 +742,8 @@
 阿 O
 閉 O
 
-麻 B-PERderiv
-呂 I-PERderiv
+麻 B-PER
+呂 I-PER
 ， O
 壬 O
 
@@ -1620,4 +1618,3 @@
 。 O
 
 】 O
-

@@ -380,8 +380,8 @@
 紀 I-WORK_OF_ART
 略 I-WORK_OF_ART
 、 O
-今 B-null
-鏡 I-null
+今 O
+鏡 O
 。 O
 ○ O
 
@@ -396,8 +396,8 @@
 記 I-WORK_OF_ART
 、 O
 
-紀 B-WORK_OF_ARTderiv
-略 I-WORK_OF_ARTderiv
+紀 B-WORK_OF_ART
+略 I-WORK_OF_ART
 。 O
 
 】 O

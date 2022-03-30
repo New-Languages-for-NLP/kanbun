@@ -1461,8 +1461,8 @@
 時 O
 ， O
 
-藤 B-PERpart
-氏 I-PERpart
+藤 B-PER
+氏 I-PER
 世 O
 立 O
 勳 O
@@ -2600,7 +2600,7 @@
 米 O
 穀 O
 於 O
-雄 B-PERpart
+雄 B-PER
 
 勝 O
 郡 O
@@ -3863,11 +3863,10 @@
 」 O
 於 O
 是 O
-清 B-PERpart
-原 I-PERpart
-令 I-PERpart
-
-望 B-PERpart
+清 B-PER
+原 I-PER
+令 I-PER
+望 I-PER
 、 O
 
 藤 B-PER
@@ -4640,8 +4639,8 @@
 ， O
 苦 O
 來 O
-苛 B-PERpart
-政 I-PERpart
+苛 B-PER
+政 I-PER
 。 O
 
 三 O
@@ -7287,4 +7286,3 @@
 。 O
 
 】 O
-

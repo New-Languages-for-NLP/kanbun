@@ -72,8 +72,8 @@
 詩 O
 。 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 即 O
 賦 O
 曰 O
@@ -211,8 +211,8 @@
 矢 O
 。 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 一 O
 發 O
 即 O
@@ -393,8 +393,8 @@
 ， O
 
 以 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 權 O
 行 O
 治 O
@@ -715,8 +715,8 @@
 亂 O
 。 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 奏 O
 曰 O
 ： O
@@ -827,8 +827,8 @@
 歲 O
 ， O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 年 O
 五十 O
 ， O
@@ -1035,9 +1035,9 @@
 ， O
 
 拜 O
-中 B-PERderiv
-納 I-PERderiv
-言 I-PERderiv
+中 B-PER
+納 I-PER
+言 I-PER
 ， O
 敘 O
 從 O
@@ -1154,8 +1154,8 @@
 獵 O
 ， O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 諫 O
 止 O
 之 O
@@ -1206,8 +1206,8 @@
 位 O
 ， O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 極 O
 陳 O
 其 O
@@ -1243,8 +1243,8 @@
 寢 O
 。 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 奏 O
 曰 O
 ： O
@@ -1388,8 +1388,8 @@
 ， O
 
 以 O
-藤 B-PERpart
-原 I-PERpart
+藤 B-PER
+原 I-PER
 
 時 O
 平 O
@@ -2032,10 +2032,9 @@
 
 」 O
 【 O
-梅 B-OTHpart
-城 I-OTHpart
-
-錄 B-OTHpart
+梅 B-OTH
+城 I-OTH
+錄 I-OTH
 引 O
 聖 B-OTH
 廟 I-OTH
@@ -2062,10 +2061,10 @@
 皇 O
 胤 O
 
-紹 B-OTHpart
-運 I-OTHpart
-錄 I-OTHpart
-訂 I-OTHpart
+紹 B-OTH
+運 I-OTH
+錄 I-OTH
+訂 I-OTH
 之 O
 。 O
 】 O
@@ -2111,10 +2110,9 @@
 。 O
 
 【 O
-梅 B-OTHpart
-城 I-OTHpart
-
-錄 B-OTHpart
+梅 B-OTH
+城 I-OTH
+錄 I-OTH
 引 O
 聖 B-OTH
 廟 I-OTH
@@ -2164,8 +2162,8 @@
 中 O
 
 將 O
-源 B-PERpart
-善 I-PERpart
+源 B-PER
+善 I-PER
 以 O
 下 O
 ， O
@@ -2353,8 +2351,8 @@
 行 O
 。 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 愛 O
 梅 O
 ， O
@@ -2452,8 +2450,8 @@
 ： O
 
 「 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 言 O
 ： O
 
@@ -2466,15 +2464,15 @@
 
 為 O
 善 O
-朝 B-PERpart
-臣 I-PERpart
+朝 B-PER
+臣 I-PER
 所 O
 詿 O
 誤 O
 。 O
 且 O
 法 O
-皇 B-PERpart
+皇 B-PER
 有 O
 遵 O
 承 O
@@ -2518,8 +2516,8 @@
 
 善 O
 勸 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 圖 O
 非 O
 舉 O
@@ -2617,8 +2615,8 @@
 】 O
 。 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 不 O
 從 O
 ， O
@@ -2732,8 +2730,8 @@
 。 O
 
 】 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 能 O
 文 O
 章 O
@@ -2800,8 +2798,8 @@
 裴 O
 頲 O
 見 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 詩 O
 ， O
 
@@ -2986,13 +2984,12 @@
 諸 O
 儒 O
 修 O
-三 B-OTHpart
-代 I-OTHpart
-
-實 B-OTHpart
-錄 I-OTHpart
-五十 I-OTHpart
-卷 I-OTHpart
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+五十 I-OTH
+卷 I-OTH
 。 O
 
 【 O
@@ -3037,14 +3034,13 @@
 。 O
 
 【 O
-仁 B-OTHpart
-和 I-OTHpart
-寺 I-OTHpart
-
-書 B-OTHpart
-籍 I-OTHpart
-目 I-OTHpart
-錄 I-OTHpart
+仁 B-OTH
+和 I-OTH
+寺 I-OTH
+書 I-OTH
+籍 I-OTH
+目 I-OTH
+錄 I-OTH
 。 O
 
 】 O
@@ -3064,8 +3060,8 @@
 
 「 O
 齎 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 及 O
 紀 O
 長 O
@@ -3077,12 +3073,11 @@
 廣 O
 相 O
 、 O
-都 B-OTHpart
-良 I-OTHpart
-
-香 B-OTHpart
-詩 I-OTHpart
-集 I-OTHpart
+都 B-OTH
+良 I-OTH
+香 I-OTH
+詩 I-OTH
+集 I-OTH
 。 O
 小 O
 野 O
@@ -3113,8 +3108,8 @@
 。 O
 
 】 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 薨 O
 後 O
 ， O
@@ -3311,11 +3306,10 @@
 記 I-OTH
 以 O
 贈 O
-太 B-PERpart
-政 I-PERpart
-
-大 B-PERpart
-臣 I-PERpart
+太 B-PER
+政 I-PER
+大 I-PER
+臣 I-PER
 係 O
 元 O
 年 O
@@ -3510,8 +3504,8 @@
 ， O
 
 祀 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 之 O
 靈 O
 稱 O
@@ -3565,11 +3559,10 @@
 禮 O
 ， O
 【 O
-公 B-OTHpart
-事 I-OTHpart
-
-根 B-OTHpart
-元 I-OTHpart
+公 B-OTH
+事 I-OTH
+根 I-OTH
+元 I-OTH
 。 O
 
 】 O
@@ -3671,8 +3664,8 @@
 視 O
 、 O
 
-景 B-OTHpart
-行 I-OTHpart
+景 B-OTH
+行 I-OTH
 、 O
 
 兼 O
@@ -3866,8 +3859,8 @@
 。 O
 
 】 O
-景 B-OTHpart
-行 I-OTHpart
+景 B-OTH
+行 I-OTH
 ， O
 
 從 O
@@ -3957,4 +3950,3 @@
 學 I-OTH
 傳 I-OTH
 。 O
-

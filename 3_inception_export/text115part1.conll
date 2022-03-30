@@ -259,11 +259,10 @@
 。 O
 
 據 O
-續 B-OTHpart
-日 I-OTHpart
-
-本 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 大 O
 寶 O
 元 O
@@ -557,20 +556,18 @@
 三 O
 位 O
 
-石 B-PERpart
-上 I-PERpart
-麻 I-PERpart
-
-呂 B-PERpart
+石 B-PER
+上 I-PER
+麻 I-PER
+呂 I-PER
 弔 O
 賻 O
 。 O
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 】 O
 子 O
 廣 O
@@ -652,11 +649,10 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 】 O
 大 O
 伴 O
@@ -856,8 +852,8 @@
 
 廣 O
 壹 O
-藤 B-PERpart
-原 I-PERpart
+藤 B-PER
+原 I-PER
 不 O
 比 O
 等 O
@@ -936,11 +932,10 @@
 子 O
 。 O
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 子 O
@@ -1558,11 +1553,10 @@
 位 O
 。 O
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 
 】 O
@@ -1823,11 +1817,10 @@
 之 O
 。 O
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 貞 O
@@ -2014,8 +2007,8 @@
 郡 O
 大 O
 領 O
-物 B-PERpart
-部 I-PERpart
+物 B-PER
+部 I-PER
 志 O
 
 太 O
@@ -2084,8 +2077,8 @@
 部 O
 山 O
 
-麻 B-PERpart
-呂 I-PERpart
+麻 B-PER
+呂 I-PER
 ， O
 並 O
 外 O
@@ -2543,11 +2536,10 @@
 敕 O
 與 O
 惠 O
-美 B-PERpart
-仲 I-PERpart
-麻 I-PERpart
-
-呂 B-PERpart
+美 B-PER
+仲 I-PER
+麻 I-PER
+呂 I-PER
 等 O
 ， O
 改 O
@@ -2724,11 +2716,10 @@
 。 O
 
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 子 O
@@ -3109,8 +3100,8 @@
 豐 I-PER
 成 I-PER
 。 O
-豐 B-PERpart
-成 I-PERpart
+豐 B-PER
+成 I-PER
 ， O
 
 勝 O
@@ -3694,12 +3685,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 文德 B-OTH
@@ -3801,4 +3791,3 @@
 。 O
 
 】 O
-

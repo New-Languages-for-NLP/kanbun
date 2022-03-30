@@ -679,11 +679,10 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 百 B-LOC
@@ -1301,7 +1300,7 @@
 公 O
 麻 O
 
-呂 B-PERpart
+呂 B-PER
 頗 O
 有 O
 巧 O
@@ -2006,4 +2005,3 @@
 。 O
 
 】 O
-

@@ -644,8 +644,8 @@
 者 O
 。 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 不 O
 欲 O
 
@@ -673,8 +673,8 @@
 厲 O
 。 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 有 O
 憂 O
 色 O
@@ -810,8 +810,8 @@
 
 】 O
 藉 O
-源 B-PERpart
-光 I-PERpart
+源 B-PER
+光 I-PER
 、 O
 
 藤 B-PER
@@ -826,8 +826,8 @@
 誣 O
 構 O
 
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 。 O
 
 道 O
@@ -1224,13 +1224,12 @@
 奉 O
 詔 O
 撰 O
-三 B-OTHpart
-代 I-OTHpart
-
-實 B-OTHpart
-錄 I-OTHpart
-五十 I-OTHpart
-卷 I-OTHpart
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
+五十 I-OTH
+卷 I-OTH
 、 O
 
 【 O
@@ -2148,8 +2147,8 @@
 問 O
 ， O
 引 O
-經 B-OTHpart
-傳 I-OTHpart
+經 B-OTH
+傳 I-OTH
 以 O
 發 O
 叡 O
@@ -2310,9 +2309,9 @@
 
 再 O
 補 O
-式 B-null
-部 I-null
-少 I-null
+式 O
+部 O
+少 O
 輔 O
 、 O
 
@@ -2356,8 +2355,8 @@
 ， O
 帝 O
 讀 O
-史 B-OTHpart
-記 I-OTHpart
+史 B-OTH
+記 I-OTH
 ， O
 菅 O
 根 O
@@ -2465,8 +2464,8 @@
 根 O
 
 以 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 薦 O
 登 O
 用 O
@@ -2486,8 +2485,8 @@
 ， O
 
 為 O
-道 B-PERpart
-真 I-PERpart
+道 B-PER
+真 I-PER
 所 O
 辱 O
 ， O
@@ -2512,10 +2511,10 @@
 。 O
 
 【 O
-北 B-OTHpart
-野 I-OTHpart
-緣 I-OTHpart
-起 I-OTHpart
+北 B-OTH
+野 I-OTH
+緣 I-OTH
+起 I-OTH
 。 O
 
 】 O
@@ -2692,4 +2691,3 @@
 。 O
 
 】 O
-

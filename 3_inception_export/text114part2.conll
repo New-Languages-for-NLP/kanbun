@@ -612,8 +612,8 @@
 上 O
 郡 O
 
-玉 B-PERpart
-野 I-PERpart
+玉 B-PER
+野 I-PER
 八十 O
 里 O
 。 O
@@ -1468,8 +1468,8 @@
 兼 O
 侍 O
 從 O
-藤 B-PERpart
-原 I-PERpart
+藤 B-PER
+原 I-PER
 
 朝 O
 臣 O
@@ -1966,12 +1966,11 @@
 青 O
 山 O
 據 O
-源 B-PERpart
-
-平 B-PERpart
-盛 I-PERpart
-衰 I-PERpart
-記 I-PERpart
+源 B-PER
+平 I-PER
+盛 I-PER
+衰 I-PER
+記 I-PER
 。 O
 
 ○ O
@@ -2136,13 +2135,12 @@
 。 O
 
 】 O
-藤 B-PERpart
-原 I-PERpart
-
-富 B-PERpart
-士 I-PERpart
-麻 I-PERpart
-呂 I-PERpart
+藤 B-PER
+原 I-PER
+富 I-PER
+士 I-PER
+麻 I-PER
+呂 I-PER
 。 O
 
 富 B-PER
@@ -2374,12 +2372,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-
-日 B-OTHpart
-本 I-OTHpart
-後 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 子 O
@@ -3405,11 +3402,10 @@
 
 」 O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-紀 B-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 
 】 O
@@ -3709,4 +3705,3 @@
 有 O
 傳 O
 。 O
-

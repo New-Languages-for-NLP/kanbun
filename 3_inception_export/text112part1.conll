@@ -704,10 +704,9 @@
 本 I-OTH
 紀 I-OTH
 為 O
-中 B-PERpart
-
-納 B-PERpart
-言 I-PERpart
+中 B-PER
+納 I-PER
+言 I-PER
 大 O
 雲 O
 ， O
@@ -751,9 +750,9 @@
 。 O
 
 【 O
-日 B-PERpart
-本 I-PERpart
-紀 I-PERpart
+日 B-PER
+本 I-PER
+紀 I-PER
 。 O
 】 O
 子 O
@@ -854,10 +853,9 @@
 。 O
 【 O
 續 O
-
-日 B-OTHpart
-本 I-OTHpart
-紀 I-OTHpart
+日 B-OTH
+本 I-OTH
+紀 I-OTH
 。 O
 】 O
 書 O
@@ -924,9 +922,8 @@
 奉 O
 詔 O
 赴 O
-倭 B-LOCpart
-
-京 B-LOC
+倭 B-LOC
+京 I-LOC
 徵 O
 兵 O
 。 O
@@ -2221,11 +2218,10 @@
 吹 O
 負 O
 與 O
-大 B-PERpart
-野 I-PERpart
-
-果 B-PERpart
-安 I-PERpart
+大 B-PER
+野 I-PER
+果 I-PER
+安 I-PER
 戰 O
 于 O
 乃 O
@@ -2735,4 +2731,3 @@
 錦 O
 中 O
 。 O
-

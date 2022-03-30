@@ -904,11 +904,10 @@
 。 O
 
 【 O
-日 B-OTHpart
-
-本 B-OTHpart
-紀 I-OTHpart
-略 I-OTHpart
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
 、 O
 尊 B-OTH
 卑 I-OTH
@@ -1027,11 +1026,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -1112,11 +1110,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -1889,10 +1886,9 @@
 。 O
 
 【 O
-古 B-OTHpart
-事 I-OTHpart
-
-談 B-OTHpart
+古 B-OTH
+事 I-OTH
+談 I-OTH
 、 O
 十 B-OTH
 訓 I-OTH
@@ -2181,14 +2177,13 @@
 。 O
 
 【 O
-仁 B-OTHpart
-和 I-OTHpart
-寺 I-OTHpart
-
-書 B-OTHpart
-籍 I-OTHpart
-目 I-OTHpart
-錄 I-OTHpart
+仁 B-OTH
+和 I-OTH
+寺 I-OTH
+書 I-OTH
+籍 I-OTH
+目 I-OTH
+錄 I-OTH
 。 O
 
 】 O
@@ -2257,11 +2252,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -3515,11 +3509,10 @@
 
 」 O
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -4200,11 +4193,10 @@
 日 O
 。 O
 【 O
-日 B-OTHpart
-
-本 B-OTHpart
-紀 I-OTHpart
-略 I-OTHpart
+日 B-OTH
+本 I-OTH
+紀 I-OTH
+略 I-OTH
 。 O
 】 O
 贈 O
@@ -4407,11 +4399,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 、 O
 
 大 B-OTH
@@ -4428,11 +4419,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -4547,4 +4537,3 @@
 。 O
 
 】 O
-

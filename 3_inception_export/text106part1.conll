@@ -111,10 +111,9 @@
 而 O
 無 O
 有 O
-櫛 B-PERpart
-
-玉 B-PERpart
-饒 I-PERpart
+櫛 B-PER
+玉 I-PER
+饒 I-PER
 速 O
 日 O
 之 O
@@ -708,11 +707,10 @@
 為 O
 君 O
 。 O
-宇 B-PERpart
-摩 I-PERpart
-志 I-PERpart
-
-麻 B-PERpart
+宇 B-PER
+摩 I-PER
+志 I-PER
+麻 I-PER
 治 O
 殺 O
 長 O
@@ -996,10 +994,9 @@
 支 O
 或 O
 作 O
-彥 B-PERpart
-
-湯 B-PERpart
-友 I-PERpart
+彥 B-PER
+湯 I-PER
+友 I-PER
 。 O
 】 O
 彥 B-PER
@@ -1612,4 +1609,3 @@
 。 O
 
 】 O
-

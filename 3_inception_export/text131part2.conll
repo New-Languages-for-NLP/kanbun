@@ -1,7 +1,7 @@
 參 O
 議 O
-藤 B-PERpart
-原 I-PERpart
+藤 B-PER
+原 I-PER
 諸葛 O
 
 按 O
@@ -1185,8 +1185,8 @@
 之 O
 。 O
 
-佐 B-PERpart
-世 I-PERpart
+佐 B-PER
+世 I-PER
 欲 O
 堅 O
 執 O
@@ -1683,10 +1683,9 @@
 時 O
 ， O
 【 O
-愚 B-OTHpart
-
-管 B-OTHpart
-抄 I-OTHpart
+愚 B-OTH
+管 I-OTH
+抄 I-OTH
 、 O
 歷 B-OTH
 代 I-OTH
@@ -1844,13 +1843,12 @@
 奉 O
 敕 O
 撰 O
-文 B-OTHpart
-德 I-OTHpart
-
-實 B-OTHpart
-錄 I-OTHpart
-十 I-OTHpart
-卷 I-OTHpart
+文 B-OTH
+德 I-OTH
+實 I-OTH
+錄 I-OTH
+十 I-OTH
+卷 I-OTH
 。 O
 
 【 O
@@ -1898,11 +1896,10 @@
 右 B-LOC
 中 I-LOC
 辨 I-LOC
-藤 O
-
-原 O
-保 B-PERpart
-則 I-PERpart
+藤 B-PER
+原 I-PER
+保 I-PER
+則 I-PER
 ， O
 兼 O
 出 O
@@ -1927,8 +1924,8 @@
 。 O
 
 然 O
-保 B-PERpart
-則 I-PERpart
+保 B-PER
+則 I-PER
 終 O
 不 O
 蒙 O
@@ -1960,11 +1957,10 @@
 行 I-OTH
 所 O
 撰 O
-藤 B-PERpart
-
-原 B-PERpart
-保 I-PERpart
-則 I-PERpart
+藤 B-PER
+原 I-PER
+保 I-PER
+則 I-PER
 傳 O
 。 O
 
@@ -2149,8 +2145,8 @@
 
 參 O
 取 O
-裏 B-OTHpart
-書 I-OTHpart
+裏 B-OTH
+書 I-OTH
 。 O
 】 O
 初 O
@@ -2481,8 +2477,8 @@
 改 O
 名 O
 據 O
-補 B-OTHpart
-任 I-OTHpart
+補 B-OTH
+任 I-OTH
 。 O
 
 】 O
@@ -3601,8 +3597,8 @@
 第 O
 
 據 O
-紀 B-OTHpart
-略 I-OTHpart
+紀 B-OTH
+略 I-OTH
 。 O
 】 O
 年 O
@@ -3667,10 +3663,9 @@
 中 B-PER
 納 I-PER
 言 I-PER
-藤 B-PERpart
-
-原 B-PERpart
-元方 I-PERpart
+藤 I-PER
+原 I-PER
+元方 I-PER
 、 O
 
 參 O
@@ -3734,11 +3729,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 】 O
 與 O
@@ -4046,11 +4040,10 @@
 。 O
 
 【 O
-榮 O
-
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+榮 B-OTH
+華 I-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -4058,11 +4051,10 @@
 平 O
 雅 O
 與 O
-菅 B-PERpart
-原 I-PERpart
-
-道 B-PERpart
-真 I-PERpart
+菅 B-PER
+原 I-PER
+道 I-PER
+真 I-PER
 善 O
 ， O
 
@@ -4277,7 +4269,7 @@
 歌 O
 ， O
 
-集 B-OTHpart
+集 B-OTH
 曰 O
 海 B-LOC
 士 O
@@ -4755,4 +4747,3 @@
 。 O
 
 】 O
-

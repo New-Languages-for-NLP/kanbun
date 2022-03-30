@@ -10,8 +10,8 @@
 麗 O
 ， O
 
-清 B-PERpart
-警 I-PERpart
+清 B-PER
+警 I-PER
 寬 O
 雅 O
 。 O
@@ -235,12 +235,11 @@
 
 」 O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 
 】 O
@@ -1227,8 +1226,8 @@
 
 】 O
 初 O
-藤 B-PERpart
-原 I-PERpart
+藤 B-PER
+原 I-PER
 不 O
 比 O
 等 O
@@ -1285,8 +1284,8 @@
 嗣 I-PER
 、 O
 
-文 B-LOCpart
-章 I-LOCpart
+文 B-LOC
+章 I-LOC
 博 O
 士 O
 菅 O
@@ -1656,12 +1655,11 @@
 從 O
 ， O
 【 O
-續 O
-日 O
-
-本 B-OTHpart
-後 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 三 B-OTH
@@ -1716,12 +1714,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 貞 O
@@ -1778,4 +1775,3 @@
 錄 I-OTH
 。 O
 】 O
-

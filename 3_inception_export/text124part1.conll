@@ -179,8 +179,8 @@
 
 註 O
 引 O
-國 B-OTHpart
-史 I-OTHpart
+國 B-OTH
+史 I-OTH
 曰 O
 ： O
 
@@ -1210,8 +1210,8 @@
 大 O
 政 O
 
-大 B-PERpart
-臣 I-PERpart
+大 B-PER
+臣 I-PER
 正 O
 一 O
 位 O
@@ -1420,8 +1420,8 @@
 大 O
 政 O
 
-大 B-PERpart
-臣 I-PERpart
+大 B-PER
+臣 I-PER
 正 O
 一 O
 位 O
@@ -2300,4 +2300,3 @@
 。 O
 
 】 O
-

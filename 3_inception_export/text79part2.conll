@@ -3709,8 +3709,8 @@
 】 O
 及 O
 二 O
-皇 B-null
-女 I-null
+皇 B-PER
+女 I-PER
 。 O
 
 故 O
@@ -5300,10 +5300,10 @@
 略 I-WORK_OF_ART
 、 O
 
-一 B-null
-代 I-null
-要 I-null
-記 I-null
+一 B-WORK_OF_ART
+代 I-WORK_OF_ART
+要 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 ○ O
 

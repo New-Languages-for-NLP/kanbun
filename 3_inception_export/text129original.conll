@@ -3175,11 +3175,10 @@
 。 O
 
 【 O
-三 B-OTHpart
-代 I-OTHpart
-
-實 B-OTHpart
-錄 I-OTHpart
+三 B-OTH
+代 I-OTH
+實 B-OTH
+錄 I-OTH
 、 O
 菅 B-OTH
 家 I-OTH
@@ -4212,8 +4211,8 @@
 尊 O
 卑 O
 
-分 B-OTHpart
-脈 I-OTHpart
+分 B-OTH
+脈 I-OTH
 。 O
 】 O
 父 O
@@ -4369,7 +4368,7 @@
 仕 O
 太 O
 上 O
-皇 B-PERpart
+皇 B-PER
 。 O
 
 上 O
@@ -4616,8 +4615,8 @@
 建 O
 祠 O
 於 O
-吉 B-PERpart
-田 I-PERpart
+吉 B-PER
+田 I-PER
 ， O
 
 以 O
@@ -4893,9 +4892,9 @@
 也 O
 。 O
 
-盛 B-OTHpart
-衰 I-OTHpart
-記 I-OTHpart
+盛 B-OTH
+衰 I-OTH
+記 I-OTH
 亦 O
 載 O
 此 O
@@ -4927,4 +4926,3 @@
 有 O
 傳 O
 。 O
-

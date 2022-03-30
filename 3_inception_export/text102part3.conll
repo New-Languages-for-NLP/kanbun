@@ -1058,10 +1058,9 @@
 
 【 O
 日 B-WORK_OF_ART
-
-本 B-null
-紀 I-null
-略 I-null
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 、 O
 大 B-WORK_OF_ART
 鏡 I-WORK_OF_ART

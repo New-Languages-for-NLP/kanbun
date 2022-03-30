@@ -1499,7 +1499,7 @@
 清 O
 和 O
 
-帝 B-PERpart
+帝 B-PER
 生 O
 育 O
 于 O
@@ -2149,11 +2149,10 @@
 
 今 O
 以 O
-三 B-OTHpart
-代 I-OTHpart
-實 I-OTHpart
-
-錄 B-OTHpart
+三 B-OTH
+代 I-OTH
+實 I-OTH
+錄 I-OTH
 無 O
 
 關 O
@@ -2837,4 +2836,3 @@
 。 O
 
 】 O
-

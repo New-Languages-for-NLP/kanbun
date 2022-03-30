@@ -231,7 +231,7 @@
 
 太 O
 上 O
-皇 B-PERpart
+皇 B-PER
 甚 O
 親 O
 
@@ -378,12 +378,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 三 B-OTH
@@ -437,12 +436,11 @@
 辨 I-ORG
 ， O
 【 O
-續 O
-日 O
-本 O
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 三 B-OTH
@@ -544,12 +542,11 @@
 弼 O
 ， O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 三 B-OTH
@@ -588,12 +585,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 公 B-OTH
@@ -630,12 +626,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 三 B-OTH
@@ -692,12 +687,11 @@
 言 I-PER
 。 O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 三 B-OTH
@@ -770,10 +764,9 @@
 表 O
 請 O
 減 O
-大 B-PERpart
-納 I-PERpart
-
-言 B-PERpart
+大 B-PER
+納 I-PER
+言 I-PER
 所 O
 食 O
 ， O
@@ -1190,12 +1183,11 @@
 上 O
 ， O
 【 O
-續 O
-日 O
-本 O
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 拜 O
@@ -1579,12 +1571,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-
-日 B-OTHpart
-本 I-OTHpart
-後 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 子良 O
@@ -2162,12 +2153,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 及 O
@@ -2232,8 +2222,8 @@
 辨 I-ORG
 ， O
 代 O
-藤 B-PERpart
-原 I-PERpart
+藤 B-PER
+原 I-PER
 
 愛 O
 發 O
@@ -2420,19 +2410,17 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
-藤 O
-
-原 B-PERpart
-良 I-PERpart
-繩 I-PERpart
+藤 B-PER
+原 I-PER
+良 I-PER
+繩 I-PER
 ， O
 字 O
 朝 O
@@ -2998,8 +2986,8 @@
 
 少 O
 將 O
-藤 B-PERpart
-原 I-PERpart
+藤 B-PER
+原 I-PER
 基 O
 經 O
 ， O
@@ -3327,4 +3315,3 @@
 錄 I-OTH
 。 O
 】 O
-

@@ -1696,18 +1696,16 @@
 
 今 O
 省 O
-大 B-PERpart
-納 I-PERpart
-
-言 B-PERpart
+大 B-PER
+納 I-PER
+言 I-PER
 正 O
 三 O
 位 O
-藤 B-PERpart
-原 I-PERpart
-
-朝 B-PERpart
-臣 I-PERpart
+藤 B-PER
+原 I-PER
+朝 I-PER
+臣 I-PER
 園 O
 人 O
 奏 O
@@ -3111,12 +3109,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-
-本 B-OTHpart
-後 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 藤 B-PER
@@ -3446,12 +3443,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 乃 O
@@ -3616,12 +3612,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 奏 O
@@ -4144,12 +4139,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 公 B-OTH
@@ -4386,8 +4380,8 @@
 ， O
 
 以 O
-清 B-PERpart
-素 I-PERpart
+清 B-PER
+素 I-PER
 供 O
 神 O
 事 O
@@ -4492,12 +4486,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-
-本 B-OTHpart
-後 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 日 B-OTH
 本 I-OTH
@@ -5063,8 +5056,8 @@
 朝 O
 端 O
 而 O
-空 B-ORGderiv
-座 I-ORGderiv
+空 B-ORG
+座 I-ORG
 ， O
 
 辭 O
@@ -5170,12 +5163,11 @@
 
 」 O
 【 O
-續 O
-日 O
-本 O
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 
 】 O
@@ -5195,12 +5187,11 @@
 七十 O
 ， O
 【 O
-續 O
-日 O
-
-本 B-OTHpart
-後 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 、 O
 
 公 B-OTH
@@ -5368,12 +5359,11 @@
 。 O
 
 【 O
-續 O
-日 O
-
-本 B-OTHpart
-後 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 嘗 O
@@ -5488,4 +5478,3 @@
 史 I-OTH
 。 O
 】 O
-

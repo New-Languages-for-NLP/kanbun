@@ -61,8 +61,8 @@
 聘 O
 ， O
 
-清 B-PERpart
-友 I-PERpart
+清 B-PER
+友 I-PER
 以 O
 良 O
 家 O
@@ -472,8 +472,8 @@
 日 O
 本 O
 
-後 B-OTHpart
-紀 I-OTHpart
+後 B-OTH
+紀 I-OTH
 。 O
 
 】 O
@@ -588,12 +588,11 @@
 六十五 O
 。 O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 
 】 O
@@ -858,12 +857,11 @@
 町 O
 。 O
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 齊 O
@@ -1515,12 +1513,11 @@
 。 O
 
 【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
-
-後 B-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 未 O
@@ -2657,12 +2654,11 @@
 之 O
 。 O
 【 O
-續 O
-
-日 B-OTHpart
-本 I-OTHpart
-後 I-OTHpart
-紀 I-OTHpart
+續 B-OTH
+日 I-OTH
+本 I-OTH
+後 I-OTH
+紀 I-OTH
 。 O
 】 O
 秩 O
@@ -2797,4 +2793,3 @@
 。 O
 
 】 O
-
