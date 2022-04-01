@@ -5,7 +5,6 @@
 皇 I-PERSON
 】 O
 清 O
-
 和 O
 藤 B-PERSON
 原 I-PERSON
@@ -13,13 +12,14 @@
 后 I-PERSON
 ， O
 諱 O
-高子 O
+高 O
+子 O
 。 O
+
 
 中 O
 納 O
 言 O
-
 長 O
 良 O
 第 O
@@ -27,6 +27,7 @@
 女 O
 也 O
 。 O
+
 
 【 O
 愚 B-WORK_OF_ART
@@ -42,6 +43,7 @@
 要 I-WORK_OF_ART
 記 I-WORK_OF_ART
 。 O
+
 
 】 O
 初 O
@@ -61,7 +63,6 @@
 庭 O
 中 O
 ， O
-
 頃 O
 之 O
 腹 O
@@ -69,12 +70,12 @@
 氣 O
 升 O
 ， O
-
 屬 O
 天 O
 成 O
 日 O
 。 O
+
 
 」 O
 後 O
@@ -83,10 +84,8 @@
 入 O
 宮 O
 ， O
-
 【 O
 ○ O
-
 大 B-WORK_OF_ART
 鏡 I-WORK_OF_ART
 曰 O
@@ -94,7 +93,6 @@
 后 O
 在 O
 家 O
-
 日 O
 ， O
 在 O
@@ -111,17 +109,18 @@
 奔 O
 。 O
 
+
 兄 O
 國 O
 經 O
 、 O
-
 基 O
 經 O
 追 O
 取 O
 之 O
 。 O
+
 
 後 O
 以 O
@@ -131,18 +130,17 @@
 之 O
 故 O
 ， O
-
 出 O
 入 O
 宮 O
 掖 O
 ， O
-
 遂 O
 至 O
 受 O
 恩 O
 。 O
+
 
 所 O
 謂 O
@@ -151,12 +149,12 @@
 入 O
 宮 O
 ， O
-
 蓋 O
 諱 O
 之 O
 也 O
 。 O
+
 
 】 O
 授 O
@@ -166,17 +164,20 @@
 下 O
 。 O
 
+
 貞 O
 觀 O
 八 O
 年 O
-十二 O
+十 O
+二 O
 月 O
 ， O
 為 O
 女 O
 御 O
 。 O
+
 
 九 O
 年 O
@@ -188,18 +189,17 @@
 下 O
 。 O
 
+
 生 O
 陽 O
 成 O
 帝 O
 、 O
-
 貞 O
 保 O
 親 O
 王 O
 、 O
-
 教 O
 子 O
 內 O
@@ -207,16 +207,14 @@
 王 O
 。 O
 
-【 O
 
+【 O
 ○ O
 按 O
 齋 O
 院 O
-
 記 O
 、 O
-
 皇 B-WORK_OF_ART
 胤 I-WORK_OF_ART
 紹 I-WORK_OF_ART
@@ -225,29 +223,31 @@
 ， O
 為 O
 敦 O
-
 子 O
 母 O
 同 O
 貞 O
 平 O
 ， O
-
 誤 O
 。 O
 
+
 】 O
-十一 O
+十 O
+一 O
 年 O
 ， O
-
 進 O
 從 O
 四 O
 位 O
 下 O
 。 O
-十三 O
+
+
+十 O
+三 O
 年 O
 ， O
 授 O
@@ -256,13 +256,13 @@
 位 O
 。 O
 
+
 陽 O
 成 O
 帝 O
 即 O
 位 O
 ， O
-
 尊 O
 為 O
 皇 B-PERSON
@@ -270,7 +270,6 @@
 夫 I-PERSON
 人 I-PERSON
 ， O
-
 【 O
 三 B-WORK_OF_ART
 代 I-WORK_OF_ART
@@ -278,11 +277,14 @@
 錄 I-WORK_OF_ART
 。 O
 
+
 】 O
 稱 O
 中 O
 宮 O
 。 O
+
+
 【 O
 大 B-WORK_OF_ART
 鏡 I-WORK_OF_ART
@@ -291,6 +293,7 @@
 右 I-WORK_OF_ART
 記 I-WORK_OF_ART
 。 O
+
 
 】 O
 元 O
@@ -305,12 +308,14 @@
 后 I-WORK_OF_ART
 。 O
 
+
 去 O
 歲 O
 太 B-PERSON
 后 I-PERSON
 壽 O
-四十 O
+四 O
+十 O
 ， O
 以 O
 大 O
@@ -319,6 +324,7 @@
 喪 O
 禮 O
 。 O
+
 
 三 O
 月 O
@@ -331,17 +337,18 @@
 殿 O
 。 O
 
+
 張 O
 樂 O
 奏 O
 舞 O
 ， O
-
 王 O
 卿 O
 悉 O
 會 O
 。 O
+
 
 【 O
 三 B-WORK_OF_ART
@@ -350,19 +357,18 @@
 錄 I-WORK_OF_ART
 。 O
 
+
 】 O
 寬 O
 平 O
 八 O
 年 O
 ， O
-
 以 O
 與 O
 東 B-LOC
 光 I-LOC
 寺 I-LOC
-
 僧 O
 善 O
 祐 O
@@ -370,18 +376,19 @@
 廢 O
 。 O
 
+
 【 O
 扶 B-WORK_OF_ART
 桑 I-WORK_OF_ART
 略 I-WORK_OF_ART
 記 I-WORK_OF_ART
 、 O
-
 日 B-WORK_OF_ART
 本 I-WORK_OF_ART
 紀 I-WORK_OF_ART
 略 I-WORK_OF_ART
 。 O
+
 
 】 O
 後 O
@@ -392,12 +399,14 @@
 戶 O
 。 O
 
+
 【 O
 大 B-WORK_OF_ART
 鏡 I-WORK_OF_ART
 裏 I-WORK_OF_ART
 書 I-WORK_OF_ART
 。 O
+
 
 】 O
 延 O
@@ -409,10 +418,12 @@
 ， O
 薨 O
 ， O
-
 年 O
-六十九 O
+六 O
+十 O
+九 O
 。 O
+
 
 【 O
 日 B-WORK_OF_ART
@@ -431,6 +442,7 @@
 書 I-WORK_OF_ART
 。 O
 
+
 】 O
 帝 O
 不 O
@@ -438,14 +450,16 @@
 事 O
 。 O
 
+
 【 O
 日 B-WORK_OF_ART
 本 I-WORK_OF_ART
 紀 I-WORK_OF_ART
 略 I-WORK_OF_ART
 。 O
-○ O
 
+
+○ O
 本 O
 書 O
 不 O
@@ -454,31 +468,30 @@
 日 O
 。 O
 
+
 】 O
 天 O
 慶 O
 六 O
 年 O
 ， O
-
 追 O
 復 O
 本 O
 位 O
 ， O
-
 【 O
 大 B-WORK_OF_ART
 鏡 I-WORK_OF_ART
 裏 I-WORK_OF_ART
 書 I-WORK_OF_ART
 、 O
-
 一 B-WORK_OF_ART
 代 I-WORK_OF_ART
 要 I-WORK_OF_ART
 記 I-WORK_OF_ART
 。 O
+
 
 】 O
 稱 O
@@ -486,13 +499,14 @@
 條 O
 后 O
 。 O
+
+
 【 O
 一 B-WORK_OF_ART
 代 I-WORK_OF_ART
 要 I-WORK_OF_ART
 記 I-WORK_OF_ART
 、 O
-
 古 B-WORK_OF_ART
 今 I-WORK_OF_ART
 集 I-WORK_OF_ART
@@ -500,6 +514,7 @@
 大 B-WORK_OF_ART
 鏡 I-WORK_OF_ART
 。 O
+
 
 】 O
 女 O
@@ -510,7 +525,6 @@
 美 I-PERSON
 子 I-PERSON
 ， O
-
 右 O
 大 O
 臣 O
@@ -520,27 +534,27 @@
 也 O
 。 O
 
+
 性 O
 安 O
 詳 O
 ， O
-
 美 O
 容 O
 色 O
 ， O
-
 以 O
 婦 O
 德 O
 稱 O
 。 O
+
+
 貞 O
 觀 O
 五 O
 年 O
 ， O
-
 授 O
 從 O
 四 O
@@ -548,43 +562,41 @@
 下 O
 。 O
 
+
 帝 O
 冠 O
 ， O
-
 以 O
 選 O
 入 O
 宮 O
 ， O
-
 有 O
 專 O
 房 O
 寵 O
 。 O
 
+
 數 O
 日 O
 ， O
-
 為 O
 女 O
 御 O
 ， O
-
 授 O
 從 O
 三 O
 位 O
 。 O
 
+
 八 O
 年 O
 ， O
 敕 O
 ： O
-
 「 O
 年 O
 給 O
@@ -594,13 +606,13 @@
 一 O
 人 O
 、 O
-
 一 O
 分 O
 官 O
 一 O
 人 O
 。 O
+
 
 」 O
 九 O
@@ -611,6 +623,7 @@
 三 O
 位 O
 。 O
+
 
 元 O
 慶 O
@@ -623,6 +636,7 @@
 位 O
 。 O
 
+
 七 O
 年 O
 ， O
@@ -631,14 +645,17 @@
 二 O
 位 O
 。 O
+
+
 仁 O
 和 O
 二 O
 年 O
 ， O
-
 薨 O
 。 O
+
+
 多 B-PERSON
 美 I-PERSON
 子 I-PERSON
@@ -648,7 +665,6 @@
 甚 O
 高 O
 ， O
-
 為 O
 中 O
 表 O
@@ -656,27 +672,29 @@
 依 O
 。 O
 
+
 帝 O
 重 O
 之 O
 。 O
+
 
 及 O
 帝 O
 薙 O
 髮 O
 ， O
-
 亦 O
 為 O
 尼 O
 ， O
-
 持 O
 齋 O
 勤 O
 修 O
 。 O
+
+
 晏 O
 駕 O
 之 O
@@ -686,14 +704,12 @@
 拾 O
 平 O
 生 O
-
 所 O
 賜 O
 宸 O
 筆 O
 書 O
 ， O
-
 以 O
 書 O
 法 O
@@ -703,8 +719,10 @@
 設 O
 齋 O
 會 O
-慶之 O
+慶 O
+之 O
 。 O
+
 
 受 O
 大 O
@@ -712,18 +730,22 @@
 戒 O
 。 O
 
+
 即 O
 日 O
 ， O
-
 薨 O
 。 O
+
+
 【 O
 三 B-WORK_OF_ART
 代 I-WORK_OF_ART
 實 I-WORK_OF_ART
 錄 I-WORK_OF_ART
 。 O
+
+
 】 O
 女 O
 御 O
@@ -736,22 +758,22 @@
 六 O
 年 O
 ， O
-
 為 O
 女 O
 御 O
 。 O
 
+
 八 O
 年 O
 ， O
-
 授 O
 正 O
 五 O
 位 O
 下 O
 。 O
+
 
 十 O
 年 O
@@ -763,12 +785,14 @@
 下 O
 。 O
 
+
 【 O
 三 B-WORK_OF_ART
 代 I-WORK_OF_ART
 實 I-WORK_OF_ART
 錄 I-WORK_OF_ART
 。 O
+
 
 】 O
 女 O
@@ -778,19 +802,18 @@
 女 O
 王 O
 ， O
-
 貞 O
 觀 O
 元 O
 年 O
 ， O
-
 敘 O
 從 O
 四 O
 位 O
 下 O
 。 O
+
 
 九 O
 年 O
@@ -799,6 +822,7 @@
 女 O
 御 O
 。 O
+
 
 十 O
 年 O
@@ -810,12 +834,15 @@
 上 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
+
 】 O
 女 O
 御 O
@@ -828,16 +855,15 @@
 九 O
 年 O
 ， O
-
 為 O
 女 O
 御 O
 。 O
 
+
 十 O
 年 O
 ， O
-
 授 O
 從 O
 四 O
@@ -845,6 +871,7 @@
 上 O
 。 O
 
+
 【 O
 三 O
 代 O
@@ -852,28 +879,28 @@
 錄 O
 。 O
 
+
 】 O
 女 O
 御 O
 源 O
-貞子 O
+貞 O
+子 O
 ， O
-
 貞 O
 觀 O
 九 O
 年 O
 ， O
-
 為 O
 女 O
 御 O
 。 O
 
+
 十 O
 年 O
 ， O
-
 授 O
 從 O
 四 O
@@ -881,11 +908,14 @@
 下 O
 。 O
 
-十五 O
+
+十 O
+五 O
 年 O
 ， O
 卒 O
 。 O
+
 
 【 O
 三 O
@@ -893,6 +923,7 @@
 實 O
 錄 O
 。 O
+
 
 】 O
 稱 O
@@ -902,12 +933,15 @@
 女 O
 御 O
 。 O
+
+
 【 O
 一 O
 代 O
 要 O
 記 O
 。 O
+
 
 】 O
 女 O
@@ -917,7 +951,6 @@
 女 O
 王 O
 ， O
-
 元 O
 慶 O
 元 O
@@ -930,6 +963,7 @@
 下 O
 。 O
 
+
 【 O
 三 O
 代 O
@@ -937,19 +971,19 @@
 錄 O
 。 O
 
+
 】 O
 女 O
 御 O
 兼 O
-
 子 O
 女 O
 王 O
 ， O
-
 貞 O
 觀 O
-十五 O
+十 O
+五 O
 年 O
 ， O
 為 O
@@ -957,6 +991,7 @@
 御 O
 。 O
 
+
 元 O
 慶 O
 元 O
@@ -969,12 +1004,14 @@
 下 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 女 O
@@ -984,23 +1021,23 @@
 女 O
 王 O
 ， O
-
 貞 O
 觀 O
-十二 O
+十 O
+二 O
 年 O
 ， O
 為 O
 女 O
 御 O
 ， O
-
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 敘 O
@@ -1010,18 +1047,19 @@
 下 O
 。 O
 
+
 【 O
 日 O
 本 O
 紀 O
 略 O
 、 O
-
 一 O
 代 O
 要 O
 記 O
 。 O
+
 
 】 O
 延 O
@@ -1032,12 +1070,14 @@
 卒 O
 。 O
 
+
 【 O
 日 O
 本 O
 紀 O
 略 O
 。 O
+
 
 】 O
 女 O
@@ -1047,7 +1087,6 @@
 賴 O
 子 O
 ， O
-
 太 O
 政 O
 大 O
@@ -1058,23 +1097,23 @@
 也 O
 。 O
 
+
 為 O
 女 O
 御 O
 ， O
-
 【 O
 尊 O
 卑 O
 分 O
 脈 O
 、 O
-
 一 O
 代 O
 要 O
 記 O
 。 O
+
 
 】 O
 敘 O
@@ -1083,12 +1122,15 @@
 位 O
 下 O
 。 O
+
+
 【 O
 一 O
 代 O
 要 O
 記 O
 。 O
+
 
 】 O
 女 O
@@ -1099,12 +1141,12 @@
 珠 O
 子 O
 ， O
-
 賴 O
 子 O
 妹 O
 也 O
 。 O
+
 
 【 O
 三 O
@@ -1112,6 +1154,7 @@
 實 O
 錄 O
 。 O
+
 
 ○ O
 參 O
@@ -1122,37 +1165,36 @@
 運 O
 錄 O
 、 O
-
 尊 O
 卑 O
 分 O
 脈 O
 、 O
-
 一 O
 代 O
 要 O
 記 O
 。 O
 
+
 】 O
 貞 O
 觀 O
-十五 O
+十 O
+五 O
 年 O
 ， O
-
 為 O
 女 O
 御 O
 ， O
-
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 敘 O
@@ -1161,12 +1203,15 @@
 位 O
 下 O
 。 O
+
+
 【 O
 一 O
 代 O
 要 O
 記 O
 。 O
+
 
 】 O
 生 O
@@ -1176,6 +1221,7 @@
 王 O
 。 O
 
+
 【 O
 三 O
 代 O
@@ -1183,13 +1229,12 @@
 錄 O
 。 O
 
-○ O
 
+○ O
 參 O
 取 O
 皇 O
 胤 O
-
 紹 O
 運 O
 錄 O
@@ -1199,6 +1244,8 @@
 要 O
 記 O
 。 O
+
+
 】 O
 女 O
 御 O
@@ -1206,7 +1253,6 @@
 嚴 O
 子 O
 ， O
-
 右 O
 大 O
 臣 O
@@ -1215,6 +1261,8 @@
 女 O
 也 O
 。 O
+
+
 【 O
 源 O
 氏 O
@@ -1222,18 +1270,19 @@
 圖 O
 。 O
 
+
 】 O
 為 O
 女 O
 御 O
 ， O
-
 敘 O
 從 O
 四 O
 位 O
 下 O
 。 O
+
 
 元 O
 慶 O
@@ -1243,12 +1292,14 @@
 卒 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 稱 O
@@ -1258,12 +1309,15 @@
 女 O
 御 O
 。 O
+
+
 【 O
 一 O
 代 O
 要 O
 記 O
 。 O
+
 
 】 O
 女 O
@@ -1279,12 +1333,14 @@
 下 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 後 O
@@ -1294,12 +1350,15 @@
 位 O
 下 O
 。 O
+
+
 【 O
 一 O
 代 O
 要 O
 記 O
 。 O
+
 
 】 O
 女 O
@@ -1308,7 +1367,6 @@
 宜 O
 子 O
 ， O
-
 參 O
 議 O
 興 O
@@ -1317,23 +1375,24 @@
 也 O
 。 O
 
+
 貞 O
 觀 O
-十八 O
+十 O
+八 O
 年 O
 ， O
-
 為 O
 女 O
 御 O
 ， O
-
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 敘 O
@@ -1342,12 +1401,15 @@
 位 O
 下 O
 。 O
+
+
 【 O
 一 O
 代 O
 要 O
 記 O
 。 O
+
 
 】 O
 更 O
@@ -1356,7 +1418,6 @@
 原 O
 氏 O
 ， O
-
 神 O
 祇 O
 伯 O
@@ -1365,6 +1426,7 @@
 女 O
 也 O
 。 O
+
 
 生 O
 貞 O
@@ -1379,12 +1441,14 @@
 王 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 更 O
@@ -1402,13 +1466,13 @@
 也 O
 。 O
 
+
 生 O
 貞 O
 數 O
 親 O
 王 O
 、 O
-
 包 O
 子 O
 內 O
@@ -1416,12 +1480,14 @@
 王 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 更 O
@@ -1439,12 +1505,14 @@
 也 O
 。 O
 
+
 生 O
 貞 O
 真 O
 親 O
 王 O
 。 O
+
 
 【 O
 三 O
@@ -1453,13 +1521,13 @@
 錄 O
 。 O
 
+
 ○ O
 按 O
 一 O
 代 O
 要 O
 記 O
-
 ， O
 諸 O
 藤 O
@@ -1467,9 +1535,9 @@
 說 O
 成 O
 ， O
-
 誤 O
 。 O
+
 
 】 O
 更 O
@@ -1489,12 +1557,14 @@
 也 O
 。 O
 
+
 生 O
 貞 O
 賴 O
 親 O
 王 O
 。 O
+
 
 【 O
 三 O
@@ -1503,6 +1573,7 @@
 錄 O
 。 O
 
+
 】 O
 更 O
 衣 O
@@ -1510,15 +1581,17 @@
 伯 O
 氏 O
 ， O
-
 信 O
 濃 O
 權 O
 介 O
-子房 O
+子 O
+房 O
 女 O
 也 O
 。 O
+
+
 生 O
 源 O
 長 O
@@ -1529,6 +1602,7 @@
 賴 O
 。 O
 
+
 【 O
 三 O
 代 O
@@ -1536,21 +1610,21 @@
 錄 O
 。 O
 
+
 】 O
 橘 O
 氏 O
 ， O
-
 治 O
 部 O
 大 O
 輔 O
 休 O
-
 蔭 O
 女 O
 也 O
 。 O
+
 
 生 O
 貞 O
@@ -1559,6 +1633,7 @@
 王 O
 。 O
 
+
 【 O
 三 O
 代 O
@@ -1566,19 +1641,20 @@
 錄 O
 。 O
 
+
 】 O
 藤 O
 原 O
 氏 O
 ， O
 參 O
-
 議 O
 仲 O
 統 O
 女 O
 也 O
 。 O
+
 
 生 O
 貞 O
@@ -1587,12 +1663,14 @@
 王 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 王 O
@@ -1603,12 +1681,12 @@
 大 O
 輔 O
 棟 O
-
 貞 O
 王 O
 女 O
 也 O
 。 O
+
 
 生 O
 貞 O
@@ -1617,12 +1695,14 @@
 王 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 藤 O
@@ -1632,17 +1712,21 @@
 中 O
 納 O
 言 O
-諸葛 O
+諸 O
+葛 O
 女 O
 也 O
 。 O
 
+
 生 O
-孟子 O
+孟 O
+子 O
 內 O
 親 O
 王 O
 。 O
+
 
 【 O
 三 O
@@ -1651,12 +1735,12 @@
 錄 O
 。 O
 
+
 】 O
 賀 O
 茂 O
 氏 O
 ， O
-
 越 O
 中 O
 守 O
@@ -1665,6 +1749,8 @@
 女 O
 也 O
 。 O
+
+
 生 O
 源 O
 長 O
@@ -1675,9 +1761,9 @@
 子 O
 。 O
 
+
 【 O
 ○ O
-
 按 O
 皇 O
 胤 O
@@ -1685,32 +1771,33 @@
 運 O
 錄 O
 ， O
-
 長 O
 猷 O
 載 O
 子 O
 ， O
-
 母 O
 大 O
 野 O
 氏 O
 。 O
 
+
 一 O
 說 O
 載 O
 子 O
-
 母 O
 同 O
 貞 O
 平 O
 。 O
+
+
 並 O
 誤 O
 。 O
+
 
 今 O
 從 O
@@ -1720,6 +1807,7 @@
 錄 O
 。 O
 
+
 】 O
 大 O
 野 O
@@ -1728,12 +1816,12 @@
 石 O
 見 O
 守 O
-
 鷹 O
 取 O
 女 O
 也 O
 。 O
+
 
 生 O
 源 O
@@ -1741,12 +1829,14 @@
 淵 O
 。 O
 
+
 【 O
 三 O
 代 O
 實 O
 錄 O
 。 O
+
 
 】 O
 【 O
@@ -1759,7 +1849,6 @@
 成 O
 後 O
 宮 O
-
 姊 O
 子 O
 女 O
@@ -1771,32 +1860,31 @@
 隻 O
 。 O
 
+
 生 O
 元 O
 長 O
 親 O
 王 O
 、 O
-
 元 O
 利 O
 親 O
 王 O
 、 O
-
 長 O
 子 O
 內 O
 親 O
 王 O
 、 O
-
 儼 O
 子 O
 內 O
 親 O
 王 O
 。 O
+
 
 【 O
 源 O
@@ -1810,6 +1898,7 @@
 年 O
 記 O
 。 O
+
 
 】 O
 藤 O
@@ -1825,6 +1914,7 @@
 也 O
 。 O
 
+
 生 O
 元 O
 良 O
@@ -1836,19 +1926,21 @@
 親 O
 王 O
 。 O
+
+
 【 O
 源 O
 氏 O
 系 O
 圖 O
 、 O
-
 皇 O
 胤 O
 紹 O
 運 O
 錄 O
 。 O
+
 
 】 O
 紀 O
@@ -1858,42 +1950,46 @@
 紀 O
 君 O
 。 O
+
+
 生 O
 源 O
 清 O
 蔭 O
 。 O
 
+
 【 O
 源 O
 氏 O
 系 O
 圖 O
 、 O
-
 皇 O
 胤 O
 紹 O
 運 O
 錄 O
 。 O
+
+
 】 O
 伴 O
 氏 O
 ， O
-
 生 O
 源 O
 清 O
 鑒 O
 。 O
+
+
 【 O
 一 O
 代 O
 要 O
 記 O
 、 O
-
 帝 O
 王 O
 編 O
@@ -1901,17 +1997,18 @@
 記 O
 。 O
 
+
 】 O
 佐 O
 伯 O
 氏 O
 ， O
-
 生 O
 源 O
 清 O
 遠 O
 。 O
+
 
 【 O
 源 O
@@ -1919,7 +2016,6 @@
 系 O
 圖 O
 、 O
-
 皇 O
 胤 O
 紹 O
@@ -1932,5 +2028,6 @@
 年 O
 記 O
 。 O
+
 
 】 O

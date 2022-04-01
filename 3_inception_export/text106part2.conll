@@ -1,14 +1,12 @@
-高 B-PER
-皇 I-PER
+高 B-PERSON
+皇 I-PERSON
 產 O
 靈 O
-
 尊 O
 五 O
 世 O
 孫 O
 ， O
-
 天 O
 押 O
 日 O
@@ -18,11 +16,13 @@
 也 O
 。 O
 
+
 【 O
 姓 B-OTH
 氏 I-OTH
 錄 I-OTH
 。 O
+
 
 】 O
 初 O
@@ -33,7 +33,6 @@
 杵 O
 尊 O
 之 O
-
 降 O
 于 O
 日 O
@@ -43,7 +42,6 @@
 穗 O
 峰 O
 ， O
-
 天 O
 押 O
 日 O
@@ -51,19 +49,16 @@
 天 O
 磐 O
 靫 O
-
 ， O
 佩 O
 頭 O
 椎 O
 劍 O
 ， O
-
 持 O
 弓 O
 矢 O
 ， O
-
 帥 O
 大 O
 來 O
@@ -72,22 +67,26 @@
 前 O
 行 O
 。 O
+
+
 【 O
 日 B-OTH
 本 I-OTH
 紀 I-OTH
 。 O
+
+
 參 O
 取 O
 古 B-OTH
 事 I-OTH
 記 I-OTH
 、 O
-
 萬 B-OTH
 葉 I-OTH
 集 I-OTH
 。 O
+
 
 】 O
 乃 O
@@ -103,6 +102,7 @@
 部 O
 。 O
 
+
 天 O
 靫 O
 負 O
@@ -112,27 +112,30 @@
 于 O
 此 O
 。 O
+
+
 【 O
 姓 B-OTH
 氏 I-OTH
 錄 I-OTH
 。 O
 
+
 】 O
 日 O
 臣 O
 從 O
 神 O
-武 B-PER
-帝 I-PER
+武 B-PERSON
+帝 I-PERSON
 ， O
-
 東 O
 征 O
 至 O
 熊 O
 野 O
 。 O
+
 
 帝 O
 欲 O
@@ -141,7 +144,6 @@
 中 O
 州 O
 ， O
-
 山 O
 路 O
 險 O
@@ -153,28 +155,29 @@
 進 O
 。 O
 
+
 夜 O
 夢 O
-天 B-PER
-照 I-PER
-大 I-PER
-神 I-PER
+天 B-PERSON
+照 I-PERSON
+大 I-PERSON
+神 I-PERSON
 ， O
-
 【 O
 古 B-OTH
 事 I-OTH
 記 I-OTH
 為 O
-高 B-PER
-木 I-PER
-大 I-PER
-神 I-PER
+高 B-PERSON
+木 I-PERSON
+大 I-PERSON
+神 I-PERSON
 。 O
+
+
 】 O
 曰 O
 ： O
-
 「 O
 我 O
 遣 O
@@ -188,6 +191,7 @@
 導 O
 。 O
 
+
 」 O
 及 O
 覺 O
@@ -200,10 +204,10 @@
 至 O
 。 O
 
+
 帝 O
 曰 O
 ： O
-
 「 O
 此 O
 實 O
@@ -211,6 +215,8 @@
 夢 O
 祥 O
 。 O
+
+
 我 O
 皇 O
 祖 O
@@ -218,16 +224,16 @@
 照 O
 大 O
 神 O
-
 欲 O
 以 O
 輔 O
 成 O
-
 基 O
 業 O
 乎 O
 。 O
+
+
 」 O
 於 O
 是 O
@@ -238,19 +244,16 @@
 來 O
 目 O
 ， O
-
 披 O
 山 O
 啟 O
 行 O
 ， O
-
 從 O
 烏 O
 所 O
 向 O
 ， O
-
 遂 O
 達 O
 菟 O
@@ -258,6 +261,7 @@
 下 O
 縣 O
 。 O
+
 
 帝 O
 嘉 O
@@ -272,12 +276,12 @@
 之 O
 功 O
 ， O
-
 賜 O
 名 O
 道 O
 臣 O
 。 O
+
 
 帝 O
 召 O
@@ -289,23 +293,21 @@
 兄 O
 猾 O
 、 O
-
 弟 O
 猾 O
 。 O
+
 
 兄 O
 猾 O
 不 O
 來 O
 ， O
-
 弟 O
 猾 O
 即 O
 詣 O
 軍 O
-
 而 O
 啟 O
 曰 O
@@ -320,7 +322,6 @@
 孫 O
 至 O
 ， O
-
 起 O
 兵 O
 將 O
@@ -328,18 +329,19 @@
 之 O
 。 O
 
+
 而 O
 望 O
 見 O
 王 O
 師 O
 ， O
-
 懼 O
 不 O
 敢 O
 敵 O
 。 O
+
 
 乃 O
 潛 O
@@ -347,18 +349,17 @@
 其 O
 兵 O
 ， O
-
 假 O
 作 O
 新 O
 宮 O
 ， O
-
 施 O
 機 O
 其 O
 內 O
 。 O
+
 
 欲 O
 因 O
@@ -369,12 +370,14 @@
 難 O
 。 O
 
+
 請 O
 早 O
 為 O
 之 O
 備 O
 。 O
+
 
 」 O
 帝 O
@@ -385,22 +388,21 @@
 察 O
 狀 O
 。 O
+
+
 【 O
 古 B-OTH
 事 I-OTH
 記 I-OTH
 曰 O
 ， O
-
 使 O
-道 B-PER
-臣 I-PER
-命 I-PER
+道 B-PERSON
+臣 I-PERSON
+命 I-PERSON
 、 O
-
 大 O
 久 O
-
 米 O
 命 O
 二 O
@@ -408,6 +410,7 @@
 察 O
 之 O
 。 O
+
 
 】 O
 道 O
@@ -417,7 +420,6 @@
 賊 O
 情 O
 ， O
-
 大 O
 怒 O
 厲 O
@@ -428,35 +430,31 @@
 猾 O
 曰 O
 ： O
-
 「 O
 虜 O
 ， O
-
 汝 O
 所 O
 作 O
 屋 O
 ， O
-
 汝 O
 自 O
 居 O
 焉 O
 ！ O
-
 」 O
 按 O
 劍 O
 彎 O
 弓 O
 ， O
-
 迫 O
 令 O
 入 O
 屋 O
 。 O
+
 
 兄 O
 猾 O
@@ -464,7 +462,6 @@
 能 O
 逃 O
 ， O
-
 蹈 O
 機 O
 而 O
@@ -472,22 +469,24 @@
 死 O
 。 O
 
+
 即 O
 戮 O
 其 O
 屍 O
 。 O
 
+
 帝 O
 將 O
 進 O
 討 O
-八十 O
+八 O
+十 O
 梟 O
 帥 O
 等 O
 ， O
-
 因 O
 祭 O
 諸 O
@@ -499,11 +498,13 @@
 上 O
 。 O
 
+
 始 O
 設 O
 嚴 O
 瓫 O
 。 O
+
 
 時 O
 命 O
@@ -511,18 +512,17 @@
 臣 O
 曰 O
 ： O
-
 「 O
 我 O
 將 O
 祭 O
-
 高 O
 皇 O
 產 O
 靈 O
 尊 O
 。 O
+
 
 用 O
 汝 O
@@ -531,25 +531,26 @@
 主 O
 。 O
 
+
 」 O
 即 O
 授 O
 以 O
 嚴 O
-
 媛 O
 之 O
 號 O
 。 O
+
 
 蒂 O
 親 O
 勒 O
 兵 O
 ， O
-
 討 O
-八十 O
+八 O
+十 O
 梟 O
 帥 O
 於 O
@@ -561,17 +562,18 @@
 之 O
 。 O
 
+
 是 O
 役 O
 也 O
 ， O
-
 帝 O
 志 O
 期 O
 必 O
 克 O
 。 O
+
 
 乃 O
 作 O
@@ -588,7 +590,6 @@
 筮 O
 能 O
 ， O
-
 伊 O
 勢 O
 の O
@@ -601,17 +602,16 @@
 瀰 O
 能 O
 ， O
-
 大 O
 石 O
-にや O
+に O
+や O
 於 O
 費 O
 與 O
 之 O
 珥 O
 ， O
-
 い O
 這 O
 ひ O
@@ -621,7 +621,6 @@
 異 O
 波 O
 臂 O
-
 茂 O
 等 O
 倍 O
@@ -636,7 +635,6 @@
 瀰 O
 能 O
 ， O
-
 細 O
 螺 O
 の O
@@ -646,7 +644,6 @@
 瀰 O
 能 O
 ， O
-
 吾 O
 子 O
 よ O
@@ -654,10 +651,8 @@
 子 O
 よ O
 阿 O
-
 誤 O
 豫 O
-
 阿 O
 誤 O
 豫 O
@@ -665,7 +660,6 @@
 細 O
 螺 O
 の O
-
 之 O
 多 O
 儴 O
@@ -685,12 +679,12 @@
 倍 O
 離 O
 ， O
-
 撃 O
-ちてし O
+ち O
+て O
+し O
 止 O
 ま O
-
 む O
 于 O
 智 O
@@ -701,19 +695,21 @@
 務 O
 ， O
 撃 O
-
-ちてし O
+ち O
+て O
+し O
 止 O
-まむ O
+ま O
+む O
 于 O
 智 O
-
 氐 O
 之 O
 夜 O
 莽 O
 務 O
 。 O
+
 
 」 O
 其 O
@@ -734,10 +730,11 @@
 平 O
 。 O
 
+
 密 O
 命 O
-道 B-PER
-臣 I-PER
+道 B-PERSON
+臣 I-PERSON
 ， O
 帥 O
 大 O
@@ -746,11 +743,14 @@
 擊 O
 之 O
 。 O
+
+
 授 O
 以 O
 方 O
 略 O
 。 O
+
 
 道 O
 臣 O
@@ -761,37 +761,34 @@
 忍 O
 坂 O
 ， O
-
 誘 O
 虜 O
 設 O
 宴 O
 。 O
 
+
 選 O
 勁 O
-
 卒 O
 與 O
 虜 O
 雜 O
 坐 O
 ， O
-
 警 O
 之 O
 曰 O
 ： O
-
 「 O
 酒 O
 酣 O
-
 則 O
 我 O
 起 O
 歌 O
 。 O
+
 
 汝 O
 等 O
@@ -804,6 +801,7 @@
 焉 O
 。 O
 
+
 」 O
 既 O
 而 O
@@ -812,7 +810,6 @@
 沈 O
 醉 O
 ， O
-
 道 O
 臣 O
 起 O
@@ -820,7 +817,6 @@
 歌 O
 曰 O
 ： O
-
 「 O
 忍 O
 坂 O
@@ -832,22 +828,18 @@
 ， O
 大 O
 室 O
-
 屋 O
 に O
 於 O
 朋 O
-
 務 O
 露 O
 夜 O
 珥 O
 ， O
-
 人 O
 多 O
 に O
-
 此 O
 苫 O
 瑳 O
@@ -858,8 +850,8 @@
 り O
 居 O
 り O
-
-とも O
+と O
+も O
 異 O
 離 O
 烏 O
@@ -870,7 +862,6 @@
 人 O
 多 O
 に O
-
 此 O
 苫 O
 搓 O
@@ -880,8 +871,9 @@
 入 O
 り O
 居 O
-りとも O
-
+り O
+と O
+も O
 枳 O
 伊 O
 離 O
@@ -890,14 +882,17 @@
 苫 O
 毛 O
 ， O
-みつみつし O
+み O
+つ O
+み O
+つ O
+し O
 瀰 O
 都 O
 瀰 O
 都 O
 志 O
 ， O
-
 来 O
 目 O
 の O
@@ -906,7 +901,6 @@
 が O
 俱 O
 梅 O
-
 能 O
 固 O
 邏 O
@@ -919,7 +913,6 @@
 騖 O
 都 O
 都 O
-
 伊 O
 ， O
 石 O
@@ -935,14 +928,15 @@
 毛 O
 智 O
 ， O
-
 撃 O
-ちてし O
+ち O
+て O
+し O
 止 O
-まむ O
+ま O
+む O
 于 O
 智 O
-
 氐 O
 之 O
 夜 O
@@ -950,9 +944,9 @@
 務 O
 。 O
 
+
 」 O
 勁 O
-
 卒 O
 應 O
 聲 O
@@ -974,6 +968,7 @@
 類 O
 。 O
 
+
 舉 O
 軍 O
 大 O
@@ -985,30 +980,34 @@
 笑 O
 。 O
 
+
 因 O
 歌 O
 曰 O
 ： O
-
 「 O
 今 O
-はよ O
-
+は O
+よ O
 伊 O
 莽 O
 波 O
 豫 O
 ， O
 今 O
-はよ O
+は O
+よ O
 伊 O
 莽 O
 波 O
 豫 O
 ， O
-ああしやを O
+あ O
+あ O
+し O
+や O
+を O
 阿 O
-
 阿 O
 時 O
 夜 O
@@ -1016,8 +1015,8 @@
 ， O
 今 O
 だ O
-
-にも O
+に O
+も O
 吾 O
 子 O
 よ O
@@ -1026,15 +1025,14 @@
 儴 O
 而 O
 毛 O
-
 阿 O
 誤 O
 豫 O
 ， O
 今 O
 だ O
-
-にも O
+に O
+も O
 吾 O
 子 O
 よ O
@@ -1047,6 +1045,7 @@
 誤 O
 豫 O
 。 O
+
 
 」 O
 後 O
@@ -1060,21 +1059,19 @@
 笑 O
 者 O
 ， O
-
 曲 O
 此 O
 也 O
 。 O
 
+
 又 O
 歌 O
 曰 O
 ： O
-
 「 O
 夷 O
 を O
-
 一 O
 人 O
 愛 O
@@ -1085,7 +1082,6 @@
 儴 O
 利 O
 ， O
-
 百 O
 な O
 人 O
@@ -1095,11 +1091,12 @@
 比 O
 苫 O
 ， O
-
 人 O
 は O
 云 O
-へども O
+へ O
+ど O
+も O
 比 O
 苫 O
 破 O
@@ -1108,10 +1105,11 @@
 迺 O
 毛 O
 ， O
-
 抵 O
 抗 O
-もせず O
+も O
+せ O
+ず O
 多 O
 牟 O
 伽 O
@@ -1120,6 +1118,8 @@
 勢 O
 儒 O
 。 O
+
+
 」 O
 其 O
 所 O
@@ -1127,7 +1127,6 @@
 諸 O
 歌 O
 ， O
-
 亦 O
 皆 O
 承 O
@@ -1138,21 +1137,22 @@
 之 O
 。 O
 
+
 道 O
 臣 O
 既 O
 用 O
-諷 B-OTHderiv
-歌 I-OTHderiv
-倒 B-OTHderiv
-語 I-OTHderiv
+諷 B-OTH
+歌 I-OTH
+倒 B-OTH
+語 I-OTH
 ， O
-
 得 O
 濟 O
 其 O
 功 O
 。 O
+
 
 倒 O
 語 O
@@ -1163,6 +1163,7 @@
 此 O
 始 O
 。 O
+
 
 【 O
 古 B-OTH
@@ -1177,28 +1178,30 @@
 大 O
 室 O
 ， O
-
 時 O
 生 O
 尾 O
 土 O
-
 雲 O
-八十 O
+八 O
+十 O
 健 O
 不 O
 從 O
 。 O
+
+
 帝 O
 放 O
 設 O
 饌 O
 ， O
-
 饗 O
-八十 O
+八 O
+十 O
 健 O
 。 O
+
 
 因 O
 令 O
@@ -1209,12 +1212,10 @@
 配 O
 刀 O
 ， O
-
 且 O
 諭 O
 曰 O
 ： O
-
 「 O
 聞 O
 歌 O
@@ -1222,6 +1223,7 @@
 斬 O
 之 O
 。 O
+
 
 」 O
 既 O
@@ -1238,6 +1240,7 @@
 云 O
 。 O
 
+
 」 O
 於 O
 是 O
@@ -1245,7 +1248,6 @@
 夫 O
 等 O
 ， O
-
 一 O
 時 O
 拔 O
@@ -1254,12 +1256,14 @@
 之 O
 。 O
 
+
 其 O
 歌 O
 與 O
 此 O
 同 O
 。 O
+
 
 】 O
 及 O
@@ -1278,24 +1282,24 @@
 目 O
 部 O
 ， O
-
 護 O
 衛 O
 宮 O
 門 O
 。 O
 
+
 【 O
 舊 B-OTH
 事 I-OTH
 紀 I-OTH
 、 O
-
 古 B-OTH
 語 I-OTH
 拾 I-OTH
 遺 I-OTH
 。 O
+
 
 】 O
 明 O
@@ -1305,13 +1309,11 @@
 論 O
 功 O
 ， O
-
 賜 O
 宅 O
 地 O
 於 O
 築 O
-
 坂 O
 邑 O
 ， O
@@ -1321,10 +1323,10 @@
 焉 O
 。 O
 
+
 使 O
 大 O
 來 O
-
 目 O
 居 O
 于 O
@@ -1339,18 +1341,20 @@
 目 O
 邑 O
 。 O
+
+
 【 O
 日 B-OTH
 本 I-OTH
 紀 I-OTH
 。 O
 
+
 】 O
 詔 O
 褒 O
 道 O
 臣 O
-
 忠 O
 勇 O
 ， O
@@ -1360,11 +1364,13 @@
 事 O
 。 O
 
+
 【 O
 舊 B-OTH
 事 I-OTH
 紀 I-OTH
 。 O
+
 
 】 O
 椎 O
@@ -1372,7 +1378,6 @@
 津 O
 彥 O
 ， O
-
 【 O
 古 B-OTH
 事 I-OTH
@@ -1382,6 +1387,7 @@
 槁 O
 。 O
 
+
 】 O
 一 O
 名 O
@@ -1390,12 +1396,12 @@
 津 O
 彥 O
 ， O
-
 【 O
 姓 B-OTH
 氏 I-OTH
 錄 I-OTH
 。 O
+
 
 】 O
 初 O
@@ -1403,6 +1409,7 @@
 珍 O
 彥 O
 。 O
+
 
 神 O
 武 O
@@ -1414,7 +1421,6 @@
 吸 O
 門 O
 ， O
-
 有 O
 漁 O
 人 O
@@ -1423,6 +1429,8 @@
 而 O
 至 O
 。 O
+
+
 【 O
 古 B-OTH
 事 I-OTH
@@ -1431,7 +1439,6 @@
 ， O
 槁 O
 根 O
-
 津 O
 彥 O
 乘 O
@@ -1439,7 +1446,6 @@
 為 O
 釣 O
 ， O
-
 來 O
 遇 O
 于 O
@@ -1447,6 +1453,8 @@
 吸 O
 門 O
 。 O
+
+
 】 O
 帝 O
 召 O
@@ -1454,36 +1462,32 @@
 問 O
 曰 O
 ： O
-
 「 O
 汝 O
 為 O
 誰 O
 ？ O
-
 」 O
 對 O
 曰 O
 ： O
-
 「 O
 臣 O
 乃 O
 國 O
 神 O
 ， O
-
 名 O
 珍 O
 彥 O
 。 O
+
 
 釣 O
 魚 O
 曲 O
 浦 O
 ， O
-
 聞 O
 天 O
 神 O
@@ -1491,19 +1495,19 @@
 子 O
 至 O
 ， O
-
 故 O
 即 O
 奉 O
 迎 O
 。 O
+
+
 」 O
 帝 O
 又 O
 問 O
 曰 O
 ： O
-
 「 O
 汝 O
 能 O
@@ -1516,50 +1520,48 @@
 」 O
 曰 O
 ： O
-
 「 O
 能 O
 之 O
 。 O
 
+
 」 O
 乃 O
 付 O
 之 O
-
 椎 O
 槁 O
 ， O
-
 令 O
 執 O
 其 O
 末 O
-
 ， O
 引 O
 入 O
 御 O
 船 O
 ， O
-
 命 O
 導 O
 海 O
 路 O
 。 O
 
+
 特 O
 賜 O
 名 O
-
 椎 O
 根 O
 津 O
 彥 O
 。 O
 
-戊午 O
+
+戊 O
+午 O
 歲 O
 ， O
 帝 O
@@ -1569,8 +1571,8 @@
 菟 O
 田 O
 ， O
-
-八十 O
+八 O
+十 O
 梟 O
 帥 O
 及 O
@@ -1580,12 +1582,12 @@
 等 O
 兵 O
 ， O
-
 各 O
 據 O
 要 O
 害 O
 。 O
+
 
 時 O
 帝 O
@@ -1600,7 +1602,6 @@
 山 O
 土 O
 ， O
-
 作 O
 天 O
 平 O
@@ -1609,7 +1610,6 @@
 嚴 O
 瓫 O
 ， O
-
 而 O
 祭 O
 神 O
@@ -1618,6 +1618,7 @@
 平 O
 虜 O
 。 O
+
 
 然 O
 虜 O
@@ -1630,6 +1631,7 @@
 難 O
 通 O
 。 O
+
 
 乃 O
 使 O
@@ -1648,7 +1650,6 @@
 翁 O
 狀 O
 ， O
-
 弟 O
 猾 O
 被 O
@@ -1662,7 +1663,6 @@
 之 O
 曰 O
 ： O
-
 「 O
 汝 O
 二 O
@@ -1673,7 +1673,6 @@
 香 O
 山 O
 ， O
-
 潛 O
 取 O
 其 O
@@ -1683,21 +1682,23 @@
 來 O
 。 O
 
+
 基 O
 業 O
 成 O
 否 O
 ， O
-
 將 O
 以 O
 汝 O
 卜 O
 。 O
 
+
 勉 O
 之 O
 。 O
+
 
 」 O
 椎 O
@@ -1719,24 +1720,24 @@
 此 O
 國 O
 ， O
-
 行 O
 路 O
 自 O
 通 O
 。 O
 
+
 如 O
 其 O
 不 O
 能 O
 ， O
-
 賊 O
 必 O
 拒 O
 絕 O
 。 O
+
 
 」 O
 言 O
@@ -1744,6 +1745,7 @@
 直 O
 去 O
 。 O
+
 
 虜 O
 眾 O
@@ -1753,7 +1755,6 @@
 笑 O
 之 O
 ， O
-
 相 O
 避 O
 使 O
@@ -1768,22 +1769,20 @@
 還 O
 。 O
 
+
 帝 O
 大 O
 悅 O
 ， O
-
 作 O
 平 O
 瓫 O
 、 O
-
 嚴 O
 瓫 O
 祭 O
 神 O
 ， O
-
 然 O
 後 O
 親 O
@@ -1793,12 +1792,13 @@
 出 O
 。 O
 
+
 先 O
 斬 O
-八十 O
+八 O
+十 O
 梟 O
 帥 O
-
 ， O
 大 O
 舉 O
@@ -1807,12 +1807,15 @@
 磯 O
 城 O
 。 O
+
+
 弟 O
 磯 O
 城 O
 歸 O
 順 O
 。 O
+
 
 兄 O
 磯 O
@@ -1822,20 +1825,19 @@
 敢 O
 降 O
 。 O
+
+
 於 O
 是 O
 ， O
-
 椎 O
 根 O
 津 O
-
 彥 O
 獻 O
 策 O
 曰 O
 ： O
-
 「 O
 今 O
 先 O
@@ -1844,13 +1846,13 @@
 女 O
 軍 O
 ， O
-
 出 O
 自 O
 忍 O
 坂 O
 道 O
 。 O
+
 
 彼 O
 必 O
@@ -1860,13 +1862,13 @@
 赴 O
 。 O
 
+
 吾 O
 別 O
 馳 O
 勁 O
 卒 O
 ， O
-
 向 O
 墨 O
 坂 O
@@ -1877,13 +1879,13 @@
 川 O
 水 O
 ， O
-
 灌 O
 滅 O
 其 O
 熾 O
 炭 O
 。 O
+
 
 忽 O
 然 O
@@ -1892,17 +1894,19 @@
 不 O
 意 O
 ， O
-
 破 O
 之 O
 必 O
 矣 O
 。 O
+
+
 」 O
 帝 O
 然 O
 之 O
 。 O
+
 
 乃 O
 出 O
@@ -1911,7 +1915,6 @@
 當 O
 之 O
 ， O
-
 虜 O
 果 O
 謂 O
@@ -1920,12 +1923,12 @@
 已 O
 至 O
 ， O
-
 畢 O
 力 O
 相 O
 持 O
 。 O
+
 
 既 O
 而 O
@@ -1938,25 +1941,24 @@
 其 O
 後 O
 ， O
-
 夾 O
 擊 O
 破 O
 之 O
 ， O
-
 斬 O
 兄 O
 磯 O
 城 O
 等 O
 。 O
+
+
 及 O
 帝 O
 即 O
 位 O
 ， O
-
 論 O
 功 O
 為 O
@@ -1965,16 +1967,18 @@
 造 O
 。 O
 
+
 【 O
 日 B-OTH
 本 I-OTH
 紀 I-OTH
 。 O
+
+
 】 O
 弟 O
 猾 O
 ， O
-
 菟 O
 田 O
 縣 O
@@ -1982,12 +1986,12 @@
 也 O
 。 O
 
+
 與 O
 兄 O
 兄 O
 猾 O
 ， O
-
 共 O
 為 O
 縣 O
@@ -1996,7 +2000,9 @@
 帥 O
 。 O
 
-戊午 O
+
+戊 O
+午 O
 歲 O
 ， O
 神 O
@@ -2014,25 +2020,25 @@
 之 O
 。 O
 
+
 而 O
 兄 O
 猾 O
 不 O
 來 O
 ， O
-
 竊 O
 圖 O
 作 O
 難 O
 。 O
 
+
 【 O
 古 B-OTH
 事 I-OTH
 記 I-OTH
 曰 O
-
 ， O
 千 O
 遣 O
@@ -2045,7 +2051,6 @@
 人 O
 曰 O
 ： O
-
 「 O
 今 O
 天 O
@@ -2056,14 +2061,12 @@
 此 O
 地 O
 ， O
-
 汝 O
 等 O
 能 O
 仕 O
 否 O
 ？ O
-
 」 O
 兄 O
 猾 O
@@ -2073,18 +2076,20 @@
 射 O
 之 O
 。 O
+
+
 】 O
 弟 O
 猾 O
 即 O
 至 O
 ， O
-
 具 O
 言 O
 其 O
 狀 O
 。 O
+
 
 帝 O
 使 O
@@ -2094,33 +2099,33 @@
 之 O
 。 O
 
+
 弟 O
 猾 O
 獻 O
 牛 O
 酒 O
 ， O
-
 犒 O
 王 O
 師 O
 。 O
+
 
 帝 O
 乃 O
 作 O
 歌 O
 ， O
-
 所 O
 謂 O
 來 O
 目 O
-
 歌 O
 是 O
 也 O
 。 O
+
 
 時 O
 群 O
@@ -2128,23 +2133,23 @@
 未 O
 平 O
 ， O
-
 據 O
 守 O
 要 O
 害 O
 ， O
-
 道 O
 路 O
 不 O
 通 O
 。 O
 
+
 帝 O
 患 O
 之 O
 。 O
+
 
 夜 O
 夢 O
@@ -2153,7 +2158,6 @@
 告 O
 曰 O
 ： O
-
 「 O
 取 O
 天 O
@@ -2165,25 +2169,23 @@
 造 O
 天 O
 平 O
-
 瓫 O
-八十 O
+八 O
+十 O
 枚 O
 、 O
-
 及 O
 嚴 O
 瓫 O
 ， O
-
 敬 O
 祭 O
 天 O
 神 O
-
 地 O
 衹 O
 。 O
+
 
 又 O
 為 O
@@ -2200,47 +2202,45 @@
 矣 O
 。 O
 
+
 」 O
 帝 O
 異 O
 之 O
 ， O
-
 將 O
 從 O
 夢 O
 兆 O
 ， O
-
 會 O
 弟 O
 猾 O
 奏 O
 曰 O
 ： O
-
 「 O
 磯 O
 城 O
 邑 O
 磯 O
 城 O
-八十 O
+八 O
+十 O
 梟 O
 帥 O
 、 O
-
 高 O
 尾 O
 張 O
 邑 O
 赤 O
 銅 O
-八十 O
+八 O
+十 O
 梟 O
 帥 O
 ， O
-
 【 O
 舊 B-OTH
 事 I-OTH
@@ -2250,18 +2250,19 @@
 鯛 O
 。 O
 
+
 】 O
 皆 O
 欲 O
 距 O
 戰 O
 ， O
-
 臣 O
 竊 O
 憂 O
 之 O
 。 O
+
 
 今 O
 當 O
@@ -2271,13 +2272,11 @@
 山 O
 埴 O
 ， O
-
 造 O
 天 O
 平 O
 瓫 O
 ， O
-
 用 O
 祭 O
 天 O
@@ -2285,36 +2284,33 @@
 國 O
 社 O
 ， O
-
 而 O
 後 O
 擊 O
 虜 O
 ， O
-
 則 O
 易 O
 除 O
 也 O
 。 O
+
+
 」 O
 帝 O
 甚 O
 喜 O
 ， O
-
 乃 O
 使 O
 弟 O
 猾 O
 與 O
-
 椎 O
 根 O
 津 O
 彥 O
 ， O
-
 往 O
 取 O
 天 O
@@ -2323,13 +2319,13 @@
 土 O
 。 O
 
+
 時 O
 賊 O
 兵 O
 填 O
 路 O
 ， O
-
 弟 O
 猾 O
 等 O
@@ -2345,6 +2341,7 @@
 還 O
 。 O
 
+
 帝 O
 即 O
 位 O
@@ -2356,7 +2353,6 @@
 田 O
 邑 O
 ， O
-
 為 O
 猛 O
 田 O
@@ -2364,11 +2360,13 @@
 主 O
 。 O
 
+
 【 O
 日 B-OTH
 本 I-OTH
 紀 I-OTH
 。 O
+
 
 】 O
 弟 O
@@ -2379,19 +2377,21 @@
 黑 O
 速 O
 ， O
-
 倭 O
 磯 O
 城 O
 邑 O
 人 O
 。 O
+
+
 兄 O
 曰 O
 兄 O
 磯 O
 城 O
 。 O
+
 
 神 O
 武 O
@@ -2402,7 +2402,6 @@
 兄 O
 磯 O
 城 O
-
 舉 O
 兵 O
 於 O
@@ -2410,11 +2409,11 @@
 余 O
 邑 O
 ， O
-
 將 O
 拒 O
 之 O
 。 O
+
 
 帝 O
 率 O
@@ -2423,7 +2422,6 @@
 磯 O
 城 O
 ， O
-
 遣 O
 使 O
 先 O
@@ -2433,12 +2431,14 @@
 城 O
 。 O
 
+
 兄 O
 磯 O
 城 O
 拒 O
 命 O
 。 O
+
 
 更 O
 使 O
@@ -2449,6 +2449,8 @@
 召 O
 之 O
 。 O
+
+
 頭 O
 八 O
 咫 O
@@ -2457,11 +2459,9 @@
 其 O
 營 O
 ， O
-
 呼 O
 曰 O
 ： O
-
 「 O
 天 O
 神 O
@@ -2470,17 +2470,24 @@
 召 O
 汝 O
 。 O
-いざわ O
+
+
+い O
+ざ O
+わ O
 怡 O
 弉 O
 過 O
 ， O
-いざわ O
+い O
+ざ O
+わ O
 怡 O
 弉 O
-
 過 O
 。 O
+
+
 」 O
 而 O
 又 O
@@ -2492,7 +2499,6 @@
 彎 O
 弓 O
 ， O
-
 射 O
 頭 O
 八 O
@@ -2500,12 +2506,14 @@
 烏 O
 。 O
 
+
 烏 O
 避 O
 之 O
 得 O
 脫 O
 。 O
+
 
 烏 O
 又 O
@@ -2516,11 +2524,9 @@
 城 O
 家 O
 ， O
-
 呼 O
 曰 O
 ： O
-
 「 O
 天 O
 神 O
@@ -2530,43 +2536,46 @@
 汝 O
 。 O
 
-いざわ O
+
+い O
+ざ O
+わ O
 怡 O
 弉 O
 過 O
-
 ， O
-いざわ O
+い O
+ざ O
+わ O
 怡 O
 弉 O
 過 O
 。 O
 
+
 」 O
 弟 O
 磯 O
 城 O
-
 瞿 O
 然 O
 改 O
 容 O
 曰 O
 ： O
-
 「 O
 吾 O
 聞 O
-天 B-PER
-神 I-PER
+天 B-PERSON
+神 I-PERSON
 至 O
 ， O
-
 旦 O
 夕 O
 悚 O
 然 O
 。 O
+
 
 善 O
 哉 O
@@ -2577,6 +2586,7 @@
 也 O
 。 O
 
+
 」 O
 乃 O
 作 O
@@ -2585,12 +2595,12 @@
 八 O
 枚 O
 ， O
-
 盛 O
 食 O
 饗 O
 焉 O
 。 O
+
 
 既 O
 而 O
@@ -2602,7 +2612,6 @@
 帝 O
 曰 O
 ： O
-
 「 O
 臣 O
 兄 O
@@ -2616,12 +2625,11 @@
 子 O
 至 O
 ， O
-
-聚 B-PER
-八十 I-PER
-梟 I-PER
+聚 B-PERSON
+八 I-PERSON
+十 I-PERSON
+梟 I-PERSON
 帥 O
-
 ， O
 將 O
 與 O
@@ -2629,11 +2637,13 @@
 戰 O
 。 O
 
+
 請 O
 早 O
 圖 O
 之 O
 。 O
+
 
 」 O
 帝 O
@@ -2643,7 +2653,6 @@
 問 O
 曰 O
 ： O
-
 「 O
 兄 O
 磯 O
@@ -2652,19 +2661,16 @@
 從 O
 命 O
 ， O
-
 為 O
 之 O
 如 O
 何 O
 ？ O
-
 」 O
 諸 O
 將 O
 曰 O
 ： O
-
 「 O
 彼 O
 黠 O
@@ -2672,10 +2678,10 @@
 也 O
 。 O
 
+
 宜 O
 先 O
 使 O
-
 弟 O
 磯 O
 城 O
@@ -2683,22 +2689,22 @@
 諭 O
 。 O
 
+
 若 O
 不 O
 歸 O
 順 O
 ， O
-
 以 O
 兵 O
 臨 O
 之 O
 ， O
-
 未 O
 晚 O
 也 O
 。 O
+
 
 」 O
 帝 O
@@ -2713,24 +2719,22 @@
 害 O
 。 O
 
+
 兄 O
 磯 O
 域 O
 不 O
 肯 O
 ， O
-
 於 O
 是 O
 用 O
 椎 O
-
 根 O
 津 O
 彥 O
 計 O
 ， O
-
 襲 O
 破 O
 兄 O
@@ -2739,6 +2743,7 @@
 斬 O
 之 O
 。 O
+
 
 帝 O
 即 O
@@ -2757,6 +2762,7 @@
 主 O
 。 O
 
+
 時 O
 頭 O
 八 O
@@ -2767,15 +2773,18 @@
 賞 O
 焉 O
 。 O
+
+
 【 O
 日 B-OTH
 本 I-OTH
 紀 I-OTH
 。 O
+
+
 】 O
 頭 O
 八 O
-
 咫 O
 烏 O
 ， O
@@ -2794,6 +2803,7 @@
 也 O
 。 O
 
+
 以 O
 其 O
 化 O
@@ -2803,12 +2813,10 @@
 之 O
 狀 O
 ， O
-
 翔 O
 飛 O
 奉 O
 導 O
-
 ， O
 故 O
 有 O
@@ -2818,27 +2826,34 @@
 之 O
 號 O
 。 O
+
+
 【 O
 姓 B-OTH
 氏 I-OTH
 錄 I-OTH
 。 O
+
+
 】 O
 子 O
 孫 O
 為 O
-
-賀 B-PER
-茂 I-PER
-縣 I-PER
-主 I-PER
+賀 B-PERSON
+茂 I-PERSON
+縣 I-PERSON
+主 I-PERSON
 。 O
+
+
 【 O
 古 B-OTH
 語 I-OTH
 拾 I-OTH
 遺 I-OTH
 。 O
+
+
 】 O
 文 O
 武 O
@@ -2848,13 +2863,11 @@
 二 O
 年 O
 ， O
-
 建 O
 社 O
 于 O
 大 O
 倭 O
-
 宇 O
 太 O
 郡 O
@@ -2862,13 +2875,15 @@
 之 O
 。 O
 
-【 O
-續 B-OTHpart
-日 I-OTHpart
-本 I-OTHpart
 
-紀 B-OTHpart
+【 O
+續 B-OTH
+日 I-OTH
+本 I-OTH
+紀 I-OTH
 。 O
+
+
 】 O
 熊 O
 野 O
@@ -2877,39 +2892,41 @@
 下 O
 。 O
 
+
 【 O
 舊 B-OTH
 事 I-OTH
 紀 I-OTH
 載 O
 ， O
-
 初 O
 名 O
-天 B-PER
-香 I-PER
-語 I-PER
-山 I-PER
-命 I-PER
+天 B-PERSON
+香 I-PERSON
+語 I-PERSON
+山 I-PERSON
+命 I-PERSON
 ， O
-
 一 O
 名 O
-手 B-PER
-栗 I-PER
-彥 I-PER
-命 I-PER
+手 B-PERSON
+栗 I-PERSON
+彥 I-PERSON
+命 I-PERSON
 。 O
 
-宇 B-PER
-摩 I-PER
-治 I-PER
-麻 I-PER
-治 I-PER
+
+宇 B-PERSON
+摩 I-PERSON
+治 I-PERSON
+麻 I-PERSON
+治 I-PERSON
 異 O
 母 O
 兄 O
 。 O
+
+
 據 O
 本 B-OTH
 書 I-OTH
@@ -2918,7 +2935,6 @@
 氏 I-OTH
 錄 I-OTH
 ， O
-
 天 O
 香 O
 語 O
@@ -2931,7 +2947,6 @@
 之 O
 子 O
 ， O
-
 而 O
 尾 O
 張 O
@@ -2942,6 +2957,7 @@
 也 O
 。 O
 
+
 舊 B-OTH
 事 I-OTH
 紀 I-OTH
@@ -2950,14 +2966,12 @@
 火 O
 明 O
 、 O
-
 饒 O
 速 O
 日 O
 為 O
 一 O
 ， O
-
 故 O
 亦 O
 附 O
@@ -2965,10 +2979,12 @@
 耳 O
 。 O
 
+
 今 O
 不 O
 取 O
 。 O
+
 
 】 O
 紀 O
@@ -2978,13 +2994,14 @@
 邑 O
 人 O
 。 O
+
+
 神 O
 武 O
 帝 O
 東 O
 征 O
 至 O
-
 熊 O
 野 O
 ， O
@@ -2994,6 +3011,8 @@
 戶 O
 畔 O
 。 O
+
+
 時 O
 中 O
 妖 O
@@ -3005,44 +3024,42 @@
 迷 O
 倒 O
 ， O
-
 無 O
 能 O
 起 O
 者 O
 。 O
 
+
 【 O
 按 O
 古 O
 事 O
 記 O
-
 有 O
 大 O
 熊 O
 髮 O
 ， O
-
 蓋 O
 此 O
 所 O
-
 云 O
 妖 O
 神 O
 也 O
 。 O
 
+
 】 O
 高 O
 倉 O
 下 O
 夢 O
-天 B-PER
-照 I-PER
-大 I-PER
-神 I-PER
+天 B-PERSON
+照 I-PERSON
+大 I-PERSON
+神 I-PERSON
 ， O
 【 O
 古 B-OTH
@@ -3051,16 +3068,16 @@
 以 O
 為 O
 夢 O
-天 B-PERpart
-照 I-PERpart
-
-大 B-PERpart
-神 I-PERpart
+天 B-PERSON
+照 I-PERSON
+大 I-PERSON
+神 I-PERSON
 及 O
-高 B-PER
-木 I-PER
-神 I-PER
+高 B-PERSON
+木 I-PERSON
+神 I-PERSON
 。 O
+
 
 】 O
 謂 O
@@ -3070,7 +3087,6 @@
 神 O
 曰 O
 ： O
-
 「 O
 葦 O
 原 O
@@ -3083,12 +3099,12 @@
 之 O
 聲 O
 ， O
-
 汝 O
 往 O
 征 O
 之 O
 。 O
+
 
 」 O
 武 O
@@ -3096,7 +3112,6 @@
 雷 O
 曰 O
 ： O
-
 「 O
 予 O
 雖 O
@@ -3112,6 +3127,7 @@
 劍 O
 。 O
 
+
 【 O
 古 B-OTH
 事 I-OTH
@@ -3119,11 +3135,11 @@
 做 O
 刀 O
 ， O
-
 下 O
 傚 O
 此 O
 。 O
+
 
 】 O
 則 O
@@ -3133,21 +3149,21 @@
 矣 O
 。 O
 
+
 」 O
 大 O
 神 O
 曰 O
 ： O
-
 「 O
 善 O
 。 O
+
 
 」 O
 武 O
 甕 O
 雷 O
-
 乃 O
 謂 O
 高 O
@@ -3155,7 +3171,6 @@
 下 O
 曰 O
 ： O
-
 「 O
 我 O
 有 O
@@ -3165,6 +3180,8 @@
 韴 O
 靈 O
 。 O
+
+
 今 O
 置 O
 之 O
@@ -3172,7 +3189,6 @@
 庫 O
 中 O
 ， O
-
 宜 O
 取 O
 而 O
@@ -3182,11 +3198,11 @@
 孫 O
 。 O
 
+
 」 O
 高 O
 倉 O
 下 O
-
 唯 O
 唯 O
 ， O
@@ -3195,22 +3211,24 @@
 驚 O
 悟 O
 。 O
+
+
 明 O
 旦 O
 ， O
-
 入 O
 庫 O
 而 O
 視 O
 ， O
-
 果 O
 有 O
 劍 O
 倒 O
 植 O
 。 O
+
+
 即 O
 至 O
 軍 O
@@ -3218,12 +3236,12 @@
 獻 O
 。 O
 
+
 時 O
 帝 O
 適 O
 寐 O
 ， O
-
 及 O
 其 O
 至 O
@@ -3232,24 +3250,24 @@
 而 O
 寤 O
 ， O
-
 眾 O
 亦 O
 尋 O
 起 O
 ， O
-
 妖 O
 神 O
 悉 O
 伏 O
 。 O
 
+
 【 O
 日 B-OTH
 本 I-OTH
 紀 I-OTH
 。 O
+
 
 舊 B-OTH
 事 I-OTH
@@ -3260,16 +3278,16 @@
 嘉 O
 之 O
 ， O
-
 命 O
 為 O
 侍 O
 臣 O
 。 O
+
+
 】 O
 韴 O
 靈 O
-
 一 O
 名 O
 佐 O
@@ -3277,7 +3295,6 @@
 布 O
 都 O
 神 O
-
 ， O
 又 O
 名 O
@@ -3286,22 +3303,22 @@
 都 O
 神 O
 ， O
-
 後 O
 藏 O
 之 O
 石 O
 上 O
-
 神 B-LOC
 宮 I-LOC
 云 O
 。 O
+
+
 【 O
 古 B-OTH
 事 I-OTH
 記 I-OTH
 。 O
 
-】 O
 
+】 O
