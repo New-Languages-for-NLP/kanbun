@@ -4578,7 +4578,8 @@
 【 O
 淳 O
 和 O
-天皇 B-PER
+天 B-PER
+皇 I-PER
 】 O
 淳 O
 和 O
@@ -4638,7 +4639,8 @@
 王 I-PER
 、 O
 
-有子 O
+有 O
+子 O
 內 O
 親 B-PER
 王 I-PER
@@ -4651,7 +4653,8 @@
 錄 I-OTH
 。 O
 】 O
-貞子 O
+貞 O
+子 O
 內 O
 親 B-PER
 王 I-PER
@@ -4683,7 +4686,8 @@
 子 O
 、 O
 
-貞子 B-PER
+貞 B-PER
+子 I-PER
 ， O
 母 O
 同 O
@@ -4700,7 +4704,8 @@
 子 O
 、 O
 
-貞子 O
+貞 O
+子 O
 ， O
 母 O
 大 O
@@ -4717,7 +4722,8 @@
 記 I-OTH
 ， O
 
-貞子 O
+貞 O
+子 O
 母 O
 大 O
 野 O
@@ -4730,7 +4736,8 @@
 。 O
 
 】 O
-大同 O
+大 O
+同 O
 
 四 O
 年 O
@@ -4741,7 +4748,9 @@
 。 O
 
 年 O
-二十一 O
+二 O
+十 O
+一 O
 。 O
 
 遣 O
@@ -4880,13 +4889,15 @@
 ， O
 
 為 O
-春秋 O
+春 O
+秋 O
 悔 O
 過 O
 料 O
 。 O
 修 O
-藥師 O
+藥 O
+師 O
 悔 O
 過 O
 於 O
@@ -5394,9 +5405,11 @@
 和 O
 九 O
 年 O
-十二 O
+十 O
+二 O
 月 O
-乙丑 O
+乙 O
+丑 O
 ， O
 
 淳 O
@@ -5426,7 +5439,8 @@
 元 O
 年 O
 ， O
-文德 O
+文 O
+德 O
 帝 O
 尊 O
 為 O
@@ -5509,7 +5523,8 @@
 ， O
 
 幾 O
-三萬 O
+三 O
+萬 O
 人 O
 。 O
 
@@ -5538,25 +5553,30 @@
 ， O
 后 O
 年 O
-六十 O
+六 O
+十 O
 ， O
 
 使 O
-六十 O
+六 O
+十 O
 僧 O
 講 O
 經 O
-東京 O
+東 O
+京 O
 宮 O
 ， O
 
 賜 O
-京師 O
+京 O
+師 O
 貧 O
 民 O
 物 O
 。 O
-十六 O
+十 O
+六 O
 年 O
 ， O
 淳 O
@@ -5715,12 +5735,16 @@
 崩 O
 ， O
 年 O
-七十一 O
+七 O
+十 O
+一 O
 。 O
 【 O
 ○ O
 
-七十一 O
+七 O
+十 O
+一 O
 ， O
 本 O
 文 O
@@ -5736,9 +5760,11 @@
 十 O
 
 年 O
-十一 O
+十 O
+一 O
 月 O
-辛巳 O
+辛 O
+巳 O
 條 O
 ， O
 而 O
@@ -5773,7 +5799,8 @@
 
 收 O
 東 O
-西京 O
+西 O
+京 O
 
 棄 O
 兒 O
@@ -6050,7 +6077,8 @@
 。 O
 承 O
 和 O
-十四 O
+十 O
+四 O
 年 O
 ， O
 
@@ -6058,7 +6086,9 @@
 。 O
 
 年 O
-六十一 O
+六 O
+十 O
+一 O
 。 O
 
 遺 O
@@ -6145,7 +6175,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -6335,7 +6366,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -6418,7 +6450,8 @@
 。 O
 
 生 O
-文德 B-PER
+文 B-PER
+德 I-PER
 帝 I-PER
 。 O
 
@@ -6458,7 +6491,8 @@
 】 O
 承 O
 和 O
-十一 O
+十 O
+一 O
 年 O
 ， O
 
@@ -6484,7 +6518,8 @@
 。 O
 
 】 O
-文德 B-PER
+文 B-PER
+德 I-PER
 帝 I-PER
 即 O
 位 O
@@ -6499,7 +6534,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 、 O
@@ -6734,7 +6770,8 @@
 安 O
 。 O
 
-凱風 O
+凱 O
+風 O
 自 O
 南 O
 之 O
@@ -6805,7 +6842,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -6815,7 +6853,8 @@
 二 O
 年 O
 ， O
-文德 O
+文 O
+德 O
 帝 O
 崩 O
 ， O
@@ -6867,7 +6906,8 @@
 
 帝 O
 度 O
-二十 O
+二 O
+十 O
 人 O
 似 O
 禱 O
@@ -6921,7 +6961,8 @@
 。 O
 
 詣 O
-大原 B-LOC
+大 B-LOC
+原 I-LOC
 野 I-LOC
 社 I-LOC
 ， O
@@ -6947,7 +6988,8 @@
 。 O
 
 】 O
-大原 O
+大 O
+原 O
 野 O
 行 O
 ， O
@@ -6986,7 +7028,8 @@
 太 I-OTH
 后 I-OTH
 。 O
-十三 O
+十 O
+三 O
 年 O
 九 O
 月 O
@@ -7362,7 +7405,8 @@
 王 I-PER
 、 O
 
-時子 O
+時 O
+子 O
 內 O
 親 B-PER
 王 I-PER
@@ -7375,7 +7419,8 @@
 王 I-PER
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -7431,7 +7476,8 @@
 御 O
 藤 B-PER
 原 I-PER
-貞子 I-PER
+貞 I-PER
+子 I-PER
 ， O
 右 B-PER
 大 I-PER
@@ -7573,7 +7619,8 @@
 
 ， O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -7643,7 +7690,8 @@
 。 O
 
 】 O
-文德 B-PER
+文 B-PER
+德 I-PER
 帝 I-PER
 即 O
 位 O
@@ -7712,7 +7760,8 @@
 之 O
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -7855,7 +7904,8 @@
 、 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 、 O
@@ -8253,7 +8303,8 @@
 
 】 O
 生 O
-高子 O
+高 O
+子 O
 內 O
 親 B-PER
 王 I-PER
@@ -8284,8 +8335,10 @@
 
 】 O
 【 O
-文德 B-PER
-天皇 I-PER
+文 B-PER
+德 I-PER
+天 I-PER
+皇 I-PER
 】 O
 文 O
 德 O
@@ -8359,7 +8412,8 @@
 位 O
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -8455,7 +8509,8 @@
 太 B-PER
 后 I-PER
 年 O
-四十 O
+四 O
+十 O
 ， O
 
 敕 O
@@ -8463,13 +8518,15 @@
 使 O
 近 O
 京 B-LOC
-四十 O
+四 O
+十 O
 寺 O
 、 O
 
 平 O
 城 O
-四十 O
+四 O
+十 O
 寺 O
 ， O
 修 O
@@ -8513,7 +8570,8 @@
 物 O
 。 O
 
-十四 O
+十 O
+四 O
 年 O
 秋 O
 ， O
@@ -8523,7 +8581,8 @@
 宮 O
 。 O
 
-十六 O
+十 O
+六 O
 年 O
 春 O
 ， O
@@ -8541,13 +8600,15 @@
 太 B-PER
 后 I-PER
 年 O
-五十 O
+五 O
+十 O
 。 O
 
 上 O
 皇 B-PER
 使 O
-五十 O
+五 O
+十 O
 僧 O
 講 O
 法 O
@@ -8628,7 +8689,9 @@
 。 O
 
 年 O
-七十二 O
+七 O
+十 O
+二 O
 。 O
 
 【 O
@@ -8662,7 +8725,9 @@
 紀 I-OTH
 。 O
 
-七十二 O
+七 O
+十 O
+二 O
 ， O
 日 B-OTH
 本 I-OTH
@@ -8681,7 +8746,9 @@
 ， O
 並 O
 作 O
-七十三 O
+七 O
+十 O
+三 O
 。 O
 
 今 O
@@ -8704,7 +8771,8 @@
 二 O
 年 O
 年 O
-五十 O
+五 O
+十 O
 之 O
 文 O
 。 O
@@ -8801,7 +8869,8 @@
 位 O
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -8856,7 +8925,8 @@
 ， O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -8903,7 +8973,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -8977,7 +9048,8 @@
 
 今 O
 從 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -9018,7 +9090,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 、 O
@@ -9067,7 +9140,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -9188,7 +9262,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -9235,7 +9310,8 @@
 ， O
 攝 O
 津 O
-守貞 O
+守 O
+貞 O
 雄 O
 女 O
 也 O
@@ -9372,7 +9448,8 @@
 王 I-PER
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -9407,7 +9484,8 @@
 系 I-OTH
 圖 I-OTH
 作 O
-守貞 O
+守 O
+貞 O
 。 O
 
 今 O
@@ -9551,7 +9629,8 @@
 
 】 O
 生 O
-晏子 O
+晏 O
+子 O
 內 O
 親 B-PER
 王 I-PER
@@ -9639,7 +9718,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -9656,7 +9736,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O

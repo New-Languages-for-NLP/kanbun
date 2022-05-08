@@ -3962,7 +3962,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -4068,7 +4069,8 @@
 治 I-ORG
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -4221,7 +4223,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -4447,10 +4450,13 @@
 ， O
 
 年 O
-五十九 O
+五 O
+十 O
+九 O
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -4499,7 +4505,9 @@
 學 O
 ， O
 年 O
-二十一 O
+二 O
+十 O
+一 O
 ， O
 補 O
 文 O
@@ -4558,7 +4566,8 @@
 。 I-ORG
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -4614,7 +4623,8 @@
 介 O
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -4747,7 +4757,8 @@
 守 O
 ， O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -4862,11 +4873,14 @@
 ， O
 
 年 O
-六十四 O
+六 O
+十 O
+四 O
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -5028,7 +5042,8 @@
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -5137,10 +5152,13 @@
 。 O
 
 年 O
-五十六 O
+五 O
+十 O
+六 O
 。 O
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -5410,11 +5428,14 @@
 卒 O
 ， O
 年 O
-五十八 O
+五 O
+十 O
+八 O
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -5521,7 +5542,8 @@
 書 O
 。 O
 
-大同 O
+大 O
+同 O
 、 O
 
 弘 O
@@ -5561,7 +5583,8 @@
 ， O
 
 累 O
-歷陸 O
+歷 O
+陸 O
 奧 O
 、 O
 
@@ -5677,7 +5700,9 @@
 ， O
 
 年 O
-六十二 O
+六 O
+十 O
+二 O
 。 O
 【 O
 續 B-OTH
@@ -5810,7 +5835,8 @@
 。 O
 
 」 O
-文德 B-PER
+文 B-PER
+德 I-PER
 帝 I-PER
 即 O
 位 O
@@ -5932,7 +5958,8 @@
 夏 O
 井 O
 秉 O
-志忠 O
+志 O
+忠 O
 直 O
 ， O
 
@@ -6082,7 +6109,8 @@
 ， O
 
 總 O
-四十 O
+四 O
+十 O
 宇 O
 ， O
 
@@ -6386,7 +6414,8 @@
 
 若 O
 經 O
-五十 O
+五 O
+十 O
 卷 O
 ， O
 
@@ -6487,7 +6516,8 @@
 覆 O
 。 O
 
-文德 O
+文 O
+德 O
 帝 O
 
 與 O
@@ -6896,11 +6926,14 @@
 ， O
 
 年 O
-八十一 O
+八 O
+十 O
+一 O
 。 O
 
 【 O
-文德 B-OTH
+文 B-OTH
+德 I-OTH
 實 I-OTH
 錄 I-OTH
 。 O
@@ -6969,7 +7002,8 @@
 
 薨 O
 年 O
-七十 O
+七 O
+十 O
 。 O
 
 小 O
@@ -7176,7 +7210,9 @@
 ， O
 卒 O
 年 O
-五十三 O
+五 O
+十 O
+三 O
 。 O
 
 【 O
@@ -7388,7 +7424,8 @@
 聲 O
 。 O
 
-十一 O
+十 O
+一 O
 年 O
 ， O
 敘 O
@@ -7417,7 +7454,8 @@
 遣 O
 。 O
 
-十六 O
+十 O
+六 O
 年 O
 ， O
 
@@ -7618,7 +7656,8 @@
 繩 O
 等 O
 至 O
-京師 O
+京 O
+師 O
 。 O
 
 良 O
@@ -7770,7 +7809,9 @@
 ， O
 
 年 O
-六十三 O
+六 O
+十 O
+三 O
 。 O
 良 O
 基 O
