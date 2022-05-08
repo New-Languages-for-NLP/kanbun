@@ -4241,8 +4241,8 @@
 忍 O
 壁 O
 
-親 B-PER
-王 I-PER
+親 B-PERSON
+王 I-PERSON
 之 O
 後 O
 也 O
@@ -5019,8 +5019,8 @@
 記 I-OTH
 。 O
 
-公 B-PER
-卿 I-PER
+公 B-PERSON
+卿 I-PERSON
 每 O
 諮 O
 詢 O
@@ -5164,10 +5164,10 @@
 。 O
 
 】 O
-藤 B-PER
-原 I-PER
-高 I-PER
-房 I-PER
+藤 B-PERSON
+原 I-PERSON
+高 I-PERSON
+房 I-PERSON
 ， O
 參 O
 議 O
@@ -5650,7 +5650,7 @@
 嵯 O
 俄 O
 上 O
-皇 B-PER
+皇 B-PERSON
 眷 O
 顧 O
 
@@ -5835,9 +5835,9 @@
 。 O
 
 」 O
-文 B-PER
-德 I-PER
-帝 I-PER
+文 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 即 O
 位 O
 ， O
@@ -6251,9 +6251,9 @@
 途 O
 託 O
 身 O
-大 B-PER
-納 I-PER
-言 I-PER
+大 B-PERSON
+納 I-PERSON
+言 I-PERSON
 伴 O
 善 O
 男 O
@@ -6675,10 +6675,10 @@
 田 O
 ， O
 父 O
-奈 B-PER
-氐 I-PER
-麻 I-PER
-呂 I-PER
+奈 B-PERSON
+氐 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 ， O
 散 O
 位 O
@@ -6960,8 +6960,8 @@
 
 逮 O
 仕 O
-仁 B-PER
-明 I-PER
+仁 B-PERSON
+明 I-PERSON
 、 O
 文 O
 德 O
@@ -6992,9 +6992,9 @@
 
 】 O
 至 O
-大 B-PER
-納 I-PER
-言 I-PER
+大 B-PERSON
+納 I-PERSON
+言 I-PERSON
 正 O
 三 O
 位 O
@@ -7240,9 +7240,9 @@
 。 O
 
 】 O
-左 B-PER
-大 I-PER
-臣 I-PER
+左 B-PERSON
+大 I-PERSON
+臣 I-PERSON
 諸 O
 兄 O
 之 O
@@ -7607,9 +7607,9 @@
 子 O
 、 O
 
-繩 B-PER
-麻 I-PER
-呂 I-PER
+繩 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 等 O
 所 O
 燒 O
@@ -7641,9 +7641,9 @@
 訊 O
 ， O
 子 O
-繩 B-PER
-麻 I-PER
-呂 I-PER
+繩 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 等 O
 承 O
 服 O
@@ -7826,9 +7826,9 @@
 蓄 O
 。 O
 
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 在 O
 
 原 O
@@ -7928,9 +7928,9 @@
 從 O
 三 O
 位 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 。 O
 
 【 O
@@ -7943,10 +7943,10 @@
 】 O
 澄 O
 
-清 B-PER
-子 I-PER
-忠 I-PER
-正 I-PER
+清 B-PERSON
+子 I-PERSON
+忠 I-PERSON
+正 I-PERSON
 ， O
 
 敘 O
@@ -8102,8 +8102,8 @@
 ， O
 
 澄 O
-清 B-PER
-女 I-PER
+清 B-PERSON
+女 I-PERSON
 也 O
 ， O
 生 O
@@ -8118,9 +8118,9 @@
 ， O
 
 生 O
-大 B-PER
-納 I-PER
-言 I-PER
+大 B-PERSON
+納 I-PERSON
+言 I-PERSON
 道 O
 隆 O
 。 O
@@ -8130,8 +8130,8 @@
 ， O
 
 詔 O
-道 B-PER
-隆 I-PER
+道 B-PERSON
+隆 I-PERSON
 為 O
 是 O
 定 O
@@ -8155,9 +8155,9 @@
 
 皆 O
 屬 O
-藤 B-PER
-原 I-PER
-氏 I-PER
+藤 B-PERSON
+原 I-PERSON
+氏 I-PERSON
 。 O
 【 O
 職 B-OTH
@@ -8172,5 +8172,3 @@
 。 O
 
 】 O
-
-

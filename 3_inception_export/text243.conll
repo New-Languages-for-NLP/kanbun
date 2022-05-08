@@ -278,8 +278,8 @@
 主 O
 殂 O
 ， O
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 恒 O
 立 O
 ， O
@@ -407,13 +407,13 @@
 狀 O
 。 O
 
-左 B-PER
-大 I-PER
-臣 I-PER
-藤 B-PER
-原 I-PER
-道 I-PER
-長 I-PER
+左 B-PERSON
+大 I-PERSON
+臣 I-PERSON
+藤 B-PERSON
+原 I-PERSON
+道 I-PERSON
+長 I-PERSON
 亦 O
 贈 O
 書 O
@@ -452,8 +452,8 @@
 殂 O
 。 O
 
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 禎 O
 立 O
 ， O
@@ -485,10 +485,10 @@
 昭 O
 贈 O
 書 O
-大 B-PER
-政 I-PER
-大 I-PER
-臣 I-PER
+大 B-PERSON
+政 I-PERSON
+大 I-PERSON
+臣 I-PERSON
 藤 O
 原 O
 道 O
@@ -1222,8 +1222,8 @@
 。 O
 
 詔 O
-公 B-PER
-卿 I-PER
+公 B-PERSON
+卿 I-PERSON
 及 O
 諸 O
 道 O
@@ -1320,10 +1320,10 @@
 宰 O
 府 O
 令 O
-藤 B-PER
-原 I-PER
-經 I-PER
-平 I-PER
+藤 B-PERSON
+原 I-PERSON
+經 I-PERSON
+平 I-PERSON
 。 O
 」 O
 【 O
@@ -1752,10 +1752,10 @@
 曰 O
 ： O
 「 O
-推 B-PER
-古 I-PER
-天 I-PER
-皇 I-PER
+推 B-PERSON
+古 I-PERSON
+天 I-PERSON
+皇 I-PERSON
 十 O
 六 O
 年 O
@@ -1767,18 +1767,18 @@
 曰 O
 ： O
 『 O
-皇 B-PER
-帝 I-PER
+皇 B-PERSON
+帝 I-PERSON
 問 O
 倭 O
 皇 O
 。 O
 』 O
 
-天 B-PER
-智 I-PER
-天 I-PER
-皇 I-PER
+天 B-PERSON
+智 I-PERSON
+天 I-PERSON
+皇 I-PERSON
 十 O
 年 O
 ， O
@@ -1793,17 +1793,17 @@
 曰 O
 ： O
 『 O
-大 B-PER
-唐 I-PER
-皇 I-PER
-帝 I-PER
+大 B-PERSON
+唐 I-PERSON
+皇 I-PERSON
+帝 I-PERSON
 敬 O
 問 O
 日 O
 本 O
 國 O
-天 B-PER
-皇 I-PER
+天 B-PERSON
+皇 I-PERSON
 。 O
 』 O
 
@@ -1861,9 +1861,9 @@
 。 O
 】 O
 
-崇 B-PER
-德 I-PER
-帝 I-PER
+崇 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 天 O
 治 O
 二 O
@@ -1880,8 +1880,8 @@
 讓 O
 位 O
 於 O
-太 B-PER
-子 I-PER
+太 B-PERSON
+子 I-PERSON
 桓 O
 ， O
 是 O
@@ -1984,7 +1984,7 @@
 白 O
 河 O
 法 O
-皇 B-PER
+皇 B-PERSON
 臨 O
 覽 O
 焉 O
@@ -2043,7 +2043,7 @@
 白 O
 河 O
 法 O
-皇 B-PER
+皇 B-PERSON
 不 O
 聽 O
 。 O
@@ -2337,10 +2337,10 @@
 是 O
 歲 O
 ， O
-後 B-PER
-宇 I-PER
-多 I-PER
-帝 I-PER
+後 B-PERSON
+宇 I-PERSON
+多 I-PERSON
+帝 I-PERSON
 弘 O
 安 O
 二 O
@@ -2393,8 +2393,8 @@
 國 O
 ， O
 稱 O
-皇 B-PER
-帝 I-PER
+皇 B-PERSON
+帝 I-PERSON
 ， O
 以 O
 其 O
@@ -2769,8 +2769,8 @@
 之 O
 。 O
 
-鐵 B-PER
-木 I-PER
+鐵 B-PERSON
+木 I-PERSON
 真 O
 死 O
 ， O
@@ -2844,9 +2844,9 @@
 。 O
 】 O
 
-龜 B-PER
-山 I-PER
-帝 I-PER
+龜 B-PERSON
+山 I-PERSON
+帝 I-PERSON
 文 O
 永 O
 五 O
@@ -4096,10 +4096,10 @@
 。 O
 】 O
 
-後 B-PER
-宇 I-PER
-多 I-PER
-帝 I-PER
+後 B-PERSON
+宇 I-PERSON
+多 I-PERSON
+帝 I-PERSON
 建 O
 治 O
 元 O
@@ -5612,10 +5612,10 @@
 是 O
 歲 O
 ， O
-後 B-PER
-村 I-PER
-上 I-PER
-帝 I-PER
+後 B-PERSON
+村 I-PERSON
+上 I-PERSON
+帝 I-PERSON
 正 O
 平 O
 二 O
@@ -5680,10 +5680,10 @@
 已 O
 。 O
 
-後 B-PER
-醍 I-PER
-醐 I-PER
-帝 I-PER
+後 B-PERSON
+醍 I-PERSON
+醐 I-PERSON
+帝 I-PERSON
 以 O
 後 O
 ， O
@@ -5734,8 +5734,8 @@
 時 O
 懷 O
 良 O
-親 B-PER
-王 I-PER
+親 B-PERSON
+王 I-PERSON
 鎮 O
 太 O
 宰 O
@@ -5982,9 +5982,9 @@
 。 O
 】 O
 
-孝 B-PER
-德 I-PER
-帝 I-PER
+孝 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 白 O
 雉 O
 五 O
@@ -6012,9 +6012,9 @@
 向 O
 。 O
 
-齊 B-PER
-明 I-PER
-帝 I-PER
+齊 B-PERSON
+明 I-PERSON
+帝 I-PERSON
 三 O
 年 O
 ， O
@@ -6143,9 +6143,9 @@
 。 O
 】 O
 
-聖 B-PER
-武 I-PER
-帝 I-PER
+聖 B-PERSON
+武 I-PERSON
+帝 I-PERSON
 天 O
 平 O
 八 O
@@ -6163,8 +6163,8 @@
 唐 O
 副 O
 使 O
-中 B-PER
-臣 I-PER
+中 B-PERSON
+臣 I-PERSON
 名 O
 代 O
 而 O
@@ -6195,9 +6195,9 @@
 。 O
 】 O
 
-聖 B-PER
-武 I-PER
-帝 I-PER
+聖 B-PERSON
+武 I-PERSON
+帝 I-PERSON
 天 O
 平 O
 八 O
@@ -6253,8 +6253,8 @@
 ， O
 最 O
 為 O
-貴 B-PER
-族 I-PER
+貴 B-PERSON
+族 I-PERSON
 ， O
 【 O
 ○ O
@@ -6363,9 +6363,9 @@
 。 O
 】 O
 
-聖 B-PER
-武 I-PER
-帝 I-PER
+聖 B-PERSON
+武 I-PERSON
+帝 I-PERSON
 天 O
 平 O
 五 O
@@ -6422,9 +6422,9 @@
 。 O
 】 O
 
-桓 B-PER
-武 I-PER
-帝 I-PER
+桓 B-PERSON
+武 I-PERSON
+帝 I-PERSON
 延 O
 曆 O
 十 O
@@ -6697,4 +6697,3 @@
 史 I-OTH
 。 O
 】 O
-

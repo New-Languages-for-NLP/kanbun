@@ -2177,9 +2177,9 @@
 ， O
 
 轉 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 ， O
 
 無 O
@@ -2337,9 +2337,9 @@
 虎 O
 ， O
 
-仁 B-PER
-明 I-PER
-朝 I-PER
+仁 B-PERSON
+明 I-PERSON
+朝 I-PERSON
 ， O
 
 至 O
@@ -2729,9 +2729,9 @@
 ， O
 
 為 O
-仁 B-PER
-明 I-PER
-帝 I-PER
+仁 B-PERSON
+明 I-PERSON
+帝 I-PERSON
 所 O
 知 O
 寵 O
@@ -2937,8 +2937,8 @@
 尋 O
 補 O
 藏 O
-人 B-PER
-頭 I-PER
+人 B-PERSON
+頭 I-PERSON
 ， O
 
 轉 O
@@ -3015,8 +3015,8 @@
 ○ O
 
 藏 O
-人 B-PER
-頭 I-PER
+人 B-PERSON
+頭 I-PERSON
 、 O
 
 檢 O
@@ -3271,9 +3271,9 @@
 ， O
 
 任 O
-中 B-PER
-納 I-PER
-言 I-PER
+中 B-PERSON
+納 I-PERSON
+言 I-PERSON
 。 O
 
 六 O
@@ -3281,9 +3281,9 @@
 ， O
 
 轉 O
-大 B-PER
-納 I-PER
-言 I-PER
+大 B-PERSON
+納 I-PERSON
+言 I-PERSON
 。 O
 【 O
 三 B-OTH
@@ -3371,8 +3371,8 @@
 終 O
 至 O
 
-公 B-PER
-卿 I-PER
+公 B-PERSON
+卿 I-PERSON
 ， O
 位 O
 望 O
@@ -4115,5 +4115,3 @@
 。 O
 
 】 O
-
-

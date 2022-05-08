@@ -250,10 +250,10 @@
 使 O
 坂 O
 上 O
-田 B-PER
-村 I-PER
-麻 I-PER
-呂 I-PER
+田 B-PERSON
+村 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 檢 O
 校 O
 諸 O
@@ -273,10 +273,10 @@
 軍 O
 坂 O
 上 O
-田 B-PER
-村 I-PER
-麻 I-PER
-呂 I-PER
+田 B-PERSON
+村 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 擊 O
 蝦 O
 夷 O
@@ -322,10 +322,10 @@
 年 O
 ， O
 命 O
-田 B-PER
-村 I-PER
-麻 I-PER
-呂 I-PER
+田 B-PERSON
+村 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 築 O
 陸 O
 奧 O
@@ -811,8 +811,8 @@
 副 O
 將 O
 軍 O
-物 B-PER
-部 I-PER
+物 B-PERSON
+部 I-PERSON
 足 O
 繼 O
 等 O
@@ -6683,9 +6683,9 @@
 。 O
 】 O
 
-推 B-PER
-古 I-PER
-帝 I-PER
+推 B-PERSON
+古 I-PERSON
+帝 I-PERSON
 十 O
 六 O
 年 O
@@ -6906,9 +6906,9 @@
 。 O
 】 O
 
-文 B-PER
-德 I-PER
-帝 I-PER
+文 B-PERSON
+德 I-PERSON
+帝 I-PERSON
 仁 O
 壽 O
 三 O
@@ -7643,4 +7643,3 @@
 書 I-OTH
 。 O
 】 O
-

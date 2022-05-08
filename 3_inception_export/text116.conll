@@ -14,14 +14,14 @@
 
 又 O
 名 O
-黑 B-PER
-麻 I-PER
-呂 I-PER
+黑 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 。 O
 
-推 B-PER
-古 I-PER
-帝 I-PER
+推 B-PERSON
+古 I-PERSON
+帝 I-PERSON
 十 O
 六 O
 年 O
@@ -198,10 +198,10 @@
 小 O
 錦 O
 下 O
-河 B-PER
-邊 I-PER
-麻 I-PER
-呂 I-PER
+河 B-PERSON
+邊 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 、 O
 副 O
 使 O
@@ -351,7 +351,7 @@
 元 O
 ， O
 
-父 B-PER
+父 B-PERSON
 僧 B-ORG
 辨 I-ORG
 正 I-ORG
@@ -549,11 +549,11 @@
 。 O
 
 】 O
-阿 B-PER
-倍 I-PER
-仲 I-PER
-麻 I-PER
-呂 I-PER
+阿 B-PERSON
+倍 I-PERSON
+仲 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 ， O
 
 【 O
@@ -781,12 +781,12 @@
 通 O
 ， O
 
-臣 B-PER
+臣 B-PERSON
 卿 O
 蓋 O
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 字 O
 也 O
 。 O
@@ -974,9 +974,9 @@
 玄 O
 宗 O
 命 O
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 接 O
 之 O
 。 O
@@ -1000,9 +1000,9 @@
 還 O
 ， O
 
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 欲 O
 與 O
 歸 O
@@ -1020,9 +1020,9 @@
 曰 O
 ， O
 
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 經 O
 年 O
 而 O
@@ -1038,9 +1038,9 @@
 唐 O
 。 O
 
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 欲 O
 與 O
 歸 O
@@ -1111,9 +1111,9 @@
 。 O
 
 且 O
-王 B-PER
-維 I-PER
-集 I-PER
+王 B-PERSON
+維 I-PERSON
+集 I-PERSON
 送 O
 晁 O
 監 O
@@ -1137,8 +1137,8 @@
 武 O
 應 O
 道 O
-皇 B-PER
-帝 I-PER
+皇 B-PERSON
+帝 I-PERSON
 。 O
 
 」 O
@@ -1608,9 +1608,9 @@
 人 O
 以 O
 為 O
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 溺 O
 死 O
 ， O
@@ -1684,9 +1684,9 @@
 。 O
 」 O
 】 O
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 與 O
 清 O
 河 O
@@ -1848,9 +1848,9 @@
 河 O
 、 O
 
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 事 O
 ， O
 混 O
@@ -1899,9 +1899,9 @@
 ： O
 
 「 O
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 在 O
 唐 O
 被 O
@@ -1922,9 +1922,9 @@
 ， O
 
 逢 B-ORG
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 厲 O
 。 O
 
@@ -1941,9 +1941,9 @@
 。 O
 
 】 O
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 嘗 O
 作 O
 書 O
@@ -1986,9 +1986,9 @@
 。 O
 
 】 O
-仲 B-PER
-麻 I-PER
-呂 I-PER
+仲 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 在 O
 唐 O
 凡 O
@@ -2045,12 +2045,12 @@
 生 O
 阿 O
 
-倍 B-PER
-朝 I-PER
-臣 I-PER
-仲 I-PER
-麻 I-PER
-呂 I-PER
+倍 B-PERSON
+朝 I-PERSON
+臣 I-PERSON
+仲 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 ， O
 
 在 O
@@ -2129,9 +2129,9 @@
 二 O
 品 O
 安 O
-倍 B-PER
-朝 I-PER
-臣 I-PER
+倍 B-PERSON
+朝 I-PERSON
+臣 I-PERSON
 仲 O
 滿 O
 ， O
@@ -2278,10 +2278,10 @@
 。 O
 
 】 O
-藤 B-PER
-原 I-PER
-清 I-PER
-河 I-PER
+藤 B-PERSON
+原 I-PERSON
+清 I-PERSON
+河 I-PERSON
 ， O
 
 中 O
@@ -2455,11 +2455,11 @@
 。 O
 
 命 O
-阿 B-PER
-倍 I-PER
-仲 I-PER
-麻 I-PER
-呂 I-PER
+阿 B-PERSON
+倍 I-PERSON
+仲 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 。 O
 
 導 O
@@ -2602,11 +2602,11 @@
 是 O
 時 O
 ， O
-阿 B-PER
-倍 I-PER
-仲 I-PER
-麻 I-PER
-呂 I-PER
+阿 B-PERSON
+倍 I-PERSON
+仲 I-PERSON
+麻 I-PERSON
+呂 I-PERSON
 請 O
 歸 O
 國 O
@@ -2624,7 +2624,7 @@
 仲 O
 麻 O
 
-呂 B-PER
+呂 B-PERSON
 同 O
 船 O
 而 O
@@ -2794,10 +2794,10 @@
 
 「 O
 迎 O
-藤 B-PER
-原 I-PER
-河 I-PER
-清 I-PER
+藤 B-PERSON
+原 I-PERSON
+河 I-PERSON
+清 I-PERSON
 使 O
 等 O
 九 O
@@ -2915,10 +2915,10 @@
 唐 O
 大 O
 使 O
-藤 B-PER
-原 I-PER
-河 I-PER
-清 I-PER
+藤 B-PERSON
+原 I-PERSON
+河 I-PERSON
+清 I-PERSON
 ， O
 
 久 O
@@ -3024,10 +3024,10 @@
 秘 O
 書 O
 監 O
-藤 B-PER
-原 I-PER
-河 I-PER
-清 I-PER
+藤 B-PERSON
+原 I-PERSON
+河 I-PERSON
+清 I-PERSON
 ， O
 
 今 O
@@ -3364,8 +3364,8 @@
 藤 O
 原 O
 
-朝 B-PER
-臣 I-PER
+朝 B-PERSON
+臣 I-PERSON
 河 O
 清 O
 ， O
@@ -3448,8 +3448,8 @@
 藤 O
 原 O
 
-朝 B-PER
-臣 I-PER
+朝 B-PERSON
+臣 I-PERSON
 河 O
 清 O
 ， O
@@ -3469,7 +3469,7 @@
 
 遠 O
 效 O
-皇 B-PER
+皇 B-PERSON
 華 O
 ， O
 
@@ -6148,4 +6148,3 @@
 
 
 】 O
-
