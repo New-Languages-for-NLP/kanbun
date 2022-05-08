@@ -106,7 +106,7 @@ commands:
     deps:
       - "corpus/converted/train.spacy"
       - "corpus/converted/dev.spacy"
-      - "output/model40.bin"
+      - "output/model39.bin"
     outputs:
       - "training/${vars.treebank}/model-best"
 
