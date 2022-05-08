@@ -1,5 +1,6 @@
 """Load inception conll-2002 data and convert to spaCy binary format (DocBin)"""
 
+from multiprocessing.sharedctypes import Value
 import subprocess
 from pathlib import Path
 
@@ -17,17 +18,21 @@ def convert(export_path: Path, raw_path: Path, n_sents: int):
 
     # convert conll to .spacy
     for file in export_path.glob("*.conll"):
-        subprocess.run(
-            [
-                "python",
-                "-m",
-                "spacy",
-                "convert",
-                f"{str(file)}",
-                str(converted_path),
-                f"-n {n_sents}",
-            ]
-        )
+        try:
+            subprocess.run(
+                [
+                    "python",
+                    "-m",
+                    "spacy",
+                    "convert",
+                    f"{str(file)}",
+                    str(converted_path),
+                    f"-n {n_sents}",
+                ],
+                check=True
+            )
+        except subprocess.CalledProcessError as e:
+            typer.secho(f"Error converting {file}: {e}", err=True, fg="red")
 
     # convert raw text to .spacy for pretraining
     lang = get_lang_class("lzh")
