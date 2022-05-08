@@ -340,9 +340,9 @@
 唐 O
 。 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -461,9 +461,9 @@
 。 O
 
 【 O
-懷 B-OTH
-風 I-OTH
-藻 I-OTH
+懷 B-WORK_OF_ART
+風 I-WORK_OF_ART
+藻 I-WORK_OF_ART
 。 O
 
 】 O
@@ -483,10 +483,10 @@
 。 O
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -515,9 +515,9 @@
 。 O
 
 【 O
-懷 B-OTH
-風 I-OTH
-藻 I-OTH
+懷 B-WORK_OF_ART
+風 I-WORK_OF_ART
+藻 I-WORK_OF_ART
 。 O
 
 】 O
@@ -542,10 +542,10 @@
 。 O
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -559,16 +559,16 @@
 【 O
 ○ O
 按 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 、 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-後 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+後 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 ， O
 麻 O
 呂 O
@@ -576,11 +576,11 @@
 滿 O
 。 O
 
-唐 B-OTH
-書 I-OTH
-日 I-OTH
-本 I-OTH
-傳 I-OTH
+唐 B-WORK_OF_ART
+書 I-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+傳 I-WORK_OF_ART
 亦 O
 作 O
 仲 O
@@ -648,13 +648,13 @@
 顯 O
 昭 O
 ， O
-古 B-OTH
-今 I-OTH
-集 I-OTH
+古 B-WORK_OF_ART
+今 I-WORK_OF_ART
+集 I-WORK_OF_ART
 抄 O
 引 O
-國 B-OTH
-史 I-OTH
+國 B-WORK_OF_ART
+史 I-WORK_OF_ART
 。 O
 
 】 O
@@ -687,21 +687,21 @@
 。 O
 
 【 O
-新 B-OTH
-唐 I-OTH
-書 I-OTH
-日 I-OTH
-本 I-OTH
-傳 I-OTH
+新 B-WORK_OF_ART
+唐 I-WORK_OF_ART
+書 I-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+傳 I-WORK_OF_ART
 。 O
 
 ○ O
 
 按 O
-古 B-OTH
-今 I-OTH
-集 I-OTH
-抄 I-OTH
+古 B-WORK_OF_ART
+今 I-WORK_OF_ART
+集 I-WORK_OF_ART
+抄 I-WORK_OF_ART
 曰 O
 ， O
 唐 O
@@ -751,9 +751,9 @@
 包 O
 佶 O
 送 O
-日 B-OTH
-本 I-OTH
-國 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+國 I-WORK_OF_ART
 聘 O
 賀 O
 
@@ -799,17 +799,17 @@
 書 O
 ， O
 【 O
-唐 B-OTH
-人 I-OTH
-儲 I-OTH
-光 I-OTH
-義 I-OTH
-集 I-OTH
+唐 B-WORK_OF_ART
+人 I-WORK_OF_ART
+儲 I-WORK_OF_ART
+光 I-WORK_OF_ART
+義 I-WORK_OF_ART
+集 I-WORK_OF_ART
 。 O
 ○ O
 
-本 B-OTH
-書 I-OTH
+本 B-WORK_OF_ART
+書 I-WORK_OF_ART
 載 O
 洛 O
 中 O
@@ -944,9 +944,9 @@
 ， O
 
 【 O
-王 B-OTH
-維 I-OTH
-集 I-OTH
+王 B-WORK_OF_ART
+維 I-WORK_OF_ART
+集 I-WORK_OF_ART
 。 O
 】 O
 兼 O
@@ -982,14 +982,14 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-高 I-OTH
-僧 I-OTH
-傳 I-OTH
-要 I-OTH
-文 I-OTH
-抄 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+高 I-WORK_OF_ART
+僧 I-WORK_OF_ART
+傳 I-WORK_OF_ART
+要 I-WORK_OF_ART
+文 I-WORK_OF_ART
+抄 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1008,15 +1008,15 @@
 歸 O
 ， O
 【 O
-古 B-OTH
-今 I-OTH
-集 I-OTH
+古 B-WORK_OF_ART
+今 I-WORK_OF_ART
+集 I-WORK_OF_ART
 。 O
 
 ○ O
 按 O
-本 B-OTH
-書 I-OTH
+本 B-WORK_OF_ART
+書 I-WORK_OF_ART
 曰 O
 ， O
 
@@ -1054,10 +1054,10 @@
 。 O
 
 考 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 延 O
 曆 O
 二 O
@@ -1162,8 +1162,8 @@
 載 O
 。 O
 
-唐 B-OTH
-書 I-OTH
+唐 B-WORK_OF_ART
+書 I-WORK_OF_ART
 玄 O
 宗 O
 尊 O
@@ -1180,8 +1180,8 @@
 之 O
 ， O
 
-本 B-OTH
-書 I-OTH
+本 B-WORK_OF_ART
+書 I-WORK_OF_ART
 所 O
 載 O
 者 O
@@ -1407,9 +1407,9 @@
 ， O
 
 【 O
-王 B-OTH
-維 I-OTH
-集 I-OTH
+王 B-WORK_OF_ART
+維 I-WORK_OF_ART
+集 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1427,10 +1427,10 @@
 詩 O
 。 O
 【 O
-文 B-OTH
-苑 I-OTH
-英 I-OTH
-華 I-OTH
+文 B-WORK_OF_ART
+苑 I-WORK_OF_ART
+英 I-WORK_OF_ART
+華 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1544,23 +1544,23 @@
 嘆 O
 。 O
 【 O
-古 B-OTH
-今 I-OTH
-集 I-OTH
+古 B-WORK_OF_ART
+今 I-WORK_OF_ART
+集 I-WORK_OF_ART
 、 O
 
-土 B-OTH
-佐 I-OTH
-日 I-OTH
-記 I-OTH
+土 B-WORK_OF_ART
+佐 I-WORK_OF_ART
+日 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 
 ○ O
 按 O
-土 B-OTH
-佐 I-OTH
-日 I-OTH
-記 I-OTH
+土 B-WORK_OF_ART
+佐 I-WORK_OF_ART
+日 I-WORK_OF_ART
+記 I-WORK_OF_ART
 ， O
 
 天 O
@@ -1597,10 +1597,10 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1628,16 +1628,16 @@
 。 O
 
 【 O
-唐 B-OTH
-人 I-OTH
-李 I-OTH
-白 I-OTH
-集 I-OTH
+唐 B-WORK_OF_ART
+人 I-WORK_OF_ART
+李 I-WORK_OF_ART
+白 I-WORK_OF_ART
+集 I-WORK_OF_ART
 。 O
 ○ O
 
-本 B-OTH
-書 I-OTH
+本 B-WORK_OF_ART
+書 I-WORK_OF_ART
 載 O
 哭 O
 晁 O
@@ -1696,16 +1696,16 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 。 O
 
 按 O
-新 B-OTH
-唐 I-OTH
-書 I-OTH
+新 B-WORK_OF_ART
+唐 I-WORK_OF_ART
+書 I-WORK_OF_ART
 ， O
 
 天 O
@@ -1743,9 +1743,9 @@
 ， O
 
 【 O
-新 B-OTH
-唐 I-OTH
-書 I-OTH
+新 B-WORK_OF_ART
+唐 I-WORK_OF_ART
+書 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1781,14 +1781,14 @@
 日 O
 本 O
 
-後 B-OTH
-紀 I-OTH
+後 B-WORK_OF_ART
+紀 I-WORK_OF_ART
 、 O
 
-古 B-OTH
-今 I-OTH
-集 I-OTH
-抄 I-OTH
+古 B-WORK_OF_ART
+今 I-WORK_OF_ART
+集 I-WORK_OF_ART
+抄 I-WORK_OF_ART
 。 O
 
 】 O
@@ -1820,15 +1820,15 @@
 。 O
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 。 O
 ○ O
 
-本 B-OTH
-書 I-OTH
+本 B-WORK_OF_ART
+書 I-WORK_OF_ART
 以 O
 此 O
 為 O
@@ -1861,12 +1861,12 @@
 
 今 O
 據 O
-續 B-OTH
-日 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
 
-本 B-OTH
-後 I-OTH
-紀 I-OTH
+本 B-WORK_OF_ART
+後 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 承 O
 和 O
 
@@ -1879,22 +1879,22 @@
 今 O
 集 O
 
-抄 B-OTH
+抄 B-WORK_OF_ART
 引 O
-國 B-OTH
-史 I-OTH
+國 B-WORK_OF_ART
+史 I-WORK_OF_ART
 ， O
 及 O
-帝 B-OTH
-王 I-OTH
-系 I-OTH
-圖 I-OTH
+帝 B-WORK_OF_ART
+王 I-WORK_OF_ART
+系 I-WORK_OF_ART
+圖 I-WORK_OF_ART
 定 O
 之 O
 。 O
-江 B-OTH
-談 I-OTH
-抄 I-OTH
+江 B-WORK_OF_ART
+談 I-WORK_OF_ART
+抄 I-WORK_OF_ART
 曰 O
 ： O
 
@@ -1979,10 +1979,10 @@
 。 O
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -2023,10 +2023,10 @@
 。 O
 
 【 O
-古 B-OTH
-今 I-OTH
-集 I-OTH
-抄 I-OTH
+古 B-WORK_OF_ART
+今 I-WORK_OF_ART
+集 I-WORK_OF_ART
+抄 I-WORK_OF_ART
 。 O
 】 O
 寶 O
@@ -2091,7 +2091,7 @@
 日 O
 本 O
 
-紀 B-OTH
+紀 B-WORK_OF_ART
 。 O
 
 】 O
@@ -2228,8 +2228,8 @@
 日 O
 本 O
 
-後 B-OTH
-紀 I-OTH
+後 B-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 ○ O
 
@@ -2263,10 +2263,10 @@
 乎 O
 。 O
 
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 脫 O
 闕 O
 ， O
@@ -2366,10 +2366,10 @@
 。 O
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -2399,9 +2399,9 @@
 。 O
 
 【 O
-萬 B-OTH
-葉 I-OTH
-集 I-OTH
+萬 B-WORK_OF_ART
+葉 I-WORK_OF_ART
+集 I-WORK_OF_ART
 。 O
 
 】 O
@@ -2590,12 +2590,12 @@
 。 O
 
 【 O
-高 B-OTH
-僧 I-OTH
-傳 I-OTH
-要 I-OTH
-文 I-OTH
-抄 I-OTH
+高 B-WORK_OF_ART
+僧 I-WORK_OF_ART
+傳 I-WORK_OF_ART
+要 I-WORK_OF_ART
+文 I-WORK_OF_ART
+抄 I-WORK_OF_ART
 。 O
 
 】 O
@@ -2613,10 +2613,10 @@
 ， O
 
 【 O
-古 B-OTH
-今 I-OTH
-集 I-OTH
-抄 I-OTH
+古 B-WORK_OF_ART
+今 I-WORK_OF_ART
+集 I-WORK_OF_ART
+抄 I-WORK_OF_ART
 。 O
 】 O
 乃 O
@@ -2639,10 +2639,10 @@
 南 O
 ， O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 延 O
 曆 O
 二 O
@@ -2686,10 +2686,10 @@
 。 O
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -2702,8 +2702,8 @@
 日 O
 本 O
 
-紀 B-OTH
-略 I-OTH
+紀 B-WORK_OF_ART
+略 I-WORK_OF_ART
 延 O
 曆 O
 二 O
@@ -2979,10 +2979,10 @@
 。 O
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -3071,10 +3071,10 @@
 
 」 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 所 O
 
 載 O
@@ -3309,10 +3309,10 @@
 。 O
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 】 O
@@ -3335,10 +3335,10 @@
 院 O
 。 O
 【 O
-類 B-OTH
-聚 I-OTH
-國 I-OTH
-史 I-OTH
+類 B-WORK_OF_ART
+聚 I-WORK_OF_ART
+國 I-WORK_OF_ART
+史 I-WORK_OF_ART
 。 O
 
 】 O
@@ -3404,10 +3404,10 @@
 
 」 O
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 。 O
 
 】 O
@@ -3524,11 +3524,11 @@
 。 O
 」 O
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-後 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+後 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 】 O
 
@@ -3747,10 +3747,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
@@ -3858,10 +3858,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
@@ -3876,10 +3876,10 @@
 
 
 【 O
-公 B-OTH
-卿 I-OTH
-補 I-OTH
-任 I-OTH
+公 B-WORK_OF_ART
+卿 I-WORK_OF_ART
+補 I-WORK_OF_ART
+任 I-WORK_OF_ART
 。 O
 
 
@@ -4411,10 +4411,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
@@ -4459,8 +4459,8 @@
 
 
 【 O
-水 B-OTH
-鏡 I-OTH
+水 B-WORK_OF_ART
+鏡 I-WORK_OF_ART
 。 O
 
 
@@ -4510,10 +4510,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
@@ -4627,10 +4627,10 @@
 
 
 【 O
-公 B-OTH
-卿 I-OTH
-補 I-OTH
-任 I-OTH
+公 B-WORK_OF_ART
+卿 I-WORK_OF_ART
+補 I-WORK_OF_ART
+任 I-WORK_OF_ART
 。 O
 
 
@@ -4648,10 +4648,10 @@
 
 
 【 O
-日 B-OTH
-本 I-OTH
-紀 I-OTH
-略 I-OTH
+日 B-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
+略 I-WORK_OF_ART
 。 O
 
 
@@ -4703,10 +4703,10 @@
 
 
 【 O
-公 B-OTH
-卿 I-OTH
-補 I-OTH
-任 I-OTH
+公 B-WORK_OF_ART
+卿 I-WORK_OF_ART
+補 I-WORK_OF_ART
+任 I-WORK_OF_ART
 。 O
 
 
@@ -4926,10 +4926,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
@@ -4989,13 +4989,13 @@
 【 O
 ○ O
 按 O
-曲 B-OTH
-江 I-OTH
-集 I-OTH
-玄 I-OTH
-宗 I-OTH
-敕 I-OTH
-書 I-OTH
+曲 B-WORK_OF_ART
+江 I-WORK_OF_ART
+集 I-WORK_OF_ART
+玄 I-WORK_OF_ART
+宗 I-WORK_OF_ART
+敕 I-WORK_OF_ART
+書 I-WORK_OF_ART
 ， O
 為 O
 林 O
@@ -5273,10 +5273,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
@@ -5623,10 +5623,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
@@ -5794,10 +5794,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
@@ -6140,10 +6140,10 @@
 
 
 【 O
-續 B-OTH
-日 I-OTH
-本 I-OTH
-紀 I-OTH
+續 B-WORK_OF_ART
+日 I-WORK_OF_ART
+本 I-WORK_OF_ART
+紀 I-WORK_OF_ART
 。 O
 
 
