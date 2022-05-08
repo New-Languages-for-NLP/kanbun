@@ -979,9 +979,9 @@
 仙 I-OTH
 傳 I-OTH
 、 O
-拾 B-null
-芥 I-null
-鈔 I-null
+拾 O
+芥 O
+鈔 O
 、 O
 尊 B-OTH
 卑 I-OTH
@@ -2444,10 +2444,10 @@
 物 I-OTH
 語 I-OTH
 、 O
-賀 B-null
-茂 I-null
-系 I-null
-圖 I-null
+賀 O
+茂 O
+系 O
+圖 O
 。 O
 】 O
 
@@ -5753,4 +5753,3 @@
 記 I-OTH
 。 O
 】 O
-
