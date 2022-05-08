@@ -42,8 +42,8 @@
 ， O
 
 【 O
-分 B-OTHpart
-脈 I-OTHpart
+分 B-OTH
+脈 I-OTH
 左 O
 作 O
 右 O
@@ -1186,8 +1186,8 @@
 ， O
 大 O
 宴 O
-公 B-OTHpart
-卿 I-OTHpart
+公 B-OTH
+卿 I-OTH
 以 O
 下 O
 。 O
@@ -1473,8 +1473,8 @@
 任 I-OTH
 。 O
 ○ O
-紀 B-OTHpart
-略 I-OTHpart
+紀 B-OTH
+略 I-OTH
 一 O
 百 O
 為 O
@@ -1682,9 +1682,9 @@
 【 O
 榮 B-OTH
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -2105,9 +2105,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -2293,9 +2293,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -2613,9 +2613,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -3104,9 +3104,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 】 O
 心 O
@@ -3580,9 +3580,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -3678,9 +3678,9 @@
 【 O
 榮 B-OTH
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -4454,9 +4454,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -4930,8 +4930,8 @@
 輔 O
 ， O
 【 O
-分 B-OTHpart
-脈 I-OTHpart
+分 B-OTH
+脈 I-OTH
 作 O
 大 O
 輔 O
@@ -4949,9 +4949,9 @@
 【 O
 日 O
 
-本 B-OTHpart
-紀 I-OTHpart
-略 I-OTHpart
+本 B-OTH
+紀 I-OTH
+略 I-OTH
 、 O
 尊 B-OTH
 卑 I-OTH

@@ -546,9 +546,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 、 O
 
 愚 B-OTH
@@ -740,9 +740,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -2242,9 +2242,9 @@
 【 O
 日 O
 
-本 B-OTHpart
-紀 I-OTHpart
-略 I-OTHpart
+本 B-OTH
+紀 I-OTH
+略 I-OTH
 。 O
 】 O
 初 O
@@ -2313,9 +2313,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -2831,9 +2831,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -3162,9 +3162,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -3608,9 +3608,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -3631,9 +3631,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 、 O
 
 今 B-OTH
@@ -3889,9 +3889,8 @@
 鏡 I-OTH
 、 O
 愚 B-OTH
-
-管 B-OTHpart
-抄 I-OTHpart
+管 I-OTH
+抄 I-OTH
 。 O
 】 O
 驕 O
@@ -3918,9 +3917,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
@@ -5696,10 +5695,10 @@
 和 O
 寺 O
 
-書 B-OTHpart
-籍 I-OTHpart
-目 I-OTHpart
-錄 I-OTHpart
+書 B-OTH
+籍 I-OTH
+目 I-OTH
+錄 I-OTH
 。 O
 
 】 O
@@ -5801,9 +5800,9 @@
 【 O
 榮 O
 
-華 B-OTHpart
-物 I-OTHpart
-語 I-OTHpart
+華 B-OTH
+物 I-OTH
+語 I-OTH
 。 O
 
 】 O
