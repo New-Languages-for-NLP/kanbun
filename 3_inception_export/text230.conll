@@ -3454,11 +3454,11 @@
 物 I-OTH
 語 I-OTH
 、 O
-源 B-ORGpart
-平 I-ORGpart
-盛 I-ORGpart
-衰 I-ORGpart
-記 I-ORGpart
+源 B-ORG
+平 I-ORG
+盛 I-ORG
+衰 I-ORG
+記 I-ORG
 。 O
 】 O
 
@@ -12010,4 +12010,3 @@
 記 I-OTH
 。 O
 】 O
-

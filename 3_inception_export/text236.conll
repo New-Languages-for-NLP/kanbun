@@ -5620,9 +5620,9 @@
 」 O
 【 O
 
-日 B-ORGpart
-本 I-ORGpart
-紀 I-ORGpart
+日 B-ORG
+本 I-ORG
+紀 I-ORG
 。 O
 】 O
 
@@ -5807,8 +5807,8 @@
 進 O
 ， O
 據 O
-本 B-ORGpart
-書 I-ORGpart
+本 B-ORG
+書 I-ORG
 下 O
 文 O
 改 O
@@ -7495,4 +7495,3 @@
 紀 I-OTH
 。 O
 】 O
-

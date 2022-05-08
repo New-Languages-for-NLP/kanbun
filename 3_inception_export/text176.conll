@@ -39,11 +39,11 @@
 
 ○ O
 按 O
-建 B-ORGpart
-武 I-ORGpart
-二 I-ORGpart
-年 I-ORGpart
-記 I-ORGpart
+建 B-ORG
+武 I-ORG
+二 I-ORG
+年 I-ORG
+記 I-ORG
 ， O
 武 O
 者 O
@@ -1907,9 +1907,9 @@
 。 O
 【 O
 
-太 B-ORGpart
-平 I-ORGpart
-記 I-ORGpart
+太 B-ORG
+平 I-ORG
+記 I-ORG
 。 O
 】 O
 
@@ -5286,4 +5286,3 @@
 圖 I-OTH
 。 O
 】 O
-
