@@ -68,6 +68,7 @@ commands:
   - name: convert
     help: "Convert the data to spaCy's format"
     script: 
+      - "rm -rf corpus/converted/*.spacy"
       - "python scripts/convert.py assets/${vars.treebank}/3_inception_export assets/${vars.treebank}/0_original_texts ${vars.n_sents}"
     deps:
       - "assets/${vars.treebank}/3_inception_export"
