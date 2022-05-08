@@ -4807,8 +4807,8 @@
 籍 O
 。 O
 按 O
-俊 B-PERpart
-家 I-PERpart
+俊 B-PERSON
+家 I-PERSON
 
 此 O
 時 O
@@ -7664,11 +7664,10 @@
 藏 O
 人 B-PERSON
 頭 O
-藤 B-PERpart
-原 I-PERpart
-
-資 B-PERpart
-仲 I-PERpart
+藤 B-PERSON
+原 I-PERSON
+資 I-PERSON
+仲 I-PERSON
 在 O
 側 O
 曰 O

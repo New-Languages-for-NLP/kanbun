@@ -1809,8 +1809,8 @@
 笛 O
 ， O
 
-宗 B-PERpart
-忠 I-PERpart
+宗 B-PERSON
+忠 I-PERSON
 進 O
 奏 O
 ， O
@@ -1821,8 +1821,8 @@
 聞 O
 。 O
 
-宗 B-PERpart
-忠 I-PERpart
+宗 B-PERSON
+忠 I-PERSON
 承 O
 間 O
 復 O
@@ -2011,8 +2011,8 @@
 。 O
 
 」 O
-宗 B-PERpart
-忠 I-PERpart
+宗 B-PERSON
+忠 I-PERSON
 反 O
 命 O
 ， O
@@ -2065,8 +2065,8 @@
 欲 O
 以 O
 家 O
-忠 B-PERpart
-代 I-PERpart
+忠 B-PERSON
+代 I-PERSON
 之 O
 ， O
 與 O
@@ -2149,8 +2149,8 @@
 。 O
 」 O
 
-顯 B-PERpart
-隆 I-PERpart
+顯 B-PERSON
+隆 I-PERSON
 以 O
 是 O
 譖 O
@@ -2440,8 +2440,8 @@
 內 B-PERSON
 大 I-PERSON
 臣 I-PERSON
-藤 B-PERpart
-原 I-PERpart
+藤 I-PERSON
+原 I-PERSON
 實 O
 能 O
 ， O
@@ -4870,8 +4870,8 @@
 實 O
 、 O
 
-顯 B-PERpart
-仲 I-PERpart
+顯 B-PERSON
+仲 I-PERSON
 、 O
 雅 O
 俊 O
@@ -4976,8 +4976,8 @@
 集 I-OTH
 。 O
 
-顯 B-PERpart
-仲 I-PERpart
+顯 B-PERSON
+仲 I-PERSON
 心 O
 不 O
 然 O

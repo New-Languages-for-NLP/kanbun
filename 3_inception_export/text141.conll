@@ -3946,9 +3946,9 @@
 何 O
 得 O
 及 O
-人 B-PERpart
-麻 I-PERpart
-呂 I-PERpart
+人 B-PERSON
+麻 I-PERSON
+呂 I-PERSON
 ？ O
 」 O
 公 O
@@ -6074,8 +6074,8 @@
 祖 O
 源 O
 
-保 B-PERpart
-光 I-PERpart
+保 B-PERSON
+光 I-PERSON
 舊 O
 宅 O
 ， O

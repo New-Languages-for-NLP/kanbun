@@ -1036,10 +1036,9 @@
 
 今 O
 據 O
-三 B-OTHpart
-代 I-OTHpart
-
-實 B-OTH
+三 B-OTH
+代 I-OTH
+實 I-OTH
 錄 I-OTH
 訂 O
 之 O
@@ -4147,8 +4146,8 @@
 計 O
 志 O
 
-麻 B-PERpart
-呂 I-PERpart
+麻 B-PERSON
+呂 I-PERSON
 ， O
 初 O
 鹽 O
