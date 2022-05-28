@@ -137,5 +137,6 @@ newlang_project/lang/
 newlang_project/training/
 newlang_project/output/
 newlang_project/metrics/
+newlang_project/packages/
 newlang_project/corpus/converted/
 newlang_project/project.lock
