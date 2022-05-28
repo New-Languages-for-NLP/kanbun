@@ -37,7 +37,6 @@
 得 O
 護 O
 良 O
- O
 親 O
 王 O
 令 O
@@ -278,9 +277,9 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 】 O
 
@@ -580,9 +579,9 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 】 O
 
@@ -597,10 +596,10 @@
 友 O
 名 O
 據 O
-金 B-OTH
-勝 I-OTH
-院 I-OTH
-本 I-OTH
+金 B-WORK_OF_ART
+勝 I-WORK_OF_ART
+院 I-WORK_OF_ART
+本 I-WORK_OF_ART
 。 O
 
 ○ O
@@ -690,10 +689,10 @@
 天 O
 王 O
 據 O
-天 B-OTH
-正 I-OTH
-異 I-OTH
-本 I-OTH
+天 B-WORK_OF_ART
+正 I-WORK_OF_ART
+異 I-WORK_OF_ART
+本 I-WORK_OF_ART
 。 O
 】 O
 
@@ -1007,10 +1006,10 @@
 富 O
 名 O
 據 O
-金 B-OTH
-勝 I-OTH
-院 I-OTH
-本 I-OTH
+金 B-WORK_OF_ART
+勝 I-WORK_OF_ART
+院 I-WORK_OF_ART
+本 I-WORK_OF_ART
 。 O
 】 O
 
@@ -1506,9 +1505,9 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 】 O
 
@@ -1964,9 +1963,9 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 】 O
 
@@ -2072,10 +2071,10 @@
 。 O
 【 O
 
-吉 B-OTH
-野 I-OTH
-拾 I-OTH
-遺 I-OTH
+吉 B-WORK_OF_ART
+野 I-WORK_OF_ART
+拾 I-WORK_OF_ART
+遺 I-WORK_OF_ART
 。 O
 】 O
 
@@ -2248,10 +2247,10 @@
 文 O
 名 O
 據 O
-金 B-OTH
-勝 I-OTH
-院 I-OTH
-本 I-OTH
+金 B-WORK_OF_ART
+勝 I-WORK_OF_ART
+院 I-WORK_OF_ART
+本 I-WORK_OF_ART
 。 O
 】 O
 
@@ -2317,9 +2316,9 @@
 歷 O
 年 O
 據 O
-天 B-OTH
-正 I-OTH
-本 I-OTH
+天 B-WORK_OF_ART
+正 I-WORK_OF_ART
+本 I-WORK_OF_ART
 。 O
 】 O
 
@@ -2561,9 +2560,9 @@
 賴 O
 名 O
 據 O
-南 B-OTH
-都 I-OTH
-本 I-OTH
+南 B-WORK_OF_ART
+都 I-WORK_OF_ART
+本 I-WORK_OF_ART
 。 O
 】 O
 
@@ -3172,9 +3171,9 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 】 O
 
@@ -3189,10 +3188,10 @@
 滋 O
 名 O
 據 O
-金 B-OTH
-勝 I-OTH
-院 I-OTH
-本 I-OTH
+金 B-WORK_OF_ART
+勝 I-WORK_OF_ART
+院 I-WORK_OF_ART
+本 I-WORK_OF_ART
 。 O
 】 O
 
@@ -3419,10 +3418,10 @@
 勝 O
 名 O
 據 O
-金 B-OTH
-勝 I-OTH
-院 I-OTH
-本 I-OTH
+金 B-WORK_OF_ART
+勝 I-WORK_OF_ART
+院 I-WORK_OF_ART
+本 I-WORK_OF_ART
 。 O
 】 O
 
@@ -3471,8 +3470,8 @@
 【 O
 
 ○ O
-本 B-OTH
-書 I-OTH
+本 B-WORK_OF_ART
+書 I-WORK_OF_ART
 書 O
 由 O
 良 O
@@ -3488,10 +3487,10 @@
 名 O
 。 O
 
-金 B-OTH
-勝 I-OTH
-院 I-OTH
-本 I-OTH
+金 B-WORK_OF_ART
+勝 I-WORK_OF_ART
+院 I-WORK_OF_ART
+本 I-WORK_OF_ART
 為 O
 具 O
 滋 O
@@ -3711,9 +3710,9 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 】 O
 
@@ -3813,10 +3812,10 @@
 。 O
 【 O
 
-鳥 B-OTH
-居 I-OTH
-系 I-OTH
-圖 I-OTH
+鳥 B-WORK_OF_ART
+居 I-WORK_OF_ART
+系 I-WORK_OF_ART
+圖 I-WORK_OF_ART
 。 O
 】 O
 
@@ -3932,9 +3931,9 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 】 O
 
@@ -3961,10 +3960,10 @@
 。 O
 【 O
 
-鳥 B-OTH
-居 I-OTH
-系 I-OTH
-圖 I-OTH
+鳥 B-WORK_OF_ART
+居 I-WORK_OF_ART
+系 I-WORK_OF_ART
+圖 I-WORK_OF_ART
 。 O
 】 O
 
@@ -4282,16 +4281,16 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 
 ○ O
-金 B-OTH
-勝 I-OTH
-院 I-OTH
-本 I-OTH
+金 B-WORK_OF_ART
+勝 I-WORK_OF_ART
+院 I-WORK_OF_ART
+本 I-WORK_OF_ART
 ， O
 以 O
 授 O
@@ -4346,9 +4345,9 @@
 諸 O
 異 O
 本 O
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 作 O
 深 O
 琳 O
@@ -5661,9 +5660,9 @@
 。 O
 【 O
 
-太 B-OTH
-平 I-OTH
-記 I-OTH
+太 B-WORK_OF_ART
+平 I-WORK_OF_ART
+記 I-WORK_OF_ART
 。 O
 】 O
 
@@ -5675,4 +5674,3 @@
 所 O
 終 O
 。 O
-
