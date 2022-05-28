@@ -1,8 +1,8 @@
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
 
-# 🪐 spaCy Project: Train new language model from cadet and inception data
+# 🪐 spaCy Project: Named Entity Recognition in the Dai Nihon Shi
 
-This project template lets you train a part-of-speech tagger, morphologizer and dependency parser from your cadet and inception data.
+This project trains a named entity recognizer on annotated text from the [_Dai Nihon Shi_](https://en.wikipedia.org/wiki/Dai_Nihonshi), a major scholarly work of Edo-period Japan.
 
 ## 📋 project.yml
 
@@ -19,10 +19,12 @@ Commands are only re-run if their inputs have changed.
 | Command | Description |
 | --- | --- |
 | `install` | Install the new language object from Cadet |
+| `check-conll` | Look for errors in CoNLL-2002 files |
 | `convert` | Convert the data to spaCy's format |
 | `split` | Split the data into train, validation, and test |
 | `debug` | Assess data for training using spaCy's debug data |
-| `train` | Train urban-giggle |
+| `pretrain` | Pretrain kanbun |
+| `train` | Train kanbun |
 | `evaluate` | Evaluate on the test data and save the metrics |
 | `package` | Package the trained model so it can be installed |
 | `document` | Generate project documentation |
@@ -36,7 +38,8 @@ inputs have changed.
 
 | Workflow | Steps |
 | --- | --- |
-| `all` | `install` &rarr; `convert` &rarr; `split` &rarr; `debug` &rarr; `train` &rarr; `evaluate` &rarr; `package` &rarr; `document` |
+| `all` | `install` &rarr; `check-conll` &rarr; `convert` &rarr; `split` &rarr; `debug` &rarr; `pretrain` &rarr; `train` &rarr; `evaluate` &rarr; `package` &rarr; `document` |
+| `tune` | `train` &rarr; `evaluate` |
 
 ### 🗂 Assets
 
@@ -46,6 +49,6 @@ in the project directory.
 
 | File | Source | Description |
 | --- | --- | --- |
-| `assets/urban-giggle` | Git |  |
+| `assets/kanbun` | Git |  |
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
